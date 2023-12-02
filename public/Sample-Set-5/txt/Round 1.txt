@@ -1,0 +1,1708 @@
+Round 1
+ 
+Page
+ 
+1
+
+ROUND 1
+
+TOSS
+-
+UP
+
+1)
+ 
+CHEMISTRY
+ 
+Short Answer
+ 
+When chemists do flame tests, they often view the flame
+
+through a colored transparent piece of glass to filter out any sodium contamination. What color
+
+glass do they use?
+
+ANSWER: COBALT BLUE
+ 
+(ACCEPT: BLUE
+, COBALT
+)
+
+BONUS
+
+1)
+ 
+CHEMISTRY
+ 
+Short Answer
+ 
+Specifying
+ 
+the sign, w
+hat is the oxidation state of
+ 
+phosphorus
+ 
+in
+
+Na
+ 
+2
+ 
+P
+ 
+2
+ 
+O
+ 
+6
+ 
+?
+
+ANSWER:
+ 
++5 (
+DO NOT
+ 
+ACCEPT: 5)
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+2) MATH
+ 
+Short Answer
+ 
+What is
+ 
+magnitude of the
+ 
+phase shift of the function
+ 
+y
+ 
+= sin
+x
+ 
+to
+
+y
+ 
+=
+ 
+2
+sin(3
+x
+ 
+–
+ 
+π
+)
+ 
+–
+ 
+4
+ 
+(read as: 2
+ 
+sine of open parenthesis 3
+x
+ 
+mi
+nus pi close parenthesis minus
+
+4
+)?
+
+ANSWER:
+ 
+π
+/3
+
+BONUS
+
+2) MATH
+ 
+Short Answer
+ 
+An isosceles triangle has a base
+ 
+of
+ 
+30 feet and height
+ 
+of
+ 
+15 feet.
+ 
+In
+
+feet, h
+ow
+ 
+far
+ 
+apart
+ 
+are the legs 10 feet above the base?
+
+ANSWER: 10
+Round 1
+ 
+Page
+ 
+2
+
+TOSS
+-
+UP
+
+3
+) PHYSICS
+ 
+Multiple Choice
+ 
+A charged particle moves through an area of space at
+ 
+a
+ 
+constant
+
+speed
+ 
+and direction. Which of the following statement
+s
+ 
+is
+ 
+TRUE?
+
+W) There is no magnetic field
+
+X) There could be magnetic and electric fields oriented in the same direction
+
+Y) There could be magnetic and electric fields oriented perpendicularly to one another
+
+Z)
+ 
+There could be magnetic and electric fields oriented opposite to one another
+
+ANSWER: Y)
+ 
+THERE COULD BE MAGNE
+TIC AND ELECTRIC FIE
+LDS ORIENTED
+
+PERPENDICULARLY TO O
+NE ANOTHER
+
+BONUS
+
+3
+)
+ 
+PHYSICS
+ 
+Short Answer
+ 
+A household appliance runs on 120 volts and
+ 
+has an internal
+
+resistance of 100 ohms. Providing your answer to the nearest integer, how much power
+,
+ 
+in
+
+watts
+,
+ 
+does this appliance use
+?
+
+ANSWER: 144
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+4
+) BIOLOGY
+ 
+Short Answer
+ 
+What is the
+ 
+name of the hormone that controls metamorphosis in
+
+amphibians?
+
+ANSWER: THYROXINE
+ 
+(ACCEPT: T4)
+
+BONUS
+
+4
+) BIOLOGY
+ 
+Short Answer
+ 
+In glycolysis
+ 
+(read as:
+ 
+gly
+-
+KOH
+-
+li
+-
+sis
+)
+, what is the net yield of ATP
+
+molecules generated per glucose molecule?
+
+ANSWER: 2
+Round 1
+ 
+Page
+ 
+3
+
+TOSS
+-
+UP
+
+5) CHEMI
+STRY
+ 
+Short Answer
+ 
+What element has the lowest boiling point?
+
+ANSWER: HELIUM
+
+BONUS
+
+5
+) CHEMISTRY
+ 
+Multiple Choice
+ 
+Which of the following bonds is the MOST polar?
+
+W)
+ 
+B
+-
+C
+
+X)
+ 
+B
+-
+N
+
+Y)
+ 
+B
+-
+O
+
+Z)
+ 
+B
+-
+F
+
+ANSWER:
+ 
+Z) B
+-
+F
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+6
+) PHYSICS
+ 
+Multiple Choice
+ 
+Which of the following is
+ 
+TRUE
+ 
+of beta particles?
+
+W) They have a charge equal and opposite to alpha particles
+
+X) T
+hey are more penetrating than
+ 
+gamma particle
+s
+ 
+of the same energy
+
+Y) They are common decay products of alpha particles
+
+Z) They can be electrons or positrons
+
+ANSWER:
+ 
+Z) THEY CAN BE ELECT
+RONS OR POSITRONS
+
+BONUS
+
+6
+) PHYSICS
+ 
+Short Answer
+ 
+The resistance of a certain wire is 10 ohms. What would be the
+
+resistance in ohms
+ 
+i
+f
+ 
+the
+ 
+radius of the
+ 
+wire
+ 
+w
+ere doubled
+?
+
+ANSWER: 2.5
+Round 1
+ 
+Page
+ 
+4
+
+TOSS
+-
+UP
+
+7
+) EARTH AND SPACE
+ 
+Multiple Choice
+ 
+America’s first satellite, Explorer I, had all of the
+
+following technology aboard,
+ 
+EXCEPT:
+
+W)
+ 
+Internal and external temperature
+ 
+sensors
+
+X) Data transmitting antennas
+
+Y) Solar panels
+
+Z) Micrometeori
+te
+ 
+impact microphone
+
+ANSWER: Y) SOLAR PA
+NELS
+
+BONUS
+
+7
+) EARTH AND SPACE
+ 
+Short Answer
+ 
+Lightning is most likely to occur at what time of day:
+
+morning, afternoon, evening, or night?
+
+ANSWER: AFTERNOON
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+8) PHYSICS
+ 
+Short Answer
+ 
+Given g as 10 meters per second squared, if a ball is tossed
+
+upward at an initial velocity of 20 meters per second, what will be its velocity
+ 
+in meters per
+
+second at 2.5 seconds?
+
+ANSWER:
+ 
+-
+5
+ 
+(
+ACCEPT: 5 DOWN;
+ 
+DO NOT ACCEPT: 5)
+
+BONUS
+
+8) PHYSICS
+ 
+Short Answer
+ 
+The frequency of light from a laser radiation source is 6 X
+ 
+10
+ 
+14
+
+hertz. Using 3
+ 
+X
+ 
+10
+ 
+8
+ 
+meters per second as the speed of light, what is
+ 
+the wavelength of this light
+
+in nanometers?
+
+ANSWER: 500
+Round 1
+ 
+Page
+ 
+5
+
+TOSS
+-
+UP
+
+9
+) ENERGY
+ 
+Multiple Choice
+ 
+In terms of energy, which of the following happens after a
+
+skydiver reaches terminal velocity?
+
+W) Kinetic energy increases exponentially with
+ 
+distance
+
+X) Gravitational potential energy ceases to be present
+
+Y) Gravitational potential energy is converted into thermal energy
+
+Z) Kinetic energy increases linearly with distance
+
+ANSWER: Y)
+ 
+GRAVITATIONAL POTENT
+IAL ENERGY IS CONVER
+TED INTO THERMAL
+
+ENER
+GY
+
+BONUS
+
+9
+) ENERGY
+ 
+Short Answer
+ 
+Non
+-
+hydraulic elevators typically use very small motors and block
+
+and tackle pulleys. What system component helps reduce the amount of the car’s weight that
+
+the motor has to lift?
+
+ANSWER:
+ 
+COUNTERBALANCE (ACCEPT:
+ 
+COUNTERWEIGHT)
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+10) MATH
+ 
+Short Answer
+ 
+If
+ 
+f
+(
+x
+) =
+ 
+x
+ 
+2
+ 
+–
+ 
+3 and
+ 
+g
+(
+x
+) = 6
+ 
+−
+ 
+x
+,
+ 
+what is the value of
+ 
+f
+(
+g
+(16)) (read as:
+
+f
+ 
+of
+ 
+g
+ 
+of 16)?
+
+ANSWER: 1
+
+BONUS
+
+10) MATH
+ 
+Short Answer
+ 
+According to
+ 
+Descartes’
+s
+ 
+Rule of Signs, what are the possible
+
+numbers of positive real roots that the following equation might have:
+ 
+x
+ 
+5
+ 
+–
+ 
+7
+x
+ 
+3
+ 
++ 15
+x
+ 
+2
+ 
++ 3 = 10?
+
+ANSWER: 1
+ 
+OR
+ 
+3 (
+MUST GIVE BOTH ANSWE
+RS)
+Round 1
+ 
+Page
+ 
+6
+
+TOSS
+-
+UP
+
+1
+1
+) EARTH AND SPACE
+ 
+Multiple Choice
+ 
+Which of the following will NOT result from variations
+
+in the
+ 
+M
+oon’s orbital plane
+ 
+with respect to the Earth
+?
+
+W)
+ 
+The
+ 
+M
+oon will continue to cause s
+olar eclipses
+
+X)
+ 
+The
+ 
+M
+oon
+ 
+will pass over
+ 
+the
+ 
+Earth’s North Pole
+
+Y)
+ 
+There will continue to be l
+unar eclipses
+
+Z)
+ 
+The apparent path of the
+ 
+M
+oon in the sky will v
+ary
+
+ANSWER:
+ 
+X)
+ 
+THE MOON WILL PASS O
+VER
+ 
+THE
+ 
+EARTH’S NORTH POLE
+
+BONUS
+
+1
+1
+) EARTH AND SPACE
+ 
+Multiple Choice
+ 
+What is the approximate average impact speed
+,
+ 
+in
+
+miles per hour
+,
+ 
+of a piece of orbital debris that
+ 
+strikes
+ 
+the Earth?
+
+W) 5,000
+
+X) 10,000
+
+Y) 20,000
+
+Z) 30,000
+
+ANSWER:
+ 
+Y) 20,000
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+1
+2) PHYSICS
+ 
+Short Answer
+ 
+Applying Bernoulli's principle to vortices,
+ 
+where in a vortex should
+
+the pressure be highest?
+
+ANSWER: CENTER (ACCEPT: MIDDLE)
+
+BONUS
+
+1
+2) PHYSICS
+ 
+Short Answer
+ 
+Providing your answer as a decimal rounded to the nearest tenth,
+
+if
+ 
+a
+ 
+normal
+ 
+force of 1
+ 
+newton is applied to the end of a
+ 
+fixed
+ 
+cylinder with a radius of 1 meter,
+
+what
+ 
+pressure
+,
+ 
+in pascals
+,
+ 
+is induced in the cylinder?
+
+ANSWER:
+ 
+0.3
+Round 1
+ 
+Page
+ 
+7
+
+TOSS
+-
+UP
+
+1
+3
+) EARTH AND SPACE
+ 
+Short Answer
+ 
+In the atmosphere,
+ 
+what ion is formed by the
+ 
+oxidation
+
+of sulfur oxides?
+
+ANSWER: SULFATE (ACCEPT: SO
+ 
+4
+2
+-
+ 
+)
+
+BONUS
+
+1
+3
+) EARTH AND SPACE
+ 
+Short Answer
+ 
+What do we call the transfer of a property of the
+
+atmosphere, such as heat, cold, or humidity, by the horizontal movement of an air mass?
+
+ANSWER: ADVECTION
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+14) ENERGY
+ 
+Multiple Choice
+ 
+Absorption refrigeration is commonly used in co
+-
+generation
+
+facilities. It differs from traditional compressor refrigeration by which of the following key
+
+characteristics?
+
+W) Size
+
+X) It is heat
+-
+sourced
+
+Y) It is electrically
+-
+sourced
+
+Z) Temperature
+
+ANSWER: X) IT IS
+ 
+HEAT
+-
+SOURCED
+
+BONUS
+
+14
+) ENERGY
+ 
+Short Answer
+ 
+By name or number, o
+rder the following
+ 
+four
+ 
+fuels from least to
+
+greatest
+ 
+amount of carbon dioxide produced annually from
+ 
+stationary combustion
+ 
+in the United
+
+States
+:
+ 
+1)
+ 
+wood,
+ 
+2)
+ 
+coal,
+ 
+3)
+ 
+natural gas,
+ 
+4)
+ 
+kerosene.
+
+ANSWER: NATURAL GAS, KEROSENE, WOOD, COAL
+ 
+(ACCEPT: 3, 4, 1, 2)
+Round 1
+ 
+Page
+ 
+8
+
+TOSS
+-
+UP
+
+1
+5
+) BIOLOGY
+ 
+Multiple Choice
+ 
+Members of the order Gymnophiona
+ 
+(read as:
+ 
+jim
+-
+noh
+-
+FYOH
+-
+
+nah
+)
+, otherwise known as Caecilians
+ 
+(read as:
+ 
+si
+-
+SIL
+-
+yahns
+)
+, do NOT have which of the
+
+following
+?
+
+W) Poison glands
+
+X)
+ 
+Teeth
+
+Y)
+ 
+Elongated organs
+
+Z)
+ 
+Legs
+
+ANSWER:
+ 
+Z
+)
+ 
+LEGS
+
+BONUS
+
+1
+5
+) BIOLOGY
+ 
+Short Answer
+ 
+What group of hormones is responsible for both phototropism and
+
+gravitropism?
+
+ANSWER: AUXINS
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+16
+)
+ 
+MATH
+ 
+Short Answer
+ 
+What is the
+ 
+measure
+ 
+in radians
+ 
+of an
+ 
+inter
+ior
+ 
+angle
+ 
+of
+ 
+a regular
+
+pentagon
+?
+
+ANSWER:
+ 
+3
+π
+/5
+
+BONUS
+
+16
+) MATH
+ 
+Multiple Choice
+ 
+Suppose, in a certain part of the world, in any 50
+-
+year period, the
+
+probability of a major plague is 39%, the probability of a major famine is 52%
+,
+ 
+and the
+
+probability of both a plague and a famine is 15%. Given that there is a plague, which of the
+
+following is the probability of a famine?
+
+W) 0.240
+
+X) 0.288
+
+Y) 0.370
+
+Z) 0.385
+
+ANSWER: Z) 0.385
+Round 1
+ 
+Page
+ 
+9
+
+TOSS
+-
+UP
+
+1
+7
+) BIOLOGY
+ 
+Short Answer
+ 
+Submandibular, parotid
+,
+ 
+and lingual are adjectives referring to
+
+which type of gland?
+
+ANSWER: SALIVARY
+
+BONUS
+
+1
+7
+) BIOLOGY
+ 
+Short Answer
+ 
+By name or number, identify
+ 
+all
+ 
+of the following
+ 
+five
+ 
+events
+ 
+that
+
+could
+ 
+trigger secondary succession: 1) forest fire, 2) hurricane, 3) lava flow, 4) flood, 5) tsunami.
+
+ANSWER: FOREST FIRE, HURRICANE, FLOOD
+,
+ 
+AND TSUNAMI (ACCEPT: 1, 2, 4, AND 5
+
+OR
+ 
+ALL BUT 3
+)
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+1
+8
+) ENERGY
+ 
+Multiple Choice
+ 
+Which of the following BEST
+ 
+describes
+ 
+the process of
+ 
+coal
+
+liquefaction?
+
+W) It
+ 
+convert
+s
+ 
+coal into synthetic fuels
+
+X) It
+ 
+reduce
+s
+ 
+carbon dioxide emissions in coal plants
+
+Y) It remove
+s
+ 
+sulfur from coal in coal plants
+
+Z) It
+ 
+convert
+s
+ 
+coal into an easily transportable form
+
+ANSWER:
+ 
+W
+)
+ 
+IT CONVERT
+S
+ 
+COAL INTO SYNTHETIC
+ 
+FUELS
+
+BONUS
+
+18
+) ENERGY
+ 
+Multiple Choice
+ 
+Which of the following is a disadvantage of flexible fuel vehicles?
+
+W)
+ 
+They get about 25% fewer miles per gallon when
+ 
+fueled with E85
+
+X) They experience significant loss in power when operating on E85
+
+Y)
+ 
+They are very different than gasoline
+-
+only models
+
+Z) The technology is untested
+
+ANSWER:
+ 
+W
+)
+ 
+THEY GET ABOUT 25% F
+EWER MILES PER GALLO
+N WHEN FUELED WITH
+
+E85
+Round 1
+ 
+Page
+ 
+10
+
+TOSS
+-
+UP
+
+1
+9
+) PHYSICS
+ 
+Multiple Choice
+ 
+An elephant steps on an electrical extension cord that is
+
+connected to a lit lamp. Assuming that the lamp remains plugged in
+ 
+and the cord unbroken
+,
+
+which of the following happens to the light intensity coming from the lamp?
+
+W
+) It goes out
+
+X) It
+ 
+become
+s dimmer
+
+Y) It
+ 
+become
+s brighter
+
+Z) It is unchanged
+
+ANSWER:
+ 
+Z)
+ 
+IT IS UNCHANGED
+
+BONUS
+
+1
+9
+) PHYSICS
+ 
+Short Answer
+ 
+If a fuse can dissipate 600 watts of power without blowing, how
+
+much current
+,
+ 
+in amperes
+,
+ 
+can it pass at 120 volts without melting?
+
+ANSWER: 5
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+2
+0
+) BIOLOGY
+ 
+Multiple Choice
+ 
+Which of the following BEST explains why water molds are
+
+NOT classified as fungi?
+
+W)
+ 
+Th
+ey have cell wal
+ls of cellulose
+ 
+and produce motile spores
+
+X) They are decomposers
+
+Y)
+ 
+They are multinucleate
+
+Z) They have cell walls of chitin
+ 
+(read as:
+ 
+KY
+-
+tin
+)
+ 
+and when aggregated function like a
+
+multicellular organism
+
+ANSWER:
+ 
+W
+)
+ 
+TH
+EY HAVE CELL WALLS O
+F CELLULOSE
+ 
+AND PRODUCE MOTILE
+
+SPORES
+
+BONUS
+
+2
+0
+) BIOLOGY
+ 
+Short Answer
+ 
+B
+y name or number, identify all
+ 
+of the following
+ 
+five choices that
+
+are considered embryophyt
+a
+ 
+(read as:
+ 
+ehm
+-
+bree
+-
+ah
+-
+FY
+-
+tah
+)
+: 1) gymnosperms
+ 
+(read as:
+ 
+JIM
+-
+
+noh
+-
+spehrms
+)
+,
+ 
+2)
+ 
+diatoms
+, 3) mosses, 4)
+ 
+dinoflagellates
+, 5) ferns
+.
+
+ANSWER: GYNOSPERMS, MOSSES, FERNS (ACCEPT: 1, 3, AND 5)
+Round 1
+ 
+Page
+ 
+11
+
+TOSS
+-
+UP
+
+21
+) MATH
+ 
+Short Answer
+ 
+If the median of the five numbers 1, 7, 14, 28, and
+ 
+x
+ 
+is 10, what is
+ 
+x
+?
+
+ANSWER:
+ 
+10
+
+BONUS
+
+2
+1) MATH
+ 
+Short Answer
+ 
+To what value does the
+ 
+geometric
+ 
+series that starts 1/3
+ 
++
+ 
+1/9
+ 
++
+ 
+1/27 +
+
+... converge?
+
+ANSWER:
+ 
+1/2
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+2
+2
+) CHEMISTRY
+ 
+Multiple Choice
+ 
+W
+hich of the following substances has the high
+est boiling
+
+point?
+
+W)
+ 
+Water
+
+X) Methanol
+
+Y)
+ 
+Ethyl alcohol
+
+Z) Diethyl ether
+
+ANSWER:
+ 
+W
+)
+ 
+WATER
+
+BONUS
+
+2
+2
+) CHEMISTRY
+ 
+Short Answer
+ 
+The pressure of 2 moles of
+ 
+an
+ 
+ideal gas at
+ 
+27
+° Celsius is 1.2
+
+atmospheres.
+ 
+Providing your an
+swer to the nearest tenth
+, i
+f the temperature is increased by
+
+100° Celsius
+ 
+and the volume of the gas doubles
+, what is the new pressure of the gas in
+
+atmospheres?
+
+ANSWER:
+ 
+0.8
+Round 1
+ 
+Page
+ 
+12
+
+TOSS
+-
+UP
+
+23
+) EARTH AND SPACE
+ 
+Short Answer
+ 
+What geologic
+ 
+features of Io are responsible
+ 
+for
+
+loading Jupiter’s atmosphere with heavy ionized particles?
+
+ANSWER: VOLCANOES
+
+BONUS
+
+23
+) EARTH AND SPACE
+ 
+Short Answer
+ 
+On Mars, how do the ages of the higher elevation and
+
+heavily cratered southern highlands compare to the ages of the lower elevation a
+nd flat northern
+
+lowlands?
+
+ANSWER: SOUTHERN HIGHLANDS ARE OLDER (ACCEPT: NORTHERN LOWLANDS ARE
+
+YOUNGER)
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+2
+4
+) CHEMISTRY
+ 
+Short Answer
+ 
+What is the common name given to the industrial
+ 
+reaction in
+
+which nitrogen and hydrogen are reacted with a catalyst, forming ammonia?
+
+ANSWER: HABER PROCESS
+
+BONUS
+
+2
+4
+) CHEMISTRY
+ 
+Short Answer
+ 
+What is the molecular formula for strontium nitrite?
+
+ANSWER:
+ 
+Sr(NO
+ 
+2
+ 
+)
+ 
+2
+Round 1
+ 
+Page
+ 
+13
+
+TOSS
+-
+UP
+
+2
+5
+) BIOLOGY
+ 
+Multiple
+ 
+Choice
+ 
+The drug Digoxin from the
+ 
+Digitalis
+ 
+plant slows the reuptake of
+
+calcium by the sarcoplasmic reticulum
+ 
+(read as:
+ 
+ri
+-
+TI
+-
+ky
+uh
+-
+luhm
+)
+. What is the effect of this on
+
+the strength and rate of heart contractions?
+
+W) Strengthens and slows the heartbeat
+
+X)
+ 
+Strengthens and
+ 
+speeds
+ 
+the heartbeat
+
+Y) Weakens and slows the heartbeat
+
+Z) Weakens and
+ 
+speeds
+ 
+the heartbeat
+
+ANSWER: W)
+ 
+STRENGTHENS AND SLOW
+S THE HEARTBEAT
+
+BONUS
+
+2
+5
+) BIOLOGY
+ 
+Short Answer
+ 
+In eudicots
+ 
+(read as:
+ 
+yuh
+-
+DY
+-
+koht
+s)
+, lateral roots arise from
+ 
+the
+
+mitotic activity of which tissue layer?
+
+ANSWER: PERICYCLE

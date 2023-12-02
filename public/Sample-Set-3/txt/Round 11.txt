@@ -1,0 +1,1376 @@
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+1
+
+ROUND 11
+
+TOSS
+-
+UP
+
+1) CHEMISTRY
+ 
+Multiple Choice
+ 
+Which of the following strong acids, all at 0.1 molar
+
+concentration, will have the LOWEST pH value:
+
+W) H
+ 
+2
+ 
+SO
+ 
+4
+
+X) HNO
+ 
+3
+
+Y) HCl
+
+Z) HClO
+ 
+4
+
+ANSWER: W) H
+ 
+2
+ 
+SO
+ 
+4
+
+BONUS
+
+1) CHEMISTRY
+ 
+Sh
+ort Answer
+ 
+Giving its proper charge, what is the oxidation number of the
+
+manganese atom in the following compound: MnO
+ 
+4
+–
+ 
+(read as: M, N, O, 4, minus)
+
+ANSWER: +7 (ACCEPT: 7)
+
+(Solution: Mn + 4(
+-
+2) =
+ 
+-
+1; Mn = +7)
+
+TOSS
+-
+UP
+
+2) PHYSICS
+ 
+Multiple Ch
+oice
+ 
+A field emission microscope requires which of the following:
+
+W) a conductor with a very fine point
+
+X) high energy alpha particles
+
+Y) a light source with a wavelength shorter that the smallest observable feature size
+
+Z) a low amplitude, time
+-
+vary
+ing magnetic field
+
+ANSWER: W) A CONDUCTOR WITH A VERY FINE POINT
+
+BONUS
+
+2) PHYSICS
+ 
+Short Answer
+ 
+Rounded to the nearest thousand, how many joules of work are done in
+
+pulling a wagon with a force of 2000 newtons over a horizontal surface of 10 meters,
+ 
+with a chain
+
+that makes a 45º angle with the surface?
+
+ANSWER: 14,000
+
+(Solution: w = F
+ 
+×
+ 
+d
+ 
+×
+ 
+cos angle = 2000N
+ 
+×
+ 
+10 m
+ 
+×
+ 
+0.7071 = 14,142)
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+2
+
+TOSS
+-
+UP
+
+3) BIOLOGY
+ 
+Multiple Choice
+ 
+The genetic material of different viruses can be:
+
+W) only double
+-
+stranded
+ 
+DNA
+
+X) only single
+-
+stranded DNA or double
+-
+stranded DNA
+
+Y) only double
+-
+stranded DNA or double
+-
+stranded RNA
+
+Z) either single
+-
+stranded DNA and RNA or double
+-
+stranded DNA and RNA
+
+ANSWER: Z) EITHER SINGLE
+-
+STRANDED DNA AND RNA OR DOUBLE
+-
+STRANDED
+
+DNA
+ 
+AND RNA
+
+BONUS
+
+3) BIOLOGY
+ 
+Multiple Choice
+ 
+Which of the following is NOT characteristic of retroviruses:
+
+W) they have single
+-
+stranded RNA as their genetic material
+
+X) they make mRNA from their original RNA
+
+Y) they incorporate their genome into th
+e DNA of the host cell using reverse transcriptase
+
+Z) the host cell polymerase transcribes viral genes
+
+ANSWER: X) THEY MAKE mRNA FROM THEIR ORIGINAL RNA
+
+TOSS
+-
+UP
+
+4) MATH
+ 
+Short Answer
+ 
+A circle has a radius of 8 centimeters. Find the central angle
+, in degrees,
+
+of a sector of a circle if its arc length is 2
+π
+ 
+centimeters:
+
+ANSWER: 45
+
+(Solution: arc/circumference = n/360; n = 45º)
+
+BONUS
+
+4) MATH
+ 
+Multiple Choice
+ 
+Which of the following is closest to the radius of a sphere, in meters,
+
+given that
+ 
+its volume is 400 cubic meters:
+
+W) 2.15
+
+X) 4.57
+
+Y) 6.28
+
+Z) 9.76
+
+ANSWER: X) 4.57
+
+(Solution: V = 4/3
+π
+r
+3
+ 
+; 400 = 4/3(3.14)(r)
+ 
+3
+ 
+; r =
+ 
+3
+ 
+5
+.
+95
+ 
+= 4.57)
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+3
+
+TOSS
+-
+UP
+
+5) EARTH SCIENCE
+ 
+Multiple Choice
+ 
+Which of the following typically requir
+es warm, clear,
+
+shallow water characterized by low nutrient concentration and a hard coastal substrate to develop:
+
+W) barrier island
+
+X) estuary
+
+Y) lagoon
+
+Z) coral reef
+
+ANSWER: Z) CORAL REEF
+
+BONUS
+
+5) EARTH SCIENCE
+ 
+Multiple Choice
+ 
+Which of the f
+ollowing is TRUE regarding climate:
+
+W) monsoon climates typically lack seasonal precipitation
+
+X) a prolonged rain
+-
+shadow effect would most likely produce a tropical climate
+
+Y) chaparral vegetation predominates in Mediterranean climates
+
+Z) grassland s
+teppes predominate in humid, mid
+-
+latitude conditions
+
+ANSWER: Y) CHAPARRAL VEGETATION PREDOMINATES IN MEDITERRANEAN
+
+CLIMATES
+
+TOSS
+-
+UP
+
+6) GENERAL SCIENCE
+ 
+Multiple Choice
+ 
+Rooted plants that grow below the surface of the water
+
+are called submerged plan
+ts. Which of the following is BEST classified as a freshwater submerged
+
+plant:
+
+W) common reed
+
+X) sedges
+
+Y) water lilies
+
+Z) water milfoil
+
+ANSWER: Z) WATER MILFOIL
+
+BONUS
+
+6) GENERAL SCIENCE
+ 
+Short Answer
+ 
+What is the decimal number 84 in binary?
+
+ANSWER: 1010100 (must read as: one
+-
+zero
+-
+one
+-
+zero
+-
+one
+-
+zero
+-
+zero)
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+4
+
+TOSS
+-
+UP
+
+7) ASTRONOMY
+ 
+Multiple Choice
+ 
+Recent analysis of Cassini spacecraft data has provided
+
+convincing evidence that Saturn’s Moon Titan has:
+
+W) large seas of liquid water
+
+X) metha
+ne lakes on its surface
+
+Y) a moon of its own
+
+Z) a large active volcano
+
+ANSWER: X) METHANE LAKES ON ITS SURFACE
+
+BONUS
+
+7) ASTRONOMY
+ 
+Multiple Choice
+ 
+Which of the following is the next stage in the evolution of a
+
+single star after the red giant stage
+:
+
+W) white dwarf
+
+X) red dwarf
+
+Y) planetary nebula
+
+Z) nova
+
+ANSWER: Y) PLANETARY NEBULA
+
+TOSS
+-
+UP
+
+8) CHEMISTRY
+ 
+Short Answer
+ 
+In which positions on the benzene ring are the methyl groups
+
+found in the compound o
+-
+xylene or ortho
+-
+xylene (read as:
+ 
+ORTHO
+-
+ZIE
+-
+lean):
+
+ANSWER: 1 AND 2 (ACCEPT: 2 AND 1)
+
+BONUS
+
+8) CHEMISTRY
+ 
+Multiple Choice
+ 
+Which of the following is a tertiary alcohol:
+
+W) 2
+-
+propanol
+
+X) ethanol
+
+Y) 2
+-
+methyl
+-
+2
+-
+propanol
+
+Z) 1,2
+-
+ethanediol
+
+ANSWER: Y) 2
+-
+METHYL
+-
+2
+-
+PROPANOL
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+5
+
+TOSS
+-
+UP
+
+9) PHYSICS
+ 
+Multiple Choice
+ 
+The scattering of alpha particles by a metal foil was first studied by:
+
+W) Compton
+
+X) Rutherford
+
+Y) Bragg
+
+Z) Rayleigh
+
+ANSWER: X) RUTHERFORD
+
+BONUS
+
+9) PHYSICS
+ 
+Short Answer
+ 
+A pole vaulter with a mass of 150 kilo
+grams is traveling at 25 meters
+
+per second just prior to landing on an air mattress which collapses and allows the vaulter to come to
+
+rest over a period of 2.0 seconds. What was the force of the impact between the vaulter and the air
+
+mattress, in newtons?
+
+ANSWER: 1875
+
+(Solution: F = mv/t = (150kg)(25m/s)/2s = 1875N)
+
+TOSS
+-
+UP
+
+10) BIOLOGY
+ 
+Multiple Choice
+ 
+TSH causes the thyroid to produce more T3. When T3 rises, it
+
+flows through the blood to the brain to decrease the release of TSH. Which of the f
+ollowing is the
+
+MOST accurate and common term for this physiological phenomenon:
+
+W) metabolic reaction
+
+X) hormonal balance
+
+Y) negative feedback
+
+Z) endocrine action
+
+ANSWER: Y)
+ 
+NEGATIVE FEEDBACK
+
+BONUS
+
+10) BIOLOGY
+ 
+Multiple Choice
+ 
+In mammalian kid
+neys, reabsorption of water occurs mostly in
+
+which of the following:
+
+W) glomerulus
+
+X) descending limb of the loop of Henle (read as: HEN
+-
+lee)
+
+Y) proximal convoluted tubule
+
+Z) Bowman’s capsule
+
+ANSWER: X)
+ 
+DESCENDING LIMB OF T
+HE LOOP OF HENLE
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+6
+
+TOSS
+-
+U
+P
+
+11) MATH
+ 
+Multiple Choice
+ 
+If a population distribution is illustrated as a symmetrical bell shape
+
+curve, then the median and the mean are:
+
+W) not the same
+
+X) uncertain
+
+Y) variable
+
+Z) the same
+
+ANSWER: Z) THE SAME
+
+BONUS
+
+11) MATH
+ 
+Short Answe
+r
+ 
+Giving your answer in standard form, what is the fourth term in the
+
+binomial expansion of the following: (4
+x
+ 
++
+ 
+y
+)
+ 
+4
+
+ANSWER: 16
+xy
+3
+ 
+(ACCEPT: 16
+y
+3
+ 
+x
+)
+
+TOSS
+-
+UP
+
+12) EARTH SCIENCE
+ 
+Multiple Choice
+ 
+Which of the following is a physical weathering proces
+s
+
+caused by a chemical change where there is a weakening and scaling off of successive layers to
+
+produce a rounded rock:
+
+W) frost action
+
+X) exfoliation
+
+Y) abrasion
+
+Z) plant and animal action
+
+ANSWER: X) EXFOLIATION
+
+BONUS
+
+12) EARTH SCIENCE
+ 
+Multi
+ple Choice
+ 
+Which of the following is one of the main reasons why
+
+geologists believe that the second greatest earthquake risk to the U.S. lies along the New Madrid
+
+Fault in Kentucky, Mississippi and Tennessee:
+
+W) the underlying geology is loose sand and
+ 
+mud deposited by the Mississippi River
+
+X) it overlies a deep transform fault margin much like the San Andreas fault
+
+Y) it lies over a fast
+-
+moving modern plate boundary
+
+Z) it lies over a deep, subterranean hot spot
+
+ANSWER: W) THE UNDERLYING GEOLOGY I
+S LOOSE SAND AND MUD DEPOSITED
+
+BY THE MISSISSIPPI RIVER
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+7
+
+TOSS
+-
+UP
+
+13) GENERAL SCIENCE
+ 
+Multiple Choice
+ 
+Which of the following is NOT true:
+
+W) nanometer
+-
+thick films that roll themselves into tubes and other useful shapes have been recently
+
+discovered
+
+X)
+ 
+counting annual growth lines in dinosaur bones can be used to estimate their age at death
+
+Y) amphibian population declines and extinctions are global and rapid
+
+Z) epiphytic plants such as many orchids are considered parasitic plants
+
+ANSWER: Z) EPIPH
+YTIC PLANTS SUCH AS MANY ORCHIDS ARE CONSIDERED
+
+PARASITIC PLANTS
+
+BONUS
+
+13) GENERAL SCIENCE
+ 
+Multiple Choice
+ 
+Which of the following is MOST likely to be
+
+measured as 200 yottameters:
+
+W) radius of the observable universe
+
+X) Pluto’s orbital diameter
+
+Y)
+ 
+distance to Andromeda
+
+Z) distance to Ganymede
+
+ANSWER: W) RADIUS OF THE OBSERVABLE UNIVERSE
+
+TOSS
+-
+UP
+
+14) ASTRONOMY
+ 
+Multiple Choice
+ 
+Microlensing is BEST explained by which of the following
+
+theories or laws:
+
+W) Quantum theory
+
+X) General Relativit
+y
+
+Y) Kirchhoff’s laws
+
+Z) Maxwell’s law
+
+ANSWER: X) GENERAL RELATIVITY
+
+BONUS
+
+14) ASTRONOMY
+ 
+Multiple Choice
+ 
+Which of the following is a type of telescope technology that
+
+uses mirrors whose shapes can be deformed:
+
+W)
+ 
+Schmidt
+ 
+optics
+
+X) redundant
+ 
+i
+nterfermetric
+ 
+optics
+
+Y)
+ 
+CCD
+ 
+optics
+
+Z)
+ 
+adaptive optics
+
+ANSWER: Z) ADAPTIVE OPTICS
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+8
+
+TOSS
+-
+UP
+
+15) CHEMISTRY
+ 
+Short Answer
+ 
+Predict the bond angle or shape for the central atom in a molecule
+
+of beryllium dichloride:
+
+ANSWER: 180º (ACCEPT: LINEAR)
+
+B
+ONUS
+
+15) CHEMISTRY
+ 
+Multiple Choice
+ 
+Avogadro’s gas law concerns which of the following two
+
+variables:
+
+W) temperature and pressure
+
+X) pressure and volume
+
+Y) temperature and volume
+
+Z) moles and volume
+
+ANSWER: Z) MOLES AND VOLUME
+
+TOSS
+-
+UP
+
+16) P
+HYSICS
+ 
+Multiple Choice
+ 
+Which of the following could most practically be used as a detector
+
+for the automatic door opening system you find at your local grocery store:
+
+W) infrared camera system
+
+X) ultrasonic motion detector
+
+Y) radar system
+
+Z) optical
+ 
+camera system
+
+ANSWER: Y) RADAR SYSTEM
+
+BONUS
+
+16) PHYSICS
+ 
+Multiple Choice
+ 
+The radar system associated with the automatic doors at a local
+
+grocery store uses 10.5 gigahertz radiation. If the door is to open for a person walking towards it at
+
+1 meter
+ 
+per second, which Doppler shift must the radar system be able to detect:
+
+W) a red shift of 2 hertz
+
+X) a blue shift of 35 hertz
+
+Y) a red shift of 160 hertz
+
+Z) a blue shift of 1.8 hertz
+
+ANSWER: X) A BLUE SHIFT OF 35 HERTZ
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+9
+
+TOSS
+-
+UP
+
+17) BIOLOGY
+ 
+Mul
+tiple Choice
+ 
+During embryogenesis, which of the following is MOST accurate
+
+concerning the blastopore:
+
+W) it does not exist in protostomes
+
+X) it originates before the blastula stage
+
+Y) it forms the anus in deuterostomes (read as: DOO
+-
+ter
+-
+oh
+-
+stomes)
+
+Z
+) it is the hollow center of the gastrula
+
+ANSWER: Y)
+ 
+IT FORMS THE ANUS IN
+ 
+DEUTEROSTOMES
+
+BONUS
+
+17) BIOLOGY
+ 
+Multiple Choice
+ 
+Which of the following is a primary function of histones H2A,
+
+H2B, H3 and H4:
+
+W) preventing damage to DNA from ionizing r
+adiation
+
+X) densely packaging DNA into nucleosomes
+
+Y) holding DNA in the double helical configuration
+
+Z) directing the packaging of DNA into looped domains of about 300 nanometers
+
+ANSWER: X) DENSELY PACKAGING DNA INTO NUCLEOSOMES
+
+TOSS
+-
+UP
+
+18) MAT
+H
+ 
+Multiple Choice
+ 
+Which of the following has a graph that is a parabola that opens
+
+downward:
+
+W) f(
+x
+) = 3
+x
+ 
++ 1
+
+X) f(
+x
+) =
+ 
+x
+2
+ 
+–
+ 
+2
+
+Y) f(
+x
+) =
+ 
+–
+x
+2
+
+Z) f(
+x
+) =
+ 
+x
+3
+
+ANSWER: Y) f(
+x
+) =
+ 
+–
+x
+2
+
+BONUS
+
+18) MATH
+ 
+Short Answer
+ 
+Find the 101
+ 
+st
+ 
+term in the arithmet
+ic sequence whose first three terms are
+
+5, 11, and 17:
+
+ANSWER: 605
+
+(Solution: a
+n
+ 
+= a
+1
+ 
++ (n
+ 
+–
+ 
+1)d; = 5 + (101
+ 
+–
+ 
+1)(6) = 605)
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+10
+
+TOSS
+-
+UP
+
+19) EARTH SCIENCE
+ 
+Multiple Choice
+ 
+Which of the following rocks typically has the
+
+SMALLEST grains:
+
+W) shale
+
+X) c
+onglomerate
+
+Y) breccia
+
+Z) sandstone
+
+ANSWER: W) SHALE
+
+BONUS
+
+19) EARTH SCIENCE
+ 
+Multiple Choice
+ 
+If ammonoid fossils are found in a sediment layer, the
+
+area was MOST likely covered by:
+
+W) an ocean
+
+X) a large forest
+
+Y) a pre
+-
+Cambrian swamp
+
+Z) a f
+resh
+-
+water basin
+
+ANSWER: W) AN OCEAN
+
+TOSS
+-
+UP
+
+20) GENERAL SCIENCE
+ 
+Multiple Choice
+ 
+What type of fluorescence is produced in "Glow
+
+Sticks" that are widely found on the market today and which glow for hours after the stick is
+
+"broken" to allow for the
+ 
+mixture of different substances:
+
+W) thermoluminescence
+
+X) triboluminescence
+
+Y) photoluminescence
+
+Z) chemiluminescence
+
+ANSWER: Z) CHEMILUMINESCENCE
+
+BONUS
+
+20) GENERAL SCIENCE
+ 
+Multiple Choice
+ 
+Most commercial asbestos was a fibrous variety of
+
+se
+rpentine called:
+
+W) chrysotile
+
+X) kaolinite
+
+Y) magnetite
+
+Z) apatite
+
+ANSWER: W) CHRYSOTILE
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+11
+
+TOSS
+-
+UP
+
+21) ASTRONOMY
+ 
+Short Answer
+ 
+Name all of the following 4 celestial objects that are typically
+
+considered minor planets: Ceres; Titan; Mercury;
+ 
+Juno
+
+ANSWER: CERES AND JUNO
+
+BONUS
+
+21) ASTRONOMY
+ 
+Short Answer
+ 
+How many times as great will light
+-
+gathering power of a
+
+reflector telescope be if the radius of its primary mirror is doubled?
+
+ANSWER: 4
+
+TOSS
+-
+UP
+
+22)
+ 
+CHEMISTRY
+ 
+Short Answer
+ 
+What
+ 
+is the systematic IUPAC name for the compound
+
+Fe(NO
+ 
+2
+ 
+)
+ 
+3
+ 
+?
+
+ANSWER:
+ 
+IRON (III) NITRITE (read as: iron three nitrite) (MUST BE EXACT)
+
+BONUS
+
+22) CHEMISTRY
+ 
+Short Answer
+ 
+To the second decimal place, what is the concentration of nitrate
+
+ions, in moles per
+ 
+liter, in a 0.26 molar Al(NO
+ 
+3
+ 
+)
+ 
+3
+ 
+solution?
+
+ANSWER: 0.78
+
+(Solution: 3
+ 
+×
+ 
+0.26 = 0.78)
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+12
+
+TOSS
+-
+UP
+
+23) PHYSICS
+ 
+Short Answer
+ 
+Billy drops his teddy bear out of the car window 2 meters from the
+
+ground while his father is driving down Main Street at 20 meter
+s per second. In seconds to the first
+
+decimal place, how long does it take for the bear to hit the ground, assuming air resistance is
+
+neglected?
+
+ANSWER: 0.6
+
+BONUS
+
+23) PHYSICS
+ 
+Short Answer
+ 
+Using your rounded answer to the above question and remember
+ing
+
+that the father is driving down Main Street at 20 meters per second, how far will the bear travel
+
+horizontally before striking the ground, rounded to the nearest whole meter and again assuming air
+
+resistance is neglected?
+
+ANSWER: 12
+
+TOSS
+-
+UP
+
+24)
+ 
+BIOLOGY
+ 
+Short Answer
+ 
+The corpus luteum in humans primarily secretes what hormone?
+
+ANSWER: PROGESTERONE
+
+BONUS
+
+24) BIOLOGY
+ 
+Short Answer
+ 
+Name all of the following 4 physiological inputs that affect the
+
+homeostatic actions of the hypothalamus in human
+s:
+
+limbic system; olfactory system; retina; reticular formation
+
+ANSWER: ALL
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+13
+
+TOSS
+-
+UP
+
+25) PHYSICS
+ 
+Short Answer
+ 
+What is the underwater pressure in atmospheres in a fresh water lake
+
+at a depth of 20 meters?
+
+ANSWER: 3
+
+BONUS
+
+25) PHYSICS
+ 
+Short A
+nswer
+ 
+What is the resonant frequency, in hertz to the nearest whole number,
+
+of a three
+-
+component series circuit that has a 2 henry inductor, a 2 microfarad capacitor, and a 2 ohm
+
+resister?
+
+ANSWER: 80

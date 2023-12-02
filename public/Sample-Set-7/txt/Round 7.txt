@@ -1,0 +1,868 @@
+High School Round 7 A Page 1
+
+ROUND 7
+
+TOSS-UP
+
+1) PHYSICS
+ 
+Short Answer
+ 
+Schrödinger's equation is a fundamental part of what scientific
+theory?
+ANSWER: QUANTUM MECHANICS (ACCEPT: QUANTUM MECHANICAL THEORY,
+QUANTUM THEORY, QUANTUM PHYSICS; DO NOT ACCEPT: WAVE MECHANICS)
+
+BONUS
+
+1) PHYSICS
+ 
+Short Answer
+ 
+A rocket sled can accelerate to 40 meters per second in 0.05
+seconds. What force, in newtons, would a 100 kilogram test dummy on the rocket sled
+experience from this motion?
+ANSWER: 80,000
+
+TOSS-UP
+
+2) ENERGY
+ 
+Multiple Choice
+ 
+Line losses occur when electricity is transported long distances
+over transmission lines. Which of the following units is an appropriate measure for line losses?
+W) Kilovolts per kilometer
+X) Megawatts per mile
+Y) Megaamperes per kilometer
+Z) Volts-ampere
+ANSWER: X) MEGAWATTS PER MILE
+
+BONUS
+
+2) ENERGY
+ 
+Multiple Choice
+ 
+Rare earth magnets are often used in the production of electrical
+energy. What percentage of world production of the rare earth materials used to produce these
+magnets was mined in the United States in 2011?
+W) 0%
+X) 5%
+Y) 7%
+Z) 12%
+ANSWER: W) 0%
+High School Round 7 A Page 2
+
+TOSS-UP
+
+3) CHEMISTRY
+ 
+Short Answer
+ 
+Dr. Ecniecs, who loves riddles, gave the following riddle about
+the periodic table: Element A is left-right adjacent to element B. Element A never shares what it
+holds. Element B is always taking from other elements. Both elements are a clear gas. Both
+elements are nonmetals. Combined, they have a mass less than that of gallium. What are the
+identities of elements A and B?
+ANSWER: NEON AND FLUORINE
+
+BONUS
+
+3) CHEMISTRY
+ 
+Short Answer
+ 
+Amides are formed through a reversible reaction that causes loss
+of water. This reaction occurs between an amine
+ 
+[uh-MEEN]
+ 
+and what other type of molecule?
+ANSWER: CARBOXYLIC ACID
+
+TOSS-UP
+
+4) BIOLOGY
+ 
+Multiple Choice
+ 
+Which of the following is typically derived from ectoderm
+ 
+[EK-tuh-
+durm]
+?
+W) Areolar connective tissue
+X) Nervous tissue
+Y) Blood
+Z) Simple squamous epithelium
+ 
+[SKWAY-muhs ep-uh-THEE-lee-uhm]
+
+ANSWER: X) NERVOUS TISSUE
+
+BONUS
+
+4) BIOLOGY
+ 
+Multiple Choice
+ 
+In the human body, copper plays a role in which of the following
+processes?
+W) Muscle contraction
+X) pH balance
+Y) Protein synthesis
+Z) Hemoglobin synthesis
+ 
+[HEE-muh-gloh-bin]
+
+ANSWER: Z) HEMOGLOBIN SYNTHESIS
+High School Round 7 A Page 3
+
+TOSS-UP
+
+5) MATH
+ 
+Short Answer
+ 
+Given that
+
+t
+ 
+≠
+ 
+0
+, find
+ 
+𝑓
+(
+ 
+1
+𝑡
+ 
+)
+ 
+if
+ 
+f
+ 
+(
+t )
+=
+ 
+1
+𝑡
+.
+
+ANSWER:
+
+t
+
+BONUS
+
+5) MATH
+ 
+Short Answer
+ 
+What are the coordinates of the points of intersection of the graphs of
+
+y
+ 
+= 2
+x
+2
+ 
+–
+ 
+x
+ 
+and
+ 
+y
+ 
+= 2
+x
+ 
++ 35
+?
+ANSWER: (-7/2, 28) AND (5, 45) (ACCEPT: (-3.5, 28) AND (5, 45))
+
+TOSS-UP
+
+6) EARTH AND SPACE
+ 
+Short Answer
+ 
+What is the hottest layer of the Sun's atmosphere?
+ANSWER: CORONA
+
+BONUS
+
+6) EARTH AND SPACE
+ 
+Multiple Choice
+ 
+Assuming that you start with 100% U-238 and the U-
+238 decays to Pb-206, how many half-lives are needed to yield 625 atoms of U-238 and 19,375
+atoms of Pb-206?
+W) 4
+X) 5
+Y) 6
+Z) 8
+ANSWER: X) 5
+High School Round 7 A Page 4
+
+TOSS-UP
+
+7) PHYSICS
+ 
+Multiple Choice
+ 
+Two spheres, each with a charge of 3 microcoulombs, are
+separated by 9 meters. Given that
+ 
+k
+ 
+= 9 x 10
+9
+ 
+meters per farad, how much electric potential
+energy in joules is stored in this combination of charges?
+W) 9 x 10
+ 
+-6
+X) 1 x 10
+ 
+-3
+Y) 9 x 10
+ 
+-3
+Z) 9 x 10
+ 
+9
+ANSWER: Y) 9 x 10
+ 
+-3
+
+BONUS
+
+7) PHYSICS
+ 
+Short Answer
+ 
+In 1955, a soldier's parachute failed to deploy, causing him to fall
+1200 feet from the plane to the ground. However, he managed to land in a snow bank, surviving
+the fall and suffering only minor injuries. Assuming the paratrooper weighed 100 kilograms, that
+he had reached terminal velocity of approximately 50 meters per second, and that the snow
+exerts an average force of 120,000 newtons, what minimum depth of snow, in meters to one
+decimal place, was necessary to stop him?
+ANSWER: 1.0
+
+TOSS-UP
+
+8) CHEMISTRY
+ 
+Multiple Choice
+ 
+Which of the following is NOT true in the titration of a weak
+monoprotic acid with a strong base?
+W) The starting pH will be lower than 7
+X) The final pH will be higher than 7
+Y) Methyl red would be a good indicator to use
+Z) Phenolphthalein
+ 
+[fee-knol-THAY-leen]
+ 
+would be a good indicator to use
+ANSWER: Y) METHYL RED WOULD BE A GOOD INDICATOR TO USE
+
+BONUS
+
+8) CHEMISTRY
+ 
+Short Answer
+ 
+Since internal alkynes
+ 
+[AL-kyns]
+ 
+have an additional pi bond,
+they do not form the same products as alkenes
+ 
+[AL-kyns]
+ 
+upon cleavage by ozone or
+potassium permanganate
+ 
+[per-MANG-guh-nayt]
+. What functional group does this cleavage
+produce for internal alkynes?
+ANSWER: CARBOXYLIC ACID
+High School Round 7 A Page 5
+
+TOSS-UP
+
+9) BIOLOGY
+ 
+Multiple Choice
+ 
+After a volcanic eruption wipes out the organisms on an island,
+which of the following would be the first to recolonize?
+W) Large carnivore
+X) Wind-dispersed grass
+Y) Frugivorous bird
+ 
+[froo-JIV-er-uhs]
+
+Z) Forest tree
+ANSWER: X) WIND-DISPERSED GRASS
+
+BONUS
+
+9) BIOLOGY
+ 
+Multiple Choice
+ 
+How many fused rings does the carbon skeleton of steroids have?
+W) 2
+X) 4
+Y) 6
+Z) 8
+ANSWER: X) 4
+
+TOSS-UP
+
+10) MATH
+ 
+Short Answer
+ 
+Evaluate:
+ 
+∫
+ 
+4
+ 
+𝑑𝑑
+4
+0
+ 
+[the integral from 0 to 4 of 4 dx].
+
+ANSWER: 16
+
+BONUS
+
+10) MATH
+ 
+Short Answer
+ 
+A farmer has three hens of varying weights. When the hens are
+weighed in pairs, they weigh 11.3, 11.8, and 12.1 pounds. What is the weight in pounds of the
+lightest hen?
+ANSWER: 5.5
+High School Round 7 A Page 6
+
+TOSS-UP
+
+11) EARTH AND SPACE
+ 
+Multiple Choice
+ 
+Which of the following statements is NOT true about
+shallow living coral reefs?
+W) They serve as centers of biodiversity
+X) They are generally found in temperate waters
+Y) They are threatened by climate change
+Z) They can be assessed using towed diver surveys
+ANSWER: X) THEY ARE GENERALLY FOUND IN TEMPERATE WATERS
+
+BONUS
+
+11) EARTH AND SPACE
+ 
+Short Answer
+ 
+What effect predicted by general relativity was Gravity
+Probe B designed to detect?
+ANSWER: FRAME DRAGGING
+
+TOSS-UP
+
+12) PHYSICS
+ 
+Multiple Choice
+ 
+A wire carries a current of 2 amperes vertically upward. What is
+the magnitude and direction of the magnetic field in teslas produced by the wire 4 millimeters to
+the North of the wire?
+W) 1 x 10
+ 
+-4
+, West
+X) 1 x 10
+ 
+-4
+, East
+Y) 2 x 10
+ 
+-4
+, West
+Z) 2 x 10
+ 
+-4
+, East
+ANSWER: W) 1 X 10
+ 
+-4
+, WEST
+
+BONUS
+
+12) PHYSICS
+ 
+Multiple Choice
+ 
+A solid sphere of uniform density rolls down an incline without
+slipping. At the bottom of the incline, what fraction of the kinetic energy of the sphere is
+rotational kinetic energy?
+W) 2/7
+X) 5/7
+Y) 1/2
+Z) 7/10
+ANSWER: W) 2/7
+High School Round 7 A Page 7
+
+TOSS-UP
+
+13) ENERGY
+ 
+Short Answer
+ 
+What is the name for the practice of reducing or shifting electricity
+usage during peak periods in response to time-based rates or other forms of financial
+incentives?
+
+ANSWER: DEMAND RESPONSE (ACCEPT: DYNAMIC DEMAND)
+
+BONUS
+
+13) ENERGY
+ 
+Multiple Choice
+ 
+At 100 volts, which of the following is closest to the amperage
+through a circuit that consists of the following in series: resistors of 10 ohms, 15 ohms, and 22
+ohms followed by these resistors in parallel: 5, 10, 20, all in the same circuit.
+W) 1.5
+X) 2.0
+Y) 2.5
+Z) 5.5
+ANSWER: X) 2.0
+
+TOSS-UP
+
+14) CHEMISTRY
+ 
+Multiple Choice
+ 
+Which of the following is NOT a proposed step in the Suzuki
+reaction catalytic cycle?
+W) Oxidative addition
+X) Transmetalation
+Y) Beta-hydride elimination
+Z) Reductive elimination
+ANSWER: Y) BETA-HYDRIDE ELIMINATION
+
+BONUS
+
+14) CHEMISTRY
+ 
+Multiple Choice
+ 
+Which of the following best describes the incident and exit
+beams in attenuated total reflectance spectroscopy?
+W) Incident beam is photons and exit beam is electrons
+X) Incident and exit beams are ions
+Y) Incident and exit beams are photons
+Z) Incident and exit beams are electrons
+ANSWER: Y) INCIDENT AND EXIT BEAMS ARE PHOTONS
+High School Round 7 A Page 8
+
+TOSS-UP
+
+15) BIOLOGY
+ 
+Multiple Choice
+ 
+Which of the following is NOT a tool to develop homeothermy
+
+[hoh-mee-uh-THERM-ee]
+ 
+in baby birds?
+W) Large brood size
+X) Large toes
+Y) Down
+Z) Large leg muscles
+ANSWER: X) LARGE TOES
+
+BONUS
+
+15) BIOLOGY
+ 
+Multiple Choice
+ 
+Which of the following statements about the Calvin cycle is NOT
+true?
+W) It is an important step during photosynthesis
+X) During the Calvin cycle, the simple inorganic molecule of carbon dioxide is used to make a
+complex organic molecule
+Y) The compound that begins the Calvin cycle is glyceraldehydes
+ 
+[glis-uh-RAL-duh-hyd]
+-3-
+phosphate
+Z) The energy needed for the Calvin cycle is provided by the light reaction
+ANSWER: Y) THE COMPOUND THAT BEGINS THE CALVIN CYCLE IS GLYCERALDEHYDE-
+3-PHOSPHATE
+
+TOSS-UP
+
+16) MATH
+ 
+Short Answer
+ 
+A drawer contains 30 socks: 10 brown, 9 black, 6 blue, and 5 red. What
+is the fewest number of socks I must pick from the drawer without looking to be absolutely
+certain I have 2 socks of the same color?
+ANSWER: 5
+
+BONUS
+
+16) MATH
+ 
+Short Answer
+ 
+The probability that a doctor is correct when making a diagnosis is 0.8.
+If the doctor makes an incorrect diagnosis, the probability that a patient sues is 0.3. What is the
+probability that the doctor makes an incorrect diagnosis and the patient sues?
+ANSWER: 0.06 (ACCEPT: 3/50 or 6%)
+High School Round 7 A Page 9
+
+TOSS-UP
+
+17) EARTH AND SPACE
+ 
+Short Answer
+ 
+What discovery in the second half of the 20
+th
+ 
+century led
+to the acceptance of the Big Bang theory and the abandonment of the steady state model?
+ANSWER: COSMIC MICROWAVE BACKGROUND
+
+BONUS
+
+17) EARTH AND SPACE
+ 
+Multiple Choice
+ 
+Which of the following classes of objects is distributed
+around the Sun with spherical symmetry?
+W) Asteroids
+X) Trans-Neptunian objects
+Y) Kuiper
+ 
+belt objects
+ 
+[KY-per]
+
+Z) Long-period comets
+ANSWER: Z) LONG-PERIOD COMETS
+
+TOSS-UP
+
+18) BIOLOGY
+ 
+Multiple Choice
+ 
+Which of the following is a major benefit of membrane-bound
+cells and organelles?
+W) Compartmentalization of biochemical reactions
+X) Protection from UV radiation
+Y) Thermal isolation
+Z) Membranes conduct electrical signals
+ANSWER: W) COMPARTMENTALIZATION OF BIOCHEMICAL REACTIONS
+
+BONUS
+
+18) BIOLOGY
+ 
+Multiple Choice
+ 
+Which of the following is NOT a result of parasympathetic
+nervous system stimulation?
+W) Stimulation of glucose release by the liver
+X) Contraction of pupils
+Y) Stimulation of salivation
+Z) Contraction of bronchi
+ 
+[BRONG-kee]
+
+ANSWER: W) STIMULATION OF GLUCOSE RELEASE BY THE LIVER
+High School Round 7 A Page 10
+
+TOSS-UP
+
+19) PHYSICS
+ 
+Multiple Choice
+ 
+A 500 kilogram roller coaster car rounds the top of a hill with a
+radius of 25 meters at a speed of 15 meters per second. Given that the acceleration due to
+gravity is 10 meters per second squared, what is the normal force in newtons on the car at this
+point?
+W) 500
+X) 4500
+Y) 5000
+Z) 5500
+ANSWER: W) 500
+
+BONUS
+
+19) PHYSICS
+ 
+Short Answer
+ 
+The coefficient of kinetic friction between a car’s tires and a flat
+road is 0.8. The car is travelling at 40 meters per second when the driver slams on the brakes,
+causing the tires to lock. Assuming the acceleration due to gravity is 10 meters per second
+squared, how far will the car travel in meters after the driver hits the brakes?
+ANSWER: 100
+
+TOSS-UP
+
+20) ENERGY
+ 
+Multiple Choice
+ 
+Which of the following industries has the largest water
+withdrawal?
+W) Agriculture
+X) Public drinking water
+Y) Thermoelectric power
+Z) Industrial and mining
+ANSWER: Y) THERMOELECTRIC POWER
+
+BONUS
+
+20) ENERGY
+ 
+Short Answer
+ 
+Your mother has a fluorescent light in her office, and you notice a
+hum coming from it. Which property, that governs the changing of a material’s physical
+dimensions in response to a change in magnetization, causes this humming sound?
+ANSWER: MAGNETOSTRICTION
+High School Round 7 A Page 11
+
+TOSS-UP
+
+21) CHEMISTRY
+ 
+Multiple Choice
+ 
+Which of the following pairs would most likely undergo a Heck
+reaction?
+W) Styrene and iodobenzene
+X) Ethylbenzene and phenol
+ 
+[FEE-nol]
+
+Y) Vinyl bromide and benzene
+Z) Cyclohexane
+ 
+[sy-kluh-HEK-sayn]
+ 
+and allyl bromide
+ANSWER: W) STYRENE AND IODOBENZENE
+
+BONUS
+
+21) CHEMISTRY
+ 
+Short Answer
+ 
+In semicrystalline polymers, the ordered regions will break up
+and become disordered at the melting temperature. However, amorphous regions soften over a
+wider range. What is the name of this range?
+ANSWER: GLASS TRANSITION
+
+TOSS-UP
+
+22) BIOLOGY
+ 
+Multiple Choice
+ 
+Restriction endonucleases
+ 
+[en-duh-noo-klee-AY-sis]
+ 
+are found
+in bacteria and are thought to provide protection from viruses by cutting viral DNA into small
+fragments. Molecular biologists have used these enzymes to do which of the following?
+W) Fight viral infections in eukaryotes
+ 
+[yoo-KAR-ee-ohts]
+
+X) Clone specific genes into plasmids for expression by bacteria
+Y) Restrict the production of telomeres in yeast
+Z) Amplify desired DNA molecules in a controlled reaction
+ANSWER: X) CLONE SPECIFIC GENES INTO PLASMIDS FOR EXPRESSION BY BACTERIA
+
+BONUS
+
+22) BIOLOGY
+ 
+Multiple Choice
+ 
+What component of the nephron establishes and maintains a salt
+gradient used to concentrate urine?
+W) Bowman’s capsule
+X) Proximal convoluted tubule
+Y) Distal convoluted tubule
+Z) Loop of Henle
+ANSWER: Z) LOOP OF HENLE
+High School Round 7 A Page 12
+
+TOSS-UP
+
+23) MATH
+ 
+Short Answer
+ 
+Given that
+ 
+𝑓
+(
+𝑑
+) =
+ 
+2𝑥
+𝑥−1
+ 
+[f of x equals the fraction with numerator 2x
+and denominator x minus 1]
+ 
+is a one-to-one function, find
+ 
+x
+ 
+so that
+ 
+f
+
+-1
+ 
+(
+x
+) = 5
+ 
+[f inverse of x
+equals 5]
+.
+ANSWER: 5/2 (ACCEPT: 2.5 OR 2 1/2)
+
+BONUS
+
+23) MATH
+ 
+Short Answer
+ 
+Providing your answer in slope intercept form, what is the equation of
+the normal line to the function
+ 
+f
+(
+x
+) =
+ 
+x
+3
+ 
++ 2
+x
+2
+ 
++ 5
+x
+ 
+– 2
+ 
+at the point where
+ 
+x
+ 
+= 0
+?
+ANSWER:
+ 
+y
+ 
+= (-1/5)
+x
+ 
+– 2
+
+TOSS-UP
+
+24) EARTH AND SPACE
+ 
+Short Answer
+ 
+What is the region around a spinning black hole in which
+the frame dragging effect is so strong that all objects are forced to rotate around the black hole?
+ANSWER: ERGOSPHERE
+
+BONUS
+
+24) EARTH AND SPACE
+ 
+Multiple Choice
+ 
+Which of the following characterizes tsunamis in the
+open ocean?
+W) Shallow water waves with long wavelengths and long periods
+X) Intermediate waves with long wavelengths and short periods
+Y) Deep water waves with short wavelengths and long periods
+Z) Deep water waves with long wavelengths and short periods
+ANSWER: W) SHALLOW WATER WAVES WITH LONG WAVELENGTHS AND LONG
+PERIODS
+High School Round 7 A Page 13
+
+TOSS-UP
+
+25) PHYSICS
+ 
+Multiple Choice
+ 
+A 3 kilogram mass, a 4 kilogram mass, and a 5 kilogram mass
+are placed in a line at positions of 3 meters, 4 meters, and 5 meters, respectively, from the
+origin. Which of the following is nearest the location of the center of mass of this set of masses
+in meters from the origin?
+W) 0.24
+X) 1.00
+Y) 4.17
+Z) 12.0
+ANSWER: Y) 4.17
+
+BONUS
+
+25) PHYSICS
+ 
+Short Answer
+ 
+A 10 ohm resistor, a 20 ohm resistor, and a 30 ohm resistor are
+connected in series to a 12 volt battery. How much energy in joules is dissipated in heat through
+the 30 ohm resistor in 60 seconds?
+ANSWER: 72

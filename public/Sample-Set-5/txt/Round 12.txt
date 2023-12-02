@@ -1,0 +1,1970 @@
+Round 1
+2
+ 
+Page
+ 
+1
+
+ROUND
+ 
+1
+2
+
+TOSS
+-
+UP
+
+1) PHYSICS
+ 
+Short Answer
+ 
+A monochromatic light source incident on a diffraction grating with
+
+slit separation
+ 
+d
+ 
+produces a pattern on the wall
+.
+ 
+What diffraction slit spacing would be required
+
+t
+o produce the same pattern on the wall
+ 
+using
+ 
+light
+ 
+of
+ 
+twice the wavelength?
+
+ANSWER: 2
+d
+
+BONUS
+
+1)
+ 
+PHYSICS
+ 
+Short Answer
+ 
+A 10
+-
+g
+ram bullet is shot
+ 
+with an initial velocity of 600 meters per
+
+second
+ 
+into a 2
+-
+kilogram ballistic pendulum and emerges from the
+ 
+pendulum with a speed of
+
+200 meters per second
+.
+ 
+Given
+ 
+10
+ 
+meters per second squared as g,
+ 
+to what height in meters
+
+does the pendulum rise?
+
+ANSWER:
+ 
+0.2
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+2) EARTH AND SPACE
+ 
+Multiple Choice
+ 
+As described by the NOAA space weather scale,
+
+which of the following is NOT an effect of a weak geomagnetic storm?
+
+W) Power grid fluctuations
+
+X) Minor impact on satellite operations
+
+Y) Auroras visible at a 45° geomagnetic latitude
+
+Z)
+ 
+Migration pathways t
+hat may require animals to travel further than normal
+
+ANSWER: Y)
+ 
+AURORAS VISIBLE AT A
+ 
+45° GEOMAGNETIC LATI
+TUDE
+
+BONUS
+
+2) EARTH AND SPACE
+ 
+Short Answer
+ 
+What two substances that provide evidence of the
+
+Mediterranean’s periods of shallow marine and ari
+d desert environments compose the core
+
+material of a reflecting layer 325 to 650 feet beneath the Mediterranean Sea bottom?
+
+ANSWER: EVAPORITE (ACCEPT:
+ 
+ANHYDRITES OR
+ 
+CALCIUM SULFATE) AND
+
+STROMATOLITES
+Round 1
+2
+ 
+Page
+ 
+2
+
+TOSS
+-
+UP
+
+3
+) PHYSICS
+ 
+Multiple Choice
+ 
+Consider charges +Q and +4Q
+,
+ 
+separated by 3 meters
+.
+ 
+At which
+
+of the following points on a line between the two charges can a charge
+ 
+–
+Q be placed so that it
+
+will experience no electrostatic force?
+
+W) 1 meter from +Q
+
+X) 1 meter from +4Q
+
+Y) 0.6 meter from +Q
+
+Z) 0.6 meter from +4Q
+
+ANSWER: W)
+ 
+1 METER FROM +Q
+
+BONUS
+
+3
+)
+ 
+PHYSICS
+ 
+Short Answer
+ 
+A bucket
+ 
+is filled with water to a depth of
+ 
+20 centimeters
+.
+ 
+A layer of
+
+oil 30 centimeters thick with
+ 
+a
+ 
+specific gravity
+ 
+of
+ 
+0.7 is poured on top of the water
+.
+ 
+Given that 1
+
+atmosphere is 1.01
+ 
+×
+ 
+10
+ 
+5
+ 
+pascals and providing your answer in scientific notation with three
+
+significant digits, w
+hat is the absolute pressure
+,
+ 
+in pascals
+,
+ 
+at the bottom of the container?
+
+ANSWER: 1.05
+ 
+×
+ 
+10
+ 
+5
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+4
+) ENERGY
+ 
+Multiple Choice
+ 
+A combination of technologies called the Sahara Forest Project
+
+with
+ 
+the potential to produce commercial quantities of food and energy crops, fresh water
+,
+ 
+and
+
+electricity in the desert, has all of the following components, EXCEPT:
+
+W) Seawater greenhouse
+
+X) Condensation c
+ollectors
+
+Y) Cultivation of swit
+chgrass
+
+Z) Steam turbine generator
+
+ANSWER: Y)
+ 
+CULTIVATION OF SWIT
+CHGRASS
+
+BONUS
+
+4
+) ENERGY
+ 
+Short Answer
+ 
+In electron energy
+-
+loss spectroscopy,
+ 
+at energies equal to the
+
+inner
+-
+shell binding energies, typically in hundreds to thousands of electron volts
+,
+ 
+inner
+-
+shell
+
+excitation of electrons gives rise to what kind of edges?
+
+ANSWER: IONIZATION
+ 
+(ACC
+EPT: ABSORPTION)
+Round 1
+2
+ 
+Page
+ 
+3
+
+TOSS
+-
+UP
+
+5
+) MATH
+ 
+Short Answer
+ 
+How many permutations consisting of four letters each
+,
+ 
+starting with
+
+the letter E
+,
+ 
+can b
+e formed from the letters in the word ENERGY
+?
+
+ANSWER: 60
+
+BONUS
+
+5
+) MATH
+ 
+Short Answer
+ 
+What is the limit as
+ 
+x
+ 
+goes to 0 of
+ 
+x
+sin(3
+x
+)
+
+1
+ 
+-
+ 
+cos(
+x
+)
+ 
+(read as: the quantity
+ 
+x
+
+sine of 3
+x
+ 
+over the quantity 1 minus cosine of
+ 
+x
+)
+?
+
+ANSWER:
+ 
+6
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+6
+) EARTH AND SPACE
+ 
+Short Answer
+ 
+What is the name of the
+ 
+clockwise current which brings
+
+warm Caribbean waters into the Gulf of Mexico before joining the Gulf Stream?
+
+ANSWER:
+ 
+LOOP
+
+BONUS
+
+6
+) EARTH AND SPACE
+ 
+Short Answer
+ 
+By name or number, o
+rder the following
+ 
+five
+ 
+stars from
+
+most to least bright based on appa
+rent visual magnitude as seen from Earth:
+ 
+1)
+ 
+Vega,
+ 
+2)
+
+Procyon
+ 
+(read as:
+ 
+PROH
+-
+see
+-
+ohn
+)
+,
+ 
+3)
+ 
+Achernar
+ 
+(read as:
+ 
+AH
+-
+kehr
+-
+nahr
+)
+,
+ 
+4)
+ 
+Canopus
+ 
+(read as:
+
+kah
+-
+N
+Ō
+E
+-
+puhs
+)
+,
+ 
+5)
+ 
+Sirius
+ 
+(read as:
+ 
+SIR
+-
+ee
+-
+uhs
+)
+.
+
+ANSWER: SIRIUS, CANOPUS, VEGA, PROCYON, ACHERNAR
+ 
+(ACCEPT: 5, 4, 1, 2, 3)
+Round 1
+2
+ 
+Page
+ 
+4
+
+TOSS
+-
+UP
+
+7
+) PHYSICS
+ 
+Multiple Choice
+ 
+A common device used to study extreme forms of matter is the
+
+magneto
+-
+optical trap.
+ 
+Which of the following explains h
+ow
+ 
+the
+ 
+trap work
+s
+?
+
+W) It heats magnetically contained matter with lasers
+
+X) It oscillates matter through dipole interactions
+
+Y) It uses both magnetic fields and lasers to cool matter
+
+Z) It magnetically accelerates matter through optical lens systems
+
+ANSWER: Y)
+ 
+IT USES BOTH MAGNETI
+C FIELDS AND LASERS
+ 
+TO COOL MATTER
+
+BONUS
+
+7
+) PHYSICS
+ 
+Short Answer
+ 
+In an experiment, 200 grams of aluminum with a specific heat of
+
+0.91
+ 
+joules per kilogram Kelvin at 100° Celsius is mixed with 50.0 grams of water
+ 
+with a specific
+
+heat of 4.2 joules per kilogram Kelvin
+ 
+at 20
+° Celsius
+. T
+he mixture
+ 
+is
+ 
+thermally isolated. What is
+
+the equilibrium temperature in
+ 
+degrees
+ 
+Celsius?
+
+ANSWER: 57
+°
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+8) EARTH AND SPACE
+ 
+Short Answer
+ 
+What is the name of the vesicular basaltic lava that
+
+sinks in
+ 
+water?
+
+ANSWER:
+ 
+SCORIA
+
+BONUS
+
+8) EARTH AND SPACE
+ 
+Short Answer
+ 
+By name or number, identify
+ 
+all
+ 
+of the following
+ 
+four
+
+choices that
+ 
+are critical attributes of index fossils: 1) long range through time, 2) easily
+
+recognizable, 3) abundant, 4) widespread
+ 
+habitats.
+
+ANSWER:
+ 
+EASILY RECOGNIZABLE,
+ 
+ABUNDANT, WIDESPREAD
+ 
+HABITATS (ACCEPT: 2,
+ 
+3,
+
+4)
+Round 1
+2
+ 
+Page
+ 
+5
+
+TOSS
+-
+UP
+
+9
+) ENERGY
+ 
+Short Answer
+ 
+What kind of antimatter was
+ 
+first
+ 
+trapped and studied at CERN in
+
+November of 2010?
+
+ANSWER: ANTIHYDROGEN
+
+BONUS
+
+9
+)
+ 
+ENERGY
+ 
+Short Answer
+ 
+Give
+ 
+the power rating
+ 
+of a household appliance,
+ 
+in watts
+,
+ 
+if the cost
+
+of continuously running it for 30 days at 10 cents per kilowatt hour is $36
+.
+
+ANSWER: 500
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+10) BI
+OLOGY
+ 
+Multiple Choice
+ 
+H
+emolymph
+ 
+(read as;
+ 
+HEE
+-
+moh
+-
+lim(p)f
+)
+ 
+in the insect
+ 
+Epicauta
+
+vittata
+ 
+(read as:
+ 
+eh
+-
+pee
+-
+KOH
+-
+tah vee
+-
+TAH
+-
+tah
+)
+ 
+has
+ 
+all of the following functions, EXCEPT:
+
+W) C
+arrying oxygen
+
+X) Circulating water
+
+Y) C
+irculating nutrients
+
+Z)
+ 
+Transporting immune cells
+
+ANSWER:
+ 
+W
+) CARRYING OXYGEN
+
+BONUS
+
+10) BIOLOGY
+ 
+Short Answer
+ 
+Fungi are the only organisms to combine which two substances in
+
+their cell walls?
+
+ANSWER: CHITIN AND GLUCANS
+Round 1
+2
+ 
+Page
+ 
+6
+
+TOSS
+-
+UP
+
+1
+1
+) MATH
+ 
+Multiple Choice
+ 
+A polyhedron
+ 
+with
+ 
+seven faces
+,
+ 
+e
+xactly five of
+ 
+which
+ 
+are rectangles
+,
+
+could be w
+hich of the following?
+
+W)
+ 
+Pent
+agonal
+ 
+prism
+
+X)
+ 
+Pent
+agonal
+ 
+pyramid
+
+Y)
+ 
+Hex
+agonal
+ 
+prism
+
+Z)
+ 
+H
+e
+x
+agonal
+ 
+pyramid
+
+ANSWER:
+ 
+W
+) PENTAGONAL PRISM
+
+BONUS
+
+1
+1
+) MATH
+ 
+Short Answer
+ 
+If chord
+ 
+AB is 8 units from the center of circle O with a radius of 17,
+
+what is the length of chord AB?
+
+ANSWER: 30
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+1
+2) BIOLOGY
+ 
+Short Answer
+ 
+What is the name of the most important neurotransmitt
+er for
+
+making skeletal muscles contract?
+
+ANSWER: ACETYLCHOLI
+NE
+
+BONUS
+
+1
+2) BIOLOGY
+ 
+Short Answer
+ 
+By name or number, identify
+ 
+all
+ 
+of the following
+ 
+four choices that
+
+could be considered phenophases: 1) first leaf, 2) end of flowering, 3) 50% color, 4) 50%
+ 
+leaf
+
+fall.
+
+ANSWER: FIRST LEAF, END OF FLOWERING, 50% COLOR, AND 50% LEAF FALL
+
+(ACCEPT: 1, 2, 3, 4 OR ALL)
+Round 1
+2
+ 
+Page
+ 
+7
+
+TOSS
+-
+UP
+
+1
+3
+) ENERGY
+ 
+Short Answer
+ 
+In an AC circuit, if the voltage and current are 90 degrees out of
+
+phase, what term can be used to describe
+ 
+the load?
+
+ANSWER:
+ 
+REACTIVE
+
+BONUS
+
+1
+3
+) ENERGY
+ 
+Multiple Choice
+ 
+W
+hich of the following components is the greatest contributor to
+
+no
+-
+load losses on transformers
+?
+
+W)
+ 
+E
+ddy current losses in the core laminations
+
+X)
+ 
+H
+eat losses due to no
+-
+load current
+
+Y)
+ 
+D
+ielectric losses
+
+Z)
+ 
+H
+ysteresis losses
+
+ANSWER:
+ 
+Z)
+ 
+HYSTERESIS LOSSES
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+14
+) PHYSICS
+ 
+Multiple Choice
+ 
+Which of the following statements
+ 
+BEST
+ 
+describes why protons
+
+in the nucleus
+ 
+do
+ 
+NOT
+ 
+fly apart due to coulomb repulsion?
+
+W) The negative charges of the orbiting electrons neutralize the positive charges of the protons
+
+X) The coulomb force
+ 
+d
+oes not manifest within the nucleus
+
+Y) Neutrons cancel the coulomb repulsion
+
+Z) The strong force be
+tween quarks dominates
+
+ANSWER:
+ 
+Z)
+ 
+THE STRONG FORCE BET
+WEEN QUARKS DOMINATE
+S
+
+BONUS
+
+14
+) PHYSICS
+ 
+Short Answer
+ 
+A coil is wrapped with 200 turns of wire on a square frame with
+
+sides of
+ 
+20
+ 
+centimeters
+ 
+in length
+. A uniform magnetic field is applied
+ 
+perpendicular to the plane
+
+of the coil
+.
+ 
+If the field
+ 
+changes uniformly from 0.5
+ 
+to 0 tesla
+s
+ 
+in 8
+ 
+seconds, what is the average
+
+value
+,
+ 
+to the nearest tenth
+ 
+volt
+,
+ 
+of the induced electromotive force?
+
+ANSWER: 0.
+5
+Round 1
+2
+ 
+Page
+ 
+8
+
+TOSS
+-
+UP
+
+1
+5
+) BIOLOGY
+ 
+Multiple Choice
+ 
+Which of the following ions is NOT directly involved in setting
+
+the voltage of a cell membrane?
+
+W) Ca
+ 
+2+
+
+X) K
+ 
++
+
+Y) Na
+ 
++
+
+Z)
+ 
+Mg
+ 
+2+
+
+ANSWER:
+ 
+Z)
+ 
+Mg
+ 
+2+
+
+BONUS
+
+1
+5
+) BIOLOGY
+ 
+Short Answer
+ 
+By name or number, identify
+ 
+all
+ 
+of the following
+ 
+five elemen
+ts that
+
+can be defined as essential trace elements required to support human biochemical processes:
+
+1) manganese, 2) magnesium, 3) bromine, 4) titanium, 5) selenium.
+
+ANSWER: MANGANESE, MAGNESIUM, AND SELENIUM (ACCEPT: 1, 2
+,
+ 
+AND 5)
+
+_______________________
+________________________________
+
+TOSS
+-
+UP
+
+16
+)
+ 
+MATH
+ 
+Multiple Choice
+ 
+Which of the following statements is TRUE
+ 
+about
+ 
+the function
+
+f
+(
+x
+)
+ 
+=
+ 
+sin(
+x
+)
+
+x
+ 
+2
+ 
+(read as:
+ 
+f
+ 
+of
+ 
+x
+ 
+equals sine of
+ 
+x
+ 
+over
+ 
+x
+ 
+squared)
+?
+
+W) The graph of the function passes through the origin
+
+X) The function
+ 
+has a vertical
+ 
+asymptote
+
+Y) The function
+ 
+does not have a horizontal
+ 
+asymptote
+
+Z) The graph of the function is symmetric about the
+ 
+x
+-
+axis
+
+ANSWER:
+ 
+X
+)
+ 
+THE FUNCTION HAS A V
+ERTICAL ASYMPTOTE
+
+BONUS
+
+16
+) MATH
+ 
+Short Answer
+ 
+Providing your answer in simplest radical form, what is the
+
+eccentricity of the hyperbola
+ 
+(
+x
+ 
+ 
+ 
+2)
+ 
+2
+
+4
+ 
+ 
+ 
+(
+y
+ 
++
+ 
+3)
+ 
+2
+
+9
+ 
+=
+ 
+1
+ 
+(read as: open parenthesis
+ 
+x
+ 
+minus 2 close
+
+parenthesis squared over 4 minus open parenthesis
+ 
+y
+ 
+plus 3 close parenthesis squared over
+ 
+9
+
+equals
+ 
+1
+)
+?
+
+ANSWER:
+ 
+13
+
+2
+Round 1
+2
+ 
+Page
+ 
+9
+
+TOSS
+-
+UP
+
+1
+7
+) CHEMISTRY
+ 
+Short Answer
+ 
+Name the two spectator ions in the reaction of
+ 
+lead (II) nitrate
+
+and
+ 
+sodium sulfide
+.
+
+ANSWER: NO
+ 
+3
+ 
+−
+ 
+AND Na
+ 
++
+ 
+(ACCEPT: NITRATE AND SODIUM)
+
+BONUS
+
+1
+7
+) CHEMISTRY
+ 
+Short Answer
+ 
+Place the
+ 
+following molecules or ions in order of increasing
+
+stability: He
+ 
+2
+ 
+, O
+ 
+2
+ 
+, O
+ 
+2
+2
+ 
+−
+ 
+, He
+ 
+2
++
+ 
+, O
+ 
+2
+ 
+−
+ 
+.
+
+ANSWER: He
+ 
+2
+ 
+, He
+ 
+2
++
+ 
+, O
+ 
+2
+2
+ 
+−
+ 
+, O
+ 
+2
+ 
+−
+ 
+, AND O
+ 
+2
+ 
+(ACCEPT: 1, 4, 3, 5, 2)
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+18
+) EARTH AND SPACE
+ 
+Multiple Choice
+ 
+A granitic pluton is overlain by a sandstone
+.
+ 
+This
+
+relationship is an example of which of the following?
+
+W) Angular
+ 
+u
+nconformity
+
+X) Nonconformity
+
+Y) Disconformity
+
+Z) Inclusion
+
+ANSWER: X)
+ 
+NONCONFORMITY
+
+BONUS
+
+18
+) EARTH AND SPACE
+ 
+Short Answer
+ 
+By name
+ 
+or number, p
+ut the following
+ 
+four
+
+metamorphic rocks in order from lowest to highest metamorphic grade:
+ 
+1)
+ 
+migmatite,
+ 
+2)
+ 
+schist,
+
+3)
+ 
+slate,
+ 
+4)
+ 
+gneiss
+ 
+(read as:
+ 
+NICE
+)
+.
+
+ANSWER:
+ 
+SLATE, SCHIST, GNEIS
+S, MIGMATITE
+ 
+(ACCEPT: 3, 2, 4, 1)
+Round 1
+2
+ 
+Page
+ 
+10
+
+TOSS
+-
+UP
+
+1
+9
+) CHEMISTRY
+ 
+Short Answer
+ 
+By
+ 
+name or
+ 
+number, identify which of the following
+ 
+three
+
+species is paramagnetic: 1) CO, 2) CO
+ 
++
+ 
+, 3) CO
+ 
+2+
+ 
+.
+
+ANSWER:
+ 
+CO
+ 
++
+ 
+(ACCEPT: 2)
+
+BONUS
+
+1
+9
+) CHEMISTRY
+ 
+Short Answer
+ 
+By name or number, o
+rder the following
+ 
+four
+ 
+elements from
+
+least to most exothermic electron affinity:
+ 
+1)
+ 
+fluorine,
+ 
+2)
+ 
+chlorine,
+ 
+3)
+ 
+bromine,
+ 
+4)
+ 
+iodine.
+
+ANSWER: IODINE, BROMINE, FLUORINE, CHLORINE
+ 
+(ACCEPT: 4, 3, 1, 2)
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+2
+0
+) BIOLOGY
+ 
+Mu
+ltiple Choice
+ 
+Which of the following characteristics does NOT accurately
+
+describe organisms in the phylum Ctenophora
+ 
+(read as:
+ 
+teh
+-
+NOH
+-
+foh
+-
+rah
+)?
+
+W) C
+olloblasts
+
+X) C
+ilary comb rows
+
+Y) T
+entacles
+
+Z) B
+iradial symmetry
+
+ANSWER: Y)
+ 
+TENTACLES
+
+BONUS
+
+2
+0
+)
+ 
+BIOLOGY
+ 
+Short Answer
+ 
+By
+ 
+name or
+ 
+number, identify
+ 
+all
+ 
+of the following
+ 
+five
+ 
+organisms
+
+that
+ 
+are known as true hibernators because they lower their body temperature to conserve
+
+energy: 1) western garter snake, 2) woodchuck, 3) skunk, 4) brown bear, 5)
+ 
+littl
+e brown
+ 
+bat.
+
+ANSWER
+:
+ 
+WESTERN GARTER SNAKE, WOODCHUCK,
+ 
+LITTLE BROWN
+ 
+BAT
+ 
+(ACCEPT:
+ 
+1,
+
+2, AND 5
+)
+Round 1
+2
+ 
+Page
+ 
+11
+
+TOSS
+-
+UP
+
+21
+) CHEMISTRY
+ 
+Multiple Choice
+ 
+W
+hich of the following elements will react most vigorously
+
+with water to form hydrogen gas as a by
+-
+product
+?
+
+W)
+ 
+Magnesium
+
+X) Barium
+
+Y) Potassium
+
+Z) Bismuth
+
+ANSWER:
+ 
+Y)
+ 
+POTASSIUM
+
+BONUS
+
+2
+1) CHEMISTRY
+ 
+Multiple Choice
+ 
+If you want to separate a liquid mixture containing at least
+
+one volatile component, which of the following techniques could you use?
+
+W)
+ 
+Scrubbing
+
+X) Stripping
+
+Y) Electrorefining
+
+Z) Effusion
+
+ANSWER: X)
+ 
+STRIPPING
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+22) MATH
+ 
+Short Answer
+ 
+Providing your answer in radians with positive r and theta between 0
+
+and 2
+π
+, change the
+ 
+point (4,
+ 
+-
+4) from rectangular form to
+ 
+simplest
+ 
+polar form.
+
+ANSWER: (4
+ 
+2
+, 7
+π
+/4)
+
+BONUS
+
+22) MATH
+ 
+Short Answer
+ 
+F
+or which values of
+ 
+x
+ 
+is the following
+ 
+piecewise
+ 
+function continuous:
+
+f
+(
+x
+) = 0
+ 
+if
+ 
+x
+ 
+is rational, and
+ 
+f
+(
+x
+) = 4
+x
+ 
+if
+ 
+x
+ 
+is irrational?
+
+ANSWER:
+ 
+0
+Round 1
+2
+ 
+Page
+ 
+12
+
+TOSS
+-
+UP
+
+23
+) PHYSICS
+ 
+Multiple Choice
+ 
+The resistance of
+ 
+a
+ 
+hot tungsten
+ 
+filament is about 10 times the
+
+cold resistance. What
+ 
+is
+ 
+the resistance
+,
+ 
+in ohms
+,
+ 
+of a 100 watt and 200 volt lamp
+ 
+filament
+ 
+when
+
+not in use?
+
+W) 20
+
+X) 40
+
+Y) 200
+
+Z) 400
+
+ANSWER:
+ 
+X) 40
+
+BONUS
+
+23
+) PHYSICS
+ 
+Short Answer
+ 
+An object is 4
+8
+ 
+centimeters tall
+.
+ 
+Its
+ 
+image is
+ 
+40
+ 
+centimeters tall,
+
+and 1
+5
+ 
+centimeters
+ 
+away
+ 
+from
+ 
+a
+ 
+mirror.
+ 
+H
+ow far
+, in centimeters,
+ 
+is the object from the mirror?
+
+ANSWER: 18
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+2
+4
+) BIOLOGY
+ 
+Short Answer
+ 
+What kind of symmetry is associated with the process of
+
+cephalization?
+
+ANSWER: BILATERAL
+
+BONUS
+
+2
+4
+) BIOLOGY
+ 
+Short Answer
+ 
+What is the cor
+rect linkage map
+ 
+for the genes P, Q, R
+,
+ 
+and S
+
+given the following recombination frequencies between each gene:
+ 
+P
+-
+Q, 22%; P
+-
+R
+, 8%;
+
+P
+-
+S, 6%; S
+-
+Q, 30%; R
+-
+Q
+, 13%; a
+nd R
+-
+S
+, 15%?
+
+ANSWER:
+ 
+SPRQ
+ 
+(ACCEPT:
+ 
+QRPS
+)
+Round 1
+2
+ 
+Page
+ 
+13
+
+TOSS
+-
+UP
+
+2
+5
+) CHEMISTRY
+ 
+Multiple Choice
+ 
+Which of the following co
+mpounds is
+ 
+NOT
+ 
+named
+
+CORRECTLY?
+
+W) SnF
+ 
+2
+ 
+: stannous fluoride
+
+X) CuCl: cuprous chloride
+
+Y) PbO
+ 
+2
+ 
+: plumbic oxide
+
+Z) FeO: ferric oxide
+
+ANSWER: Z)
+ 
+F
+e
+O: FERRIC OXIDE
+
+BONUS
+
+2
+5
+) CHEMISTRY
+ 
+Short Answer
+ 
+According to the Big Bang theory, stable isotopes of what
+ 
+five
+
+elements were produced shortly after the universe was formed?
+
+ANSWER: HYDROGEN, HELIUM, LITHIUM, BORON, AND BERYLLIUM

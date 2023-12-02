@@ -1,0 +1,1157 @@
+High School Round 3 A Page 1
+
+ROUND 3
+
+TOSS-UP
+
+1) MATH
+ 
+Short Answer
+ 
+If
+ 
+𝑙𝑙𝑙
+100
+2𝑥
+P
+ 
+= 2
+ 
+[log base 10 of 100 to the power of 2x equals 2]
+, what
+is the value of
+ 
+x
+?
+ANSWER:
+ 
+1
+2
+ 
+(ACCEPT: 0.5)
+
+BONUS
+
+1) MATH
+ 
+Short Answer
+ 
+Simplify the following expression:
+ 
+sec
+2 3𝜋
+4
+ 
+−
+ 
+csc
+2 𝜋
+4
+ 
+−
+ 
+cos
+2
+4
+𝜋
+ 
+[secant
+squared of 3 pi over 4 minus cosecant squared of pi over 4 minus cosine squared of 4
+pi]
+.
+ANSWER: -1
+
+TOSS-UP
+
+2) CHEMISTRY
+ 
+Short Answer
+ 
+What is the electron configuration of chromium?
+ANSWER: 1s
+ 
+2
+ 
+2s
+2
+ 
+2p
+ 
+6
+ 
+3s
+ 
+2
+ 
+3p
+6
+ 
+4s
+ 
+1
+ 
+3d
+ 
+5
+ 
+(ACCEPT: [Ar (argon)] 4s
+ 
+1
+ 
+3d
+ 
+5
+)
+
+BONUS
+
+2) CHEMISTRY
+ 
+Short Answer
+ 
+Baeyer-Villiger oxidation is used to transform a ketone into what
+functional group?
+ANSWER: ESTER
+High School Round 3 A Page 2
+
+TOSS-UP
+
+3) PHYSICS
+ 
+Multiple Choice
+ 
+A box is sitting on a ramp with a coefficient of static friction of 0.7.
+Which of the following is closest to the smallest ramp angle for which the box will begin to slide
+down the ramp?
+W) 30°
+X) 35°
+Y) 45°
+Z) 60°
+ANSWER: X) 35°
+
+BONUS
+
+3) PHYSICS
+ 
+Multiple Choice
+ 
+Assuming that 1 atmosphere = 1.01 × 10
+ 
+5
+ 
+pascals and the density
+of water is 1000 kilograms per cubic meter, at what depth of water will the absolute pressure be
+10.8 times the atmospheric pressure?
+W) 10.1 meters
+X) 101 meters
+Y) 1,010 meters
+Z) 10.1 kilometers
+ANSWER: X) 101 METERS
+
+TOSS-UP
+
+4) EARTH AND SPACE
+ 
+Multiple Choice
+ 
+Which of the following is closest to the percentage of
+incoming solar radiation that is absorbed by the ocean and land?
+W) 5%
+X) 15%
+Y) 20%
+Z) 50%
+ANSWER: Z) 50%
+
+BONUS
+
+4) EARTH AND SPACE
+ 
+Multiple Choice
+ 
+In which of the following silicate groups of minerals
+does olivine belong?
+W) Nesosilicates
+ 
+[nee-soh-SIL-i-kayts]
+
+X) Inosilicates
+Y) Sorosilicates
+Z) Phyllosilicates
+ 
+[fil-oh-SIL-i-kayts]
+
+ANSWER: W) NESOSILICATES
+High School Round 3 A Page 3
+
+TOSS-UP
+
+5) BIOLOGY
+ 
+Multiple Choice
+ 
+Eukaryotic
+ 
+[yoo-KAR-ee-oh-tik]
+ 
+genes are composed of introns
+and exons. Which of the following eukaryotes
+ 
+[yoo-KAR-ee-ohts]
+ 
+would have the shortest
+intron size?
+W) Mice
+X) Fruit flies
+Y) Humans
+Z) Yeast
+ANSWER: Z) YEAST
+
+BONUS
+
+5) BIOLOGY
+ 
+Short Answer
+ 
+In the production of mammalian proteins, the first amino acid in the
+polypeptide sequence is almost always the same amino acid. What is this amino acid that is
+prevalent in almost all proteins?
+ANSWER: METHIONINE (ACCEPT: MET AND M)
+
+TOSS-UP
+
+6) ENERGY
+ 
+Multiple Choice
+ 
+Which of the following has long been considered the upper
+theoretical percentage limit for solar cell efficiency?
+W) 24.5%
+X) 33.7%
+Y) 41.2%
+Z) 62.8%
+ANSWER: X) 33.7%
+
+BONUS
+
+6) ENERGY
+ 
+Multiple Choice
+ 
+What property of hydrogen makes water a good neutron
+moderator?
+W) It has a small neutron scattering cross section
+X) It has a large neutron scattering cross section
+Y) It is fissile
+Z) It evaporates at 373 Kelvin
+ANSWER: X) IT HAS A LARGE NEUTRON SCATTERING CROSS SECTION
+High School Round 3 A Page 4
+
+TOSS-UP
+
+7) MATH
+ 
+Short Answer
+ 
+What is the probability that at least one head appears in 4 tosses of a
+fair coin?
+ANSWER: 15/16 (ACCEPT: 0.9375)
+
+BONUS
+
+7) MATH
+ 
+Short Answer
+ 
+What is the inner product of the vectors
+ 
+-4
+i
+ 
++3
+j
+ 
++5
+k
+ 
+and
+ 
+3
+i
+ 
+– 6
+j
+ 
++7
+k
+?
+ANSWER: 5
+
+TOSS-UP
+
+8) CHEMISTRY
+ 
+Multiple Choice
+ 
+Which of the following is true of spontaneous processes at
+constant temperature, volume, and pressure?
+W) Gibbs and Helmholtz free energies increase
+X) Gibbs free energy increases; Helmholtz free energy decreases
+Y) Gibbs and Helmholtz free energies decrease
+Z) Gibbs free energy decreases; Helmholtz free energy increases
+ANSWER: Y) GIBBS AND HELMHOLTZ FREE ENERGIES DECREASE
+
+BONUS
+
+8) CHEMISTRY
+ 
+Short Answer
+ 
+Identify, respectively, the dominant intermolecular force that has
+the greatest effect on the following four molecules: 1) methane, 2) benzoic acid, 3) hydrogen
+chloride gas, and 4) ferric sulfide.
+ANSWER: 1) LONDON DISPERSION (ACCEPT: INDUCED DIPOLE or VAN DER WAALS), 2)
+HYDROGEN BONDING, 3) DIPOLE (ACCEPT: DIPOLE-DIPOLE or LONDON DISPERSION),
+4) IONIC
+High School Round 3 A Page 5
+
+TOSS-UP
+
+9) PHYSICS
+ 
+Short Answer
+ 
+In order to play a low C followed by a high C, one octave up, on a
+violin string, the violinist must increase the frequency of the string by what factor?
+ANSWER: 2
+
+BONUS
+
+9) PHYSICS
+ 
+Short Answer
+ 
+A large water rocket is in the process of taking off. It is noted that
+when the rocket weighs 600 newtons and has an exhaust speed of 5 meters per second that it
+doesn’t leave the ground and it also ceases to apply a force on the ground. What must be the
+volume flow rate of the exhaust in liters per second?
+ANSWER: 120
+
+TOSS-UP
+
+10) EARTH AND SPACE
+ 
+Multiple Choice
+ 
+Most solar radiation is emitted in short wavelengths.
+Visible wavelengths fall in which of the following ranges in micrometers?
+W) 0.1 - 0.4
+X) 0.4 - 0.7
+Y) 0.7 - 1.0
+Z) 1.0 - 1.3
+ANSWER: X) 0.4 - 0.7
+
+BONUS
+
+10) EARTH AND SPACE
+ 
+Short Answer
+ 
+What is the word used to describe pebbles in a river that
+are overlapping and dip in the upstream direction?
+ANSWER: IMBRICATION
+High School Round 3 A Page 6
+
+TOSS-UP
+
+11) BIOLOGY
+ 
+Short Answer
+ 
+During which phase of interphase does expression of proteins
+needed to prepare for DNA replication increase?
+
+ANSWER: G1
+
+BONUS
+
+11) BIOLOGY
+ 
+Multiple Choice
+ 
+Brine shrimp are able to survive in wide ranges of salinity. Which
+of the following phrases is NOT true regarding their osmoregulation when placed in a tank of
+saline?
+W) Osmoconformation, body fluid osmolarity is equivalent to osmolarity of saline in which they
+are swimming
+X) Osmoregulation, body fluid osmolarity is kept at an osmolarity different from the osmolarity of
+saline in which they are swimming
+Y) Hyper-osmoregulation, body fluid osmolarity is kept higher than osmolarity of saline in which
+they are swimming
+Z) Hypo-osmoregulation, body fluid osmolarity is kept lower than osmolarity of saline in which
+they are swimming
+ANSWER: Y) HYPER-OSMOREGULATION, BODY FLUID OSMOLARITY IS KEPT HIGHER
+THAN OSMOLARITY OF SALINE IN WHICH THEY ARE SWIMMING
+
+TOSS-UP
+
+12) ENERGY
+ 
+Short Answer
+ 
+In an isothermal system, what is one way that one can increase the
+number of interactions of a gas with a solid surface?
+ANSWER: INCREASE PRESSURE (ACCEPT: DECREASE VOLUME)
+
+BONUS
+
+12) ENERGY
+ 
+Multiple Choice
+ 
+If yellow light has a wavelength of 550 nanometers, which of the
+following colors and associated wavelengths of light in nanometers is most energetic?
+W) Violet, 700
+X) Green, 500
+Y) Red, 500
+Z) Red, 700
+ANSWER: X) GREEN, 500
+High School Round 3 A Page 7
+
+TOSS-UP
+
+13) MATH
+ 
+Multiple Choice
+ 
+What is the general solution to the differential equation:
+
+d
+y
+
+/
+d
+x
+ 
+= 2
+x
+ 
++ 1
+ 
+[dy dx equals 2x plus 1]
+?
+W)
+ 
+y
+ 
+=
+ 
+x
+2
+ 
++
+ 
+x
+ 
++ c
+
+X)
+ 
+y
+ 
+= ½
+ 
+x
+2
+ 
++ c
+
+Y)
+ 
+y
+ 
+= 2 + c
+
+Z)
+ 
+y
+ 
+= 2
+x
+ 
++ c
+
+ANSWER: W)
+ 
+y
+ 
+=
+ 
+x
+2
+ 
++
+ 
+x
+ 
++ c
+
+BONUS
+
+13) MATH
+ 
+Short Answer S
+implify:
+ 
+x
+1/2
+ 
+(
+x
+1/2
+ 
++
+ 
+x
+1/2
+ 
+)
+ 
+[x to the power of one half times open
+parenthesis x to the power of one half plus x to the power of one half close parenthesis]
+.
+ANSWER:
+ 
+2
+x
+
+TOSS-UP
+
+14) CHEMISTRY
+ 
+Short Answer
+ 
+In lab, you have patented the creation of a metallic radioactive
+isotope called Sciencebowlium-23. But, after a period of time, the sample radioactively decays
+into oxygen-16, where it becomes a gas and dissipates into the atmosphere. You create a
+
+sample of Sciencebowlium and weigh it as 500 grams. Exactly four days later, you weigh the
+sample at 62.5 grams. How many hours long is the half-life of Sciencebowlium-23?
+ANSWER: 32
+
+BONUS
+
+14) CHEMISTRY
+ 
+Short Answer
+ 
+What is the bond order of the nitrogen-oxygen bond in the
+nitrate anion?
+
+ANSWER: 1.33 (ACCEPT: 4/3 or 1 1/3)
+High School Round 3 A Page 8
+
+TOSS-UP
+
+15) PHYSICS
+ 
+Multiple Choice
+ 
+Two satellites of masses
+ 
+m
+1
+ 
+and
+ 
+m
+2
+ 
+, where
+ 
+m
+1
+ 
+= 4
+m
+2
+ 
+, are
+deployed in circular orbits of the same radius in the gravitational field of Earth. What is the ratio
+of their linear speeds
+ 
+v
+1
+ 
+/
+v
+2
+ 
+?
+W) 1/4
+X) 1
+Y) 2
+Z) 4
+ANSWER: X) 1
+
+BONUS
+
+15) PHYSICS
+ 
+Multiple Choice
+ 
+Assuming h = 6.63 x 10
+ 
+-34
+ 
+joule seconds, what is the approximate
+energy of a photon in joules in a 1000 nanometer light beam?
+W) 2 × 10
+ 
+-19
+X) 2 × 10
+ 
+-18
+Y) 2 × 10
+ 
+-17
+Z) 4 × 10
+ 
+-18
+ANSWER: W) 2 × 10
+ 
+-19
+
+TOSS-UP
+
+16) EARTH AND SPACE
+ 
+Short Answer
+ 
+What type of front travels at about 30 miles per hour and
+has a slope of about 1:100?
+ANSWER: COLD
+
+BONUS
+
+16) EARTH AND SPACE
+ 
+Short Answer
+ 
+What is the name of the deepest lake in Africa that was
+formed from continental rifting?
+ANSWER: LAKE TANGANYIKA
+High School Round 3 A Page 9
+
+TOSS-UP
+
+17) BIOLOGY
+ 
+Multiple Choice
+ 
+A type of albinism in the Hopi Native American population is
+caused by mutation of the OCA2 gene. If the dominant form of the gene gives a person normal
+pigmentation, then which of the following genotypes would result in albinism?
+W) Heterozygous co-dominance
+ 
+[het-er-uh-ZY-guhs]
+
+X) Homozygous dominant
+ 
+[hoh-muh-ZY-guhs]
+
+Y) Homozygous recessive
+Z) Heterozygous incomplete dominance
+ANSWER: Y) HOMOZYGOUS RECESSIVE
+
+BONUS
+
+17) BIOLOGY
+ 
+Short Answer
+ 
+Identify all of the following five choices that are diploid: 1)
+spermatogonium
+ 
+[spur-mat-uh-GOH-nee-uhm]
+, 2) spermatids, 3) secondary spermatocyte
+
+[spuhr-MAT-uh-syt]
+, 4) primary spermatocyte, 5) mature sperm cells.
+ANSWER: 1, 4 (ACCEPT: SPERMATOGONIUM, PRIMARY SPERMATOCTYE)
+
+TOSS-UP
+
+18) PHYSICS
+ 
+Multiple Choice
+ 
+In order to see a full height image of your body, the vertical size
+of a mirror should be at least which of the following?
+W) One-fourth of your height
+X) Half of your height
+Y) Your height
+Z) Twice your height
+ANSWER: X) HALF OF YOUR HEIGHT
+
+BONUS
+
+18) PHYSICS
+ 
+Multiple Choice
+ 
+A mass spectrometry experiment is performed with a magnetic
+field of 0.2 newtons per ampere meter and an electric field of 3.0 × 10
+ 
+5
+ 
+volts
+ 
+per meter. What is
+the speed of the ions?
+W) 750 meters per second
+X) 1500 meters per second
+Y) 150 kilometers per second
+Z) 1500 kilometers per second
+ANSWER: Z) 1500 KILOMETERS PER SECOND
+High School Round 3 A Page 10
+
+TOSS-UP
+
+19) MATH
+ 
+Multiple Choice
+ 
+What is the derivative of
+ 
+y
+ 
+= (3
+x
+ 
++ 1)
+ 
+2
+ 
+[y equals 3x plus 1 quantity
+squared]
+?
+W)
+ 
+18
+x
+ 
++ 6
+
+X)
+ 
+18
+x
+
+Y)
+ 
+6
+x
+ 
++ 1
+
+Z)
+ 
+6
+x
+ 
++ 2
+
+ANSWER: W)
+ 
+18
+x
+ 
++ 6
+
+BONUS
+
+19) MATH
+ 
+Short Answer
+ 
+What is the equation, in slope-intercept form, of the perpendicular
+bisector of the line segment with endpoints
+ 
+(4, 10)
+ 
+and
+ 
+(-6, 8)
+?
+ANSWER:
+ 
+y
+ 
+= -5
+x
+ 
++ 4
+
+TOSS-UP
+
+20) CHEMISTRY
+ 
+Multiple Choice
+ 
+At high temperatures, nitrogen (N
+ 
+2
+ 
+) and oxygen (O
+ 
+2
+ 
+) gases
+react to form nitric oxide (NO) in a highly endothermic process. In a closed vessel, the three
+compounds form an equilibrium
+ 
+[ee-kwuh-LIB-ree-uhm]
+. Which of the following changes to the
+vessel will result in the production of more NO?
+W) Addition of helium at constant volume
+X) Adding a catalyst
+Y) Increasing the temperature of the vessel
+Z) Removing oxygen from the vessel
+ANSWER: Y) INCREASING THE TEMPERATURE OF THE VESSEL
+
+BONUS
+
+20) CHEMISTRY
+ 
+Short Answer
+ 
+Dinitrogen tetroxide is a powerful oxidizer and can be used with
+hydrazine fuels to propel rockets. What is the point group of dinitrogen tetroxide?
+ANSWER:
+ 
+D
+2h
+High School Round 3 A Page 11
+
+TOSS-UP
+
+21) PHYSICS
+ 
+Multiple Choice
+ 
+A light ray passes from air (
+n
+1
+ 
+= 1.00) to three layers of the
+human eye: cornea (
+n
+2
+ 
+= 1.33), lens (
+n
+3
+ 
+= 1.41), and vitreous humor (
+n
+4
+ 
+= 1.33). The speeds of
+light in these mediums are, respectively,
+ 
+v
+1
+ 
+,
+ 
+v
+2
+ 
+,
+ 
+v
+3
+ 
+,
+ 
+v
+4
+ 
+. Which of the following must be true about
+the relationships between the speeds of light in the different media?
+W)
+ 
+v
+1
+ 
+<
+ 
+v
+2
+ 
+<
+ 
+v
+3
+ 
+<
+ 
+v
+4
+X)
+ 
+v
+4
+ 
+<
+ 
+v
+3
+ 
+<
+ 
+v
+2
+ 
+<
+ 
+v
+1
+
+Y)
+ 
+v
+3
+ 
+<
+ 
+v
+2
+ 
+and
+ 
+v
+4
+ 
+<
+ 
+v
+1
+Z)
+ 
+v
+2
+ 
+<
+ 
+v
+3
+ 
+and
+ 
+v
+1
+ 
+<
+ 
+v
+4
+ANSWER: Y)
+ 
+v
+3
+ 
+<
+ 
+v
+2
+ 
+AND
+ 
+v
+4
+ 
+<
+ 
+v
+1
+
+BONUS
+
+21) PHYSICS
+ 
+Short Answer
+ 
+Two satellites are orbiting in circular orbits of radii
+ 
+r
+1
+ 
+and
+ 
+r
+2
+ 
+around
+a planet, where
+ 
+r
+1
+ 
+= 4
+r
+2
+ 
+. What is the ratio of their periods of revolutions
+ 
+T
+1
+ 
+/
+T
+2
+ 
+?
+ANSWER: 8
+
+TOSS-UP
+
+22) EARTH AND SPACE
+ 
+Short Answer
+ 
+What international agreement, initially drafted in 1987,
+was designed to phase out production of chlorofluorocarbons
+ 
+[klohr-oh-floor-oh-KAHR-
+buhns]
+ 
+that cause damage to the stratospheric ozone layer?
+ANSWER: MONTREAL PROTOCOL
+
+BONUS
+
+22) EARTH AND SPACE
+ 
+Multiple Choice
+ 
+The shells of which of the following zooplankton
+groups are used in carbon-14 dating of ocean sediments?
+W) Polycistina
+X) Foraminifera
+ 
+[fuh-ram-uh-NIF-er-uh]
+
+Y) Acantheria
+ 
+[uh-kan-THUH-ree-uh]
+
+Z) Ciliata
+ 
+[sil-ee-AY-tuh]
+
+ANSWER: X) FORAMINIFERA
+High School Round 3 A Page 12
+
+TOSS-UP
+
+23) BIOLOGY
+ 
+Short Answer
+ 
+If there are two alleles for the gene encoding size, and if the
+frequency of the big size allele, B
+ 
+[upper case B],
+ 
+in a population of warthogs is 0.4, then what
+is the frequency of the small size allele, b
+ 
+[lower case b]
+, assuming Hardy Weinberg
+equilibrium
+ 
+[ee-kwuh-LIB-ree-uhm]
+?
+ANSWER: 0.6
+
+BONUS
+
+23) BIOLOGY
+ 
+Short Answer
+ 
+Arrange the following four groups from the taxa containing the
+largest number of known living species to the group containing the least: 1) Amphibians, 2)
+Mammals, 3) Fishes, 4) Birds.
+ANSWER: 3, 4, 1, 2 (ACCEPT: FISHES, BIRDS, AMPHIBIANS, MAMMALS)
+
+TOSS-UP
+
+24) ENERGY
+ 
+Multiple Choice
+ 
+The Bakken Oil/Gas field is estimated to contain up to 24 billion
+barrels of oil. In which of the following states, among others, is it located?
+W) North Dakota
+X) Oklahoma
+Y) Pennsylvania
+Z) Texas
+ANSWER: W) NORTH DAKOTA
+
+BONUS
+
+24) ENERGY
+ 
+Multiple Choice
+ 
+A DOE geothermal research project has established the
+effectiveness of enhanced geothermal systems (EGS) for utilizing geothermal energy for the
+generation of electricity. Using this approach, which of the following percentages of total U.S.
+current generating capacity could be generated with EGS?
+W) 5%
+X)15%
+Y) 25%
+Z) 50%
+ANSWER: Z) 50%
+High School Round 3 A Page 13
+
+TOSS-UP
+
+25) BIOLOGY
+ 
+Multiple Choice
+ 
+Which of the following animals would have the highest levels of
+myoglobin
+ 
+[my-uh-GLOH-bin]
+ 
+in their muscle?
+W) American pronghorn
+X) Human being
+Y) Weddell seal
+Z) Kangaroo rat
+ANSWER: Y) WEDDELL SEAL
+
+BONUS
+
+25) BIOLOGY
+ 
+Multiple Choice
+ 
+Some virus species can infect an individual host more than once
+because they change the shape of molecules exposed on the surface of their virions
+ 
+[VY-ree-
+ons]
+ 
+so that they are no longer recognized by the host’s immunological memory. The influenza
+virus can make sudden and drastic changes in these molecules due to a phenomenon called
+reassortment. Which of the following contributes to the process of reassortment?
+W) Widely varying strains of influenza
+X) The diversity of animals infected by influenza
+Y) The segmented genome found in influenza
+Z) The lack of effective antivirals against influenza until recently
+ANSWER: Y) THE SEGMENTED GENOME FOUND IN INFLUENZA

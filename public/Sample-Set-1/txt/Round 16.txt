@@ -1,0 +1,894 @@
+High School Round 16
+ 
+Page 1
+
+ROUND 16
+TOSS-UP
+
+1) BIOLOGY
+ 
+Multiple Choice
+ 
+In which of the following wavelengths does DNA absorb the best:
+W) 3,900 angstroms
+X) 260 nanometers
+Y) 340 nanometers
+Z) 540 nanometers
+ANSWER: X) 260 NANOMETERS
+
+BONUS
+
+1) BIOLOGY
+ 
+Multiple Choice
+ 
+Which of the following is closest to the diameter of a
+plasmodesmata (read as: PLAS-mo-dez-MAH-tah):
+W) 2 angstroms
+X) 60 nanometers
+Y) 80 microns
+Z) 180 microns
+ANSWER: X) 60 NANOMETERS
+(Solution: this is the only logical size considering the average plant cell size and the size of
+transported molecules)
+
+TOSS-UP
+
+2) CHEMISTRY
+ 
+Short Answer
+ 
+Name the 2 different bond angles present in a molecule with
+octahedral geometry, such as in SF
+6
+ 
+:
+ANSWER: 90; 180
+
+BONUS
+
+2) CHEMISTRY
+ 
+Short Answer
+ 
+In a titration experiment, it takes 20.0 milliliters of a 0.05 molar
+barium hydroxide, Ba(OH)
+2
+ 
+, solution to neutralize 40 milliliters of a nitric acid, or HNO
+3
+ 
+, solution to
+the equivalence point. Calculate the molarity of HNO
+3
+ 
+, rounded to the second decimal place:
+ANSWER: 0.05
+(Solution: 0.05 mol Ba(OH)
+2
+ 
+/L × 0.02L = 0.001 mol Ba(OH)
+2
+ 
+× 2 = 0.002 mol; 0.002 mol ÷ 0.04L
+= 0.05M)
+High School Round 16
+ 
+Page 2
+
+TOSS-UP
+
+3) PHYSICS
+ 
+Short Answer
+ 
+By words or numbers, identify all of the following 4 choices that
+MUST be true for 2 objects in thermal equilibrium:
+1) they both must radiate no energy in any direction
+2) they must be at the same temperature
+3) they both must have the same thermal expansion coefficients
+4) they must have the same internal energy
+ANSWER: 2
+
+BONUS
+
+3) PHYSICS
+ 
+Short Answer
+ 
+How many kilojoules of thermal energy, rounded to the first decimal
+place, must be lost from a 250-gram block of Teflon with a specific heat of 1 kilojoule per kilogram
+kelvin, to lower the block’s temperature from 125º C to 75º C?
+ANSWER: 12.5 (ACCEPT: –12.5)
+(Solution: (1000 J/kg.K)(0.25 Kg)(–50K) = –12,500 joules = –12.5 kJ)
+
+TOSS-UP
+
+4) MATH
+ 
+Short Answer
+ 
+If a point has polar coordinates
+ 
+(3, π), what are the rectangular
+
+coordinates?
+
+ANSWER: (–3, 0)
+(Solution:
+ 
+x
+ 
+= 3 cos π =
+ 
+–3 and
+ 
+y
+ 
+= 3 sin π = 0)
+
+BONUS
+
+4) MATH
+ 
+Short Answer
+ 
+The graph of the polar equation,
+ 
+r
+ 
+= 5 – 5 cosine
+ 
+θ
+, is a cardioid. In
+which two quadrants is most of the area of this cardioid?
+ANSWER: II AND III (ACCEPT: 2 AND 3 or SECOND AND THIRD)
+High School Round 16
+ 
+Page 3
+
+TOSS-UP
+
+5) EARTH SCIENCE
+ 
+Multiple Choice
+ 
+Which of the following is a coarse-grained igneous rock
+primarily containing plagioclase feldspar, amphibole and biotite:
+W) gabbro
+X) basalt
+Y) diorite
+Z) granite
+ANSWER: Y) DIORITE
+
+BONUS
+
+5) EARTH SCIENCE
+ 
+Short Answer
+ 
+Of the 3 basic types of magma on Earth, which one generally
+has the LOWEST eruptive temperature?
+ANSWER: RHYOLITIC (ACCEPT: RHYOLITE)
+(Solution: basaltic ~ 1000º – 1200ºC, andesitic ~ 800º – 1000ºC, rhyolitic ~ 650º – 800ºC)
+
+TOSS-UP
+
+6) GENERAL SCIENCE
+ 
+Multiple Choice
+ 
+Which of the following is the source of alpha radiation
+most often used in household ionization smoke detectors:
+W) americium-241
+X) uranium-238
+Y) radium-226
+Z) iron-59
+ANSWER: W) AMERICIUM-241
+
+BONUS
+
+6) GENERAL SCIENCE
+ 
+Short Answer
+ 
+Calculate the heating degree day in the U.S. if the day’s
+high temperature is 70ºF and the low is 30ºF:
+ANSWER: 15
+(Solution: (70º + 30º)/2 = 50º; 65º – 50º = 15 HDD)
+High School Round 16
+ 
+Page 4
+
+TOSS-UP
+
+7) ASTRONOMY
+ 
+Short Answer
+ 
+Order the following 3 stages from the EARLIEST to the
+LATEST in the evolution of a G-type star of 2 solar masses: red giant; T-tauri; white dwarf
+ANSWER: T-TAURI; RED GIANT; WHITE DWARF
+
+BONUS
+
+7) ASTRONOMY
+ 
+Short Answer
+ 
+If a star has a surface temperature of 3,000 degrees kelvin, a core
+temperature of 100 million Kelvin, and a luminosity of 2,000-times our Sun, choosing from upper
+right, upper left, lower left, and lower right, where on an H-R diagram would it most likely be
+found?
+ANSWER: UPPER RIGHT
+(Solution: this describes a red giant)
+
+TOSS-UP
+
+8) BIOLOGY
+ 
+Short Answer
+ 
+What reduced coenzyme donates its electrons to complex-one in the
+electron transport system?
+ANSWER: NADH
+
+BONUS
+
+8) BIOLOGY
+ 
+Multiple Choice
+ 
+In a double reciprocal plot of Michaelis-Menton kinetics, what is
+the effect of a competitive inhibitor:
+W) change in the vertical axis intercept
+X) change in the slope only
+Y) change in the horizontal axis intercept only
+Z) change in both vertical and horizontal axes intercepts
+ANSWER: X) CHANGE IN THE SLOPE ONLY
+High School Round 16
+ 
+Page 5
+
+TOSS-UP
+
+9) CHEMISTRY
+ 
+Short Answer
+ 
+What is the bond order for each oxygen-oxygen bond in the ozone
+or O
+3
+ 
+molecule?
+ANSWER:
+ 
+2
+3
+ 
+(ACCEPT: 1.5)
+
+BONUS
+
+9) CHEMISTRY
+ 
+Multiple Choice
+ 
+Hydrogen gas effuses through a pinhole opening from one
+compartment to another about how many times as fast as nitrogen gas:
+W) 2.4-times
+X) 3.7-times
+Y) 5.3-times
+Z) 8.2-times
+ANSWER: X) 3.7-TIMES
+(Solution:
+ 
+mol
+g
+mol
+g
+r
+r
+N
+H
+
+/
+2
+/
+28
+2
+2
+ 
+=
+ 
+= 3.7)
+
+TOSS-UP
+
+10) PHYSICS
+ 
+Multiple Choice
+ 
+Which of the following best describes why the optical spectrum of
+an atom exists as discrete lines and not as a continuous spectrum:
+W) atoms have electrons with unit charge
+X) all atoms when excited emit light
+Y) all energy levels of atoms are quantized
+Z) all electrons have spin
+ANSWER: Y) ALL ENERGY LEVELS OF ATOMS ARE QUANTIZED
+
+BONUS
+
+10) PHYSICS
+ 
+Multiple Choice
+ 
+Which of the following BEST describes one of Maxwell’s
+equations that is a mathematical conceptualization of Faraday’s law:
+W) a magnetic B-field is a solenoid vector field
+X) an EMF induced in a conductor opposes that motion
+Y) induced currents are caused by the magnetic field and in opposition to the opposed flux
+Z) a time-varying B-field produces an E-field
+ANSWER: Z) A TIME-VARYING B-FIELD PRODUCES AN E-FIELD
+High School Round 16
+ 
+Page 6
+
+TOSS-UP
+
+11) MATH
+ 
+Multiple Choice
+ 
+At
+ 
+x
+ 
+=
+ 
+2
+1
+
+−
+ 
+, the graph of
+ 
+y
+ 
+=
+ 
+x
+3
+ 
+is:
+
+W) increasing and concave up
+X) increasing and concave down
+Y) decreasing and concave up
+Z) decreasing and concave down
+ANSWER: X) INCREASING AND CONCAVE DOWN
+(Solution: at the indicated value the 1
+st
+ 
+derivative is positive (implying increasing) and the 2
+ 
+nd
+derivative is negative (implying concave down))
+
+BONUS
+
+11) MATH
+ 
+Short Answer
+ 
+The point (3, 2) is reflected across the graph of
+ 
+y
+ 
+= 6 and the resulting
+point is then reflected across the graph of
+ 
+y
+ 
+=
+ 
+x
+. What are the coordinates of the final point?
+ANSWER: (10, 3)
+(Solution: the 1
+st
+ 
+reflection
+ 
+
+ 
+(3,10); 2nd
+ 
+reflection interchanges the
+ 
+x
+ 
+and
+ 
+y
+ 
+coordinates)
+
+TOSS-UP
+
+12) GENERAL SCIENCE
+ 
+Multiple Choice
+ 
+According to EPA nationwide emission trends for
+common air pollutants and excluding fires and dust, which of the following accounted for the least
+amount of emissions in the past 5 years:
+W) volatile organic compounds
+X) carbon monoxide
+Y) sulfur dioxide
+Z) particulate matter
+ANSWER: Z) PARTICULATE MATTER
+(Solution: VOC ~ 15; CO ~ 81 mT/yr; SO
+2
+ 
+~ 13; particulates ~ 3)
+
+BONUS
+
+12) GENERAL SCIENCE
+ 
+Short Answer
+ 
+Without leap days every 4 years, the winter solstice
+would start on what month and day after 70 years?
+ANSWER: JANUARY 7 (ACCEPT: JANUARY 6 TO 8)
+(Solution: 17 days later)
+High School Round 16
+ 
+Page 7
+
+TOSS-UP
+
+13) EARTH SCIENCE
+ 
+Short Answer
+ 
+In what layer of Earth’s atmosphere do most meteors
+experience the most heating?
+ANSWER: MESOSPHERE
+
+BONUS
+
+13) EARTH SCIENCE
+ 
+Short Answer
+ 
+Name all of the following 4 layers of the atmosphere where
+temperature typically increases as altitude increases: troposphere; stratosphere; mesosphere;
+thermosphere
+ANSWER: STRATOSPHERE; THERMOSPHERE
+
+TOSS-UP
+
+14) ASTRONOMY
+ 
+Multiple Choice
+ 
+Which of the following is LEAST likely to occur when
+viewed from mid-northern latitudes in the month of August:
+W) Venus passing within 2º of Saturn
+X) Neptune at opposition
+Y) the Moon at apogee on the 1
+st
+ 
+of the month and perigee at the 29
+ 
+th
+ 
+of the month
+Z) the Moon passing within 5º of Uranus
+ANSWER: Y) THE MOON AT APOGEE ON THE 1
+ 
+ST
+ 
+OF THE MONTH AND PERIGEE AT
+THE 29
+ 
+TH
+ 
+OF THE MONTH
+(Solution: apogee and perigee are separated by about 14-15 days)
+
+BONUS
+
+14) ASTRONOMY
+ 
+Multiple Choice
+ 
+Which of the following was seen from mid-northern latitudes
+by casual stargazers as a bright light in August of 2008 at midnight, about 1/2 way up the southern
+horizon:
+W) Venus
+X) Vega
+Y) Jupiter
+Z) Uranus
+ANSWER: Y) JUPITER
+(Solution: Venus and Vega are not there at this time of year and Uranus is never that bright)
+High School Round 16
+ 
+Page 8
+
+TOSS-UP
+
+15) BIOLOGY
+ 
+Short Answer
+ 
+What is the primary calcium-binding protein in eukaryotic cells, that
+is about 148 amino acids long, and has a wide variety of functions often through kinases and
+phosphatases (read as: foss-fah-TAY-sis)?
+ANSWER: CALMODULIN
+
+BONUS
+
+15) BIOLOGY
+ 
+Multiple Choice
+ 
+Which of the following is the RNA complementary sequence of
+the following sequence: 5’CCGCGA 3’ (read as: 5-prime, CCGCGS, 3-prime)
+W) 5’ UCGCGG 3’ (read as: 5-prime, UCGCGG, 3-prime)
+X) 5’ GGCGCU 3’
+Y) 5’ GGCGCT 3’
+Z) 5’ TCGCGG 3’
+ANSWER: W) 5’ UCGCGG 3’
+
+TOSS-UP
+
+16) CHEMISTRY
+ 
+Short Answer
+ 
+For the following 3 processes, predict whether the change in
+enthalpy, or
+ 
+∆Sº (read as: delta S naught), is positive or negat
+ive, respectively:
+1) decomposition of ammonium nitrate
+2) sublimation of dry ice
+3) condensation of gaseous iodine to liquid iodine
+ANSWER: 1) +; 2) +; 3) –
+
+BONUS
+
+16) CHEMISTRY
+ 
+Short Answer
+ 
+Consider the following equilibrium reaction,
+PCl
+5(gas)
+ 
+↔ PCl
+3(gas)
+ 
++ Cl
+2(gas)
+. If a 1-liter flask contains 0.02 moles of PCl
+ 
+3
+ 
+and 0.02 moles of Cl
+ 
+2
+ 
+at
+equilibrium, how many moles of PCl
+ 
+5
+ 
+are in the flask. Assume the equilibrium constant is 5 × 10
+ 
+–2
+ 
+.
+ANSWER: 8 × 10
+ 
+–3
+ 
+(ACCEPT: 0.008)
+(Solution: K
+c
+ 
+= [PCl
+3
+][Cl
+2
+ 
+]/[PCl
+5
+] = (0.02)(0.02)/(0.05) = 0.008 moles)
+High School Round 16
+ 
+Page 9
+
+TOSS-UP
+
+17) PHYSICS
+ 
+Short Answer
+ 
+During beta minus decay, what nucleon type is reduced by one?
+ANSWER: NEUTRON
+
+BONUS
+
+17) PHYSICS
+ 
+Multiple Choice
+ 
+Which of the following is NOT true of the Hall effect:
+W) it can be used to measure the strength of a magnetic field
+X) it is a consequence of a current carrying wire in a magnetic field
+Y) it was one of the first direct indications that negative charges are what move in conductors
+Z) it cannot distinguish between positive and negative particles
+ANSWER: Z) IT CANNOT DISTINGUISH BETWEEN POSITIVE AND NEGATIVE
+PARTICLES
+
+TOSS-UP
+
+18) GENERAL SCIENCE
+ 
+Short Answer
+ 
+What are the Ice Cube observatory under construction at
+the South Pole and the ANTARES telescope off the coast of France primarily designed to detect?
+ANSWER: NEUTRINOS
+
+BONUS
+
+18) GENERAL SCIENCE
+ 
+Multiple Choice
+ 
+During the winter solstice in the northern hemisphere,
+which of the following northern latitude positions will have a day length of 10.1 hours:
+W) 30º
+X) 40º
+Y) 50º
+Z) 60º
+ANSWER: W) 30º
+High School Round 16
+ 
+Page 10
+
+TOSS-UP
+
+19) EARTH SCIENCE
+ 
+Multiple Choice
+ 
+During the past 500,000 years, there have been how many
+periods of major glaciation on Earth:
+W) 2
+X) 3
+Y) 4
+Z) 5
+ANSWER: Z) 5
+
+BONUS
+
+19) EARTH SCIENCE
+ 
+Multiple Choice
+ 
+A rising parcel of air reaches the lifting condensation
+level at 2,000 meters at a dew point temperature of 15ºC. At 3,000 meters, the temperature of this
+parcel of air will on average be:
+W) 15ºC
+X) 10ºC
+Y) 6ºC
+Z) 3ºC
+ANSWER: X) 10ºC
+(Solution: wet-adiabatic lapse rate ~ 5ºC/1000 meters)
+
+TOSS-UP
+
+20) MATH
+ 
+Short Answer
+ 
+Of the following 5 functions identify all that are NOT differentiable for
+all real numbers: |
+ 
+x
+ 
+| (read as: absolute value of
+ 
+x
+); cosine(
+x
+); tangent(
+x
+);
+ 
+e
+x
+;
+ 
+the greatest integer
+function
+ANSWER: |
+ 
+x
+ 
+|; TAN(
+x
+); THE GREATEST INTEGER FUNCTION
+
+BONUS
+
+20) MATH
+ 
+Short Answer
+ 
+The curve defined by the equation,
+ 
+Ax
+2
+ 
++
+ 
+Bx
+ 
++
+ 
+Cy
+2
+ 
++
+ 
+Dy
+ 
++
+ 
+E
+ 
+=0, can be
+an ellipse if which of the constants are positive?
+ANSWER:
+ 
+A AND C
+High School Round 16
+ 
+Page 11
+
+TOSS-UP
+
+21) ASTRONOMY
+ 
+Short Answer
+ 
+What 3 elements are most prominent in the carbon fusion cycle?
+ANSWER: CARBON; NITROGEN; OXYGEN
+
+BONUS
+
+21) ASTRONOMY
+ 
+Short Answer
+ 
+If the surface of a star is 15,000 kelvin, at what wavelength, in
+nanometers rounded to the nearest whole number, does it emit its maximum energy?
+ANSWER: 200
+(Solution:
+ 
+λ
+ 
+max
+ 
+= 3 × 10
+ 
+6
+ 
+/15,000 K = 200 nm)
+
+TOSS-UP
+
+22) BIOLOGY
+ 
+Short Answer
+ 
+What cell type is MOST directly responsible for secreting the bone
+matrix in developing humans?
+ANSWER: OSTEOBLASTS (DO NOT ACCEPT: OSTEOCYTE)
+
+BONUS
+
+22) BIOLOGY
+ 
+Short Answer
+ 
+What specific human bone cell is antagonistic to osteoblasts and is
+known to cause apoptosis (read as: A-pop-TOE-sis) of osetoblasts in vitro?
+ANSWER: OSTEOCLASTS
+High School Round 16
+ 
+Page 12
+
+TOSS-UP
+
+23) CHEMISTRY
+ 
+Short Answer
+ 
+Of the following 5 alkanes, which one has the LEAST combined
+strain energy from angle strain and torsional strain: [read slowly] cyclopropane; cyclobutane;
+cyclopentane; cyclohexane; cyclo-octane
+ANSWER: CYCLOHEXANE
+
+BONUS
+
+23) CHEMISTRY
+ 
+Short Answer
+ 
+What is the most common name for the conformation that the
+ring structure of cyclohexane adopts to reach a strain-free value?
+ANSWER: CHAIR
+
+TOSS-UP
+
+24) PHYSICS
+ 
+Short Answer
+ 
+What is the name of the universal constant that relates atomic spectra
+of elements to that of hydrogen?
+ANSWER: RYDBERG CONSTANT (ACCEPT: RYDBERG)
+
+BONUS
+
+24) PHYSICS
+ 
+Short Answer
+ 
+Assuming the universal gravitational constant is 6.67 × 10–11
+newton-meters squared per kilogram squared, what is the gravitational attraction, in newtons,
+between two, 10-kilogram perfectly uniform spheres separated by a center-to-center distance of 10
+meters?
+ANSWER: 6.67 × 10–11
+(Solution: F = [(6.67 × 10
+-11
+ 
+)(10)(10)]/10
+ 
+2
+ 
+= 6.67 × 10-11
+ 
+NEWTONS)
+High School Round 16
+ 
+Page 13
+
+TOSS-UP
+
+25) BIOLOGY
+ 
+Short Answer
+ 
+Intestinal absorption of what vitamin is most directly dependent on
+intrinsic factor?
+ANSWER: B
+12
+
+BONUS
+
+25) BIOLOGY
+ 
+Short Answer
+ 
+What plant hormone is primarily responsible for apical dominance in
+angiosperms?
+ANSWER: AUXIN (ACCEPT: INDOLE-ACETIC ACID or IAA)

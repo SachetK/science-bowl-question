@@ -1,0 +1,673 @@
+2019 Regional Science Bowl – Round 9A
+ 
+Page 1
+
+HIGH SCHOOL - ROUND 9A
+TOSS-UP
+
+1) Math –
+ 
+Short Answer
+ 
+What is the period of the function with equation
+ 
+y
+ 
+= 3 sine open
+parenthesis 12
+π
+x
+ 
++ 4 close parenthesis minus 7?
+ANSWER: 1/6
+
+BONUS
+
+1) Math –
+ 
+Short Answer
+ 
+Simplify the following sum of two fractions: 1 over log base 3 of 6 +
+1 over log base 12 of 6.
+ANSWER: 2
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+TOSS-UP
+
+2) Energy –
+ 
+Multiple Choice
+ 
+Oak Ridge National Lab has demonstrated that 3D-printed
+magnets made from recycled materials can outperform those created by traditional methods.
+Permanent magnets made from rare-earth lanthanoid
+ 
+[LAN-tha-noyd]
+ 
+elements have partially
+occupied shells of what type?
+W) S
+X) P
+Y) D
+Z) F
+ANSWER: Z) F
+
+BONUS
+
+2) Energy –
+ 
+Short Answer
+ 
+Researchers at Argonne National Lab are developing a new
+understanding of water oxidation via electrocatalysis. Identify all of the following four choices
+that are products of the water oxidation half-reaction: 1) Protons; 2) Molecular oxygen;
+3) Molecular hydrogen; 4) Heavy water.
+ANSWER: 1, 2
+2019 Regional Science Bowl – Round 9A
+ 
+Page 2
+
+TOSS-UP
+
+3) Chemistry –
+ 
+Short Answer
+ 
+Identify all of the following three acids that are diprotic acids:
+1) Hydrochloric acid; 2) Sulfuric acid; 3) Phosphoric acid.
+ANSWER: 2
+
+BONUS
+
+3) Chemistry –
+ 
+Short Answer
+ 
+What is the product of the reaction of ethylene and hydrogen
+bromide?
+ANSWER: BROMOETHANE (ACCEPT: ETHYL BROMIDE)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+TOSS-UP
+
+4) Earth and Space –
+ 
+Short Answer
+ 
+When CO
+ 
+2
+ 
+from the atmosphere dissolves in ocean water,
+it quickly reacts with water to create what neutral acidic species?
+ANSWER: CARBONIC ACID (ACCEPT H
+ 
+2
+ 
+CO
+ 
+3
+ 
+)
+
+BONUS
+
+4) Earth and Space –
+ 
+Short Answer
+ 
+Identify all of the following three regions that are
+typically at low atmospheric pressures due to global atmospheric circulation patterns: 1) ITCZ;
+2) Horse latitudes; 3) Polar front.
+ANSWER: 1, 3
+2019 Regional Science Bowl – Round 9A
+ 
+Page 3
+
+TOSS-UP
+
+5) Biology –
+ 
+Short Answer
+ 
+What is the term for the plant growth response to touch stimuli?
+ANSWER: THIGMOTROPISM
+
+BONUS
+
+5) Biology –
+ 
+Short Answer
+ 
+Steroid hormones are produced in the gonads as well as what other
+organ?
+ANSWER: ADRENAL GLANDS (ACCEPT: SUPRARENAL GLANDS)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+TOSS-UP
+
+6) Physics –
+ 
+Short Answer
+ 
+Truth, beauty, and charm are flavors of what type of particle?
+ANSWER: QUARK (ACCEPT: ANTI-QUARK)
+
+BONUS
+
+6) Physics –
+ 
+Short Answer
+ 
+A 1-ohm resistor and a 2-ohm resistor are connected in parallel to
+an 8-volt battery with internal resistance of 2 ohms. In amperes, how much current flows through
+the 1-ohm resistor?
+ANSWER: 2
+2019 Regional Science Bowl – Round 9A
+ 
+Page 4
+
+TOSS-UP
+
+7) Earth and Space –
+ 
+Short Answer
+ 
+With an apparent magnitude of 3.4, what is the most
+distant celestial object that is reliably visible with the naked eye?
+ANSWER: ANDROMEDA GALAXY
+
+BONUS
+
+7) Earth and Space –
+ 
+Short Answer
+ 
+The Little Ice Age in the 17th century coincided with the
+Maunder minimum, a period of time defined by the observation of very few of what
+astronomical phenomena?
+ANSWER: SUNSPOTS
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+TOSS-UP
+
+8) Biology –
+ 
+Short Answer
+ 
+What gaseous hormone promotes ripening of fruit in many plants?
+ANSWER: ETHYLENE (ACCEPT: ETHENE, C
+ 
+2
+ 
+H
+ 
+4
+ 
+)
+
+BONUS
+
+8) Biology –
+ 
+Short Answer
+ 
+Identify all of the following four cell types that are considered
+white blood cells: 1) T cells; 2) Erythrocytes; 3) Thrombocytes; 4) Neutrophils.
+ANSWER: 1, 4
+2019 Regional Science Bowl – Round 9A
+ 
+Page 5
+
+TOSS-UP
+
+9) Chemistry –
+ 
+Short Answer
+ 
+Identify all of the following three forces that play a role in the
+interparticle interactions for hydrogen chloride: 1) Hydrogen bonding; 2) London dispersion;
+3) Dipole-dipole.
+ANSWER: 2, 3
+
+BONUS
+
+9) Chemistry –
+ 
+Short Answer
+ 
+Rank the following three atoms in terms of increasing
+magnitude of their electron affinities: 1) Lithium; 2) Boron; 3) Carbon.
+ANSWER: 2, 1, 3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+TOSS-UP
+
+10) Physics –
+ 
+Short Answer
+ 
+Birefringence
+ 
+[bye-ree-FRIN-jents]
+ 
+is a phenomenon seen in
+materials whose index of refraction is dependent on the direction of travel and what other
+property of light?
+ANSWER: POLARIZATION
+
+BONUS
+
+10) Physics –
+ 
+Multiple Choice
+ 
+An asteroid with linear momentum is gravitationally captured
+by a planet. Which of the following best explains where the linear momentum of the asteroid
+went?
+W) Converted into angular momentum
+X) Conserved in the asteroid's orbital velocity
+Y) Dissipated by frictional forces
+Z) Translating the planet-asteroid system
+ANSWER: Z) TRANSLATING THE PLANET-ASTEROID SYSTEM
+2019 Regional Science Bowl – Round 9A
+ 
+Page 6
+
+TOSS-UP
+
+11) Math –
+ 
+Short Answer
+ 
+What is the partial derivative with respect to
+ 
+y
+ 
+of the expression
+
+x
+3
+y
+7
+ 
+?
+ANSWER: 7
+x
+3
+y
+6
+
+BONUS
+
+11) Math –
+ 
+Short Answer
+ 
+Other than 5, what is the smallest positive integer that, when
+divided by 6, 8, 10, or 14, has a remainder of 5?
+ANSWER: 845
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+TOSS-UP
+
+12) Energy –
+ 
+Short Answer
+ 
+Researchers at Pacific Northwest National Lab are studying the
+relationship between soil carbon and microbial activity in soils. Most soil carbon is stored
+inorganically as part of what large group of minerals?
+ANSWER: CARBONATES
+
+BONUS
+
+12) Energy –
+ 
+Multiple Choice
+ 
+Fermi National Accelerator scientists are looking for physics
+beyond the Standard Model in the form of decay pathways that do not conserve lepton flavor.
+Which of the following particles has already been observed violating this conservation principle?
+W) Electrons
+X) Neutrinos
+Y) Protons
+Z) Bosons
+ANSWER: X) NEUTRINOS
+2019 Regional Science Bowl – Round 9A
+ 
+Page 7
+
+TOSS-UP
+
+13) Chemistry –
+ 
+Short Answer
+ 
+How many electrons in one atom of elemental sulfur are
+located in
+ 
+s
+-orbitals?
+ANSWER: 6
+
+BONUS
+
+13) Chemistry –
+ 
+Short Answer
+ 
+What gas, whose monomethyl derivative is a component of
+rocket fuel, is formed by bubbling ammonia gas through hypochlorite solution?
+ANSWER: HYDRAZINE (ACCEPT: N
+ 
+2
+ 
+H
+ 
+4
+ 
+)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+TOSS-UP
+
+14) Physics –
+ 
+Multiple Choice
+ 
+Which of the following is closest to the most probable radius,
+in angstroms, of an electron in the ground state of a hydrogen atom?
+W) 0.05
+X) 0.5
+Y) 5
+Z) 50
+ANSWER: X) 0.5
+
+BONUS
+
+14) Physics –
+ 
+Short Answer
+ 
+A parallel circuit consisting of three paths has an equivalent
+resistance of 4 ohms. If one of the paths containing a 12-ohm resistor is disconnected from the
+circuit, then in ohms, what is the new equivalent resistance?
+ANSWER: 6
+2019 Regional Science Bowl – Round 9A
+ 
+Page 8
+
+TOSS-UP
+
+15) Earth and Space –
+ 
+Multiple Choice
+ 
+The Earth’s core contains approximately one-third of
+the Earth’s mass. Which of the following percentages is closest to the percentage of the core’s
+mass that is contained within the outer core?
+W) 5
+X) 30
+Y) 65
+Z) 95
+ANSWER: Z) 95
+
+BONUS
+
+15) Earth and Space –
+ 
+Multiple Choice
+ 
+Which of the following statements is TRUE of lateral
+and medial moraines
+ 
+[mah-RAYNS]
+?
+W) A lateral moraine is a type of medial moraine
+X) A medial moraine is a type of lateral moraine
+Y) Two lateral moraines can merge to form a medial moraine
+Z) Medial moraines are only present at the maximum extent of a glacier, while lateral moraines
+are present along the entirety of a glacier’s flow path.
+ANSWER: Y) TWO LATERAL MORAINES CAN MERGE TO FORM A MEDIAL
+MORAINE
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+TOSS-UP
+
+16) Energy –
+ 
+Multiple Choice
+ 
+Scientists at Pacific Northwest National Lab are supercooling
+liquid water to 136 kelvins, at which it undergoes a phase transition to a glass-like substance.
+Which of the following quantities is positive for the freezing of supercooled liquid water?
+W) Change in enthalpy of the water
+X) Change in entropy of the water
+Y) Change in Gibbs free energy of the water
+Z) Change in entropy of the universe
+ANSWER: Z) CHANGE IN ENTROPY OF THE UNIVERSE
+
+BONUS
+
+16) Energy –
+ 
+Short Answer
+ 
+Researchers at Oak Ridge National Lab are studying the nuclear
+fusion reactions occurring in the Sun using the Titan supercomputer. What is the primary fusion
+pathway that occurs in the Sun?
+ANSWER: PROTON-PROTON CHAIN (ACCEPT: PP CHAIN)
+2019 Regional Science Bowl – Round 9A
+ 
+Page 9
+
+TOSS-UP
+
+17) Biology –
+ 
+Multiple Choice
+ 
+Which of the following organisms is haploid?
+W) Female grasshopper
+X) Male grasshopper
+Y) Female ant
+Z) Male ant
+ANSWER: Z) MALE ANT
+
+BONUS
+
+17) Biology –
+ 
+Short Answer
+ 
+The metal-ligating section of chlorophyll is based on what group
+of organic macrocycles that contain four pyrrole
+ 
+[PEER-ohl]
+ 
+rings?
+ANSWER: PORPHYRIN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+TOSS-UP
+
+18) Earth and Space –
+ 
+Short Answer
+ 
+The Chandra
+ 
+[CHAN-drah]
+ 
+Observatory observes
+radiation in what region of the electromagnetic spectrum?
+ANSWER: X-RAY
+
+BONUS
+
+18) Earth and Space –
+ 
+Short Answer
+ 
+Place the following three natural satellites in order of
+increasing size: 1) Moon; 2) Phobos; 3) Deimos.
+ANSWER: 3, 2, 1
+2019 Regional Science Bowl – Round 9A
+ 
+Page 10
+
+TOSS-UP
+
+19) Math –
+ 
+Short Answer
+ 
+A geometric sequence has second term –5 and third term 3. What is
+its first term?
+ANSWER: 25/3 (ACCEPT: 8 1/3)
+
+BONUS
+
+19) Math –
+ 
+Short Answer
+ 
+To the nearest integer, what is the integral from
+ 
+x
+ 
+= 0 to
+ 
+x
+ 
+= 4 of
+
+x
+ 
+times the square root of open parenthesis
+ 
+x
+2
+ 
++ 9 close parenthesis
+ 
+dx
+?
+ANSWER: 33
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+TOSS-UP
+
+20) Physics –
+ 
+Short Answer
+ 
+Consider a planet that is orbiting the Sun in uniform circular
+motion and has total mechanical energy
+ 
+E
+. What is the total mechanical energy, in terms of
+ 
+E
+, of
+a planet orbiting at twice the radius, also in uniform circular motion?
+ANSWER:
+ 
+E
+/2 (ACCEPT: 0.5
+E
+)
+
+BONUS
+
+20) Physics –
+ 
+Short Answer
+ 
+To the nearest kilojoule, how much work is done by three moles
+of an ideal gas being heated at constant pressure from 43 degrees Celsius to 83 degrees Celsius?
+ANSWER: 1
+2019 Regional Science Bowl – Round 9A
+ 
+Page 11
+
+TOSS-UP
+
+21) Chemistry –
+ 
+Short Answer
+ 
+Identify all of the following three techniques that could
+determine the optical purity of a sample: 1) Polarimetry
+ 
+[polar-IH-meh-tree]
+; 2) Thin-layer
+chromatography; 3) Mass spectrometry.
+ANSWER: 1
+
+BONUS
+
+21) Chemistry –
+ 
+Short Answer
+ 
+Consider a solution of one-molar calcium chloride. At a
+temperature of 60 degrees Celsius and in atmospheres to one significant figure, what is the
+osmotic pressure of this solution?
+ANSWER: 80
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+TOSS-UP
+
+22) Biology –
+ 
+Short Answer
+ 
+In alcohol fermentation, pyruvate is first decarboxylated to form
+what molecule?
+ANSWER: ACETALDEHYDE
+
+BONUS
+
+22) Biology –
+ 
+Short Answer
+ 
+The unsaturated fatty acids present in the cell membrane
+primarily possess what stereochemistry on their double bond?
+ANSWER: CIS (ACCEPT: Z)
+2019 Regional Science Bowl – Round 9A
+ 
+Page 12
+
+TOSS-UP
+
+23) Math –
+ 
+Short Answer
+ 
+What is the greatest integer that is less than or equal to the log base
+2 of 2019?
+ANSWER: 10
+
+BONUS
+
+23) Math –
+ 
+Short Answer
+ 
+If the sides of a triangle have lengths 5, 6, and 9, what is the cosine
+of the largest angle?
+ANSWER: –1/3

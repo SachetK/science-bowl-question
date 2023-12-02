@@ -1,0 +1,761 @@
+2017 Regional High School NSB
+®
+ 
+PAGE 1
+
+ROUND 13A
+
+TOSS-UP
+
+1) Biology
+ 
+– Short Answer
+ 
+What hormone targets the kidneys and stimulates reabsorption of water from urine?
+ANSWER: ADH (ACCEPT: ANTIDIURETIC HORMONE, VASOPRESSIN)
+
+BONUS
+
+1) Biology
+ 
+– Short Answer
+ 
+What thyroid hormone plays a role in inhibiting calcium loss from bones?
+ANSWER: CALCITONIN
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TOSS-UP
+
+2) Physics
+ 
+– Short Answer
+ 
+Identify all of the following 3 changes that would increase the magnetic field outside an
+ideal solenoid of infinite length: 1) Increasing current strength; 2) Increasing turn density; 3) Adding an iron core.
+ANSWER: NONE
+
+BONUS
+
+2) Physics
+ 
+– Short Answer
+ 
+What mineral is commonly used in watch crystals and radio transmitters due to its
+piezoelectric properties?
+ANSWER: QUARTZ
+2017 Regional High School NSB
+®
+ 
+PAGE 2
+
+TOSS-UP
+
+3) Chemistry
+ 
+– Multiple Choice
+ 
+Which of the following statements is TRUE concerning SN
+ 
+2
+ 
+reactions?
+W) Pentavalent
+ 
+[penta-vay-lent]
+ 
+transition state
+X) Pentavalent intermediate
+Y) Trivalent
+ 
+[try-vay-lent]
+ 
+transition state
+Z) Trivalent intermediate
+ANSWER: W) PENTAVALENT TRANSITION STATE
+
+BONUS
+
+3) Chemistry
+ 
+– Short Answer
+ 
+Identify all of the following three statements concerning crystal structures that are true:
+1) The FCC lattice fills volume more efficiently than the BCC lattice; 2) The number of atoms in a BCC unit cell is 4;
+3) The coordination number of an FCC lattice is 12.
+ANSWER: 1 AND 3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TOSS-UP
+
+4) Energy
+ 
+– Multiple Choice
+ 
+Which of the following solar cell systems has the highest efficiency?
+W) Silicon
+X) Gallium
+ 
+[GAL-ee-um]
+ 
+Arsenide
+ 
+[AHR-sin-ide]
+
+Y) Thin Film Photovoltaic
+ 
+[photo-vawl-TAY-ik]
+
+Z) Polymeric
+ 
+[paw-lih-MARE-ik]
+ 
+Photovoltaic
+ANSWER: X) GALLIUM ARSENIDE
+
+BONUS
+
+4) Energy
+ 
+– Multiple Choice
+ 
+Which of the following materials would most likely be used as a catalyst for fuel cells?
+W) Titanium
+X) Silver
+Y) Carbon
+Z) Palladium
+ 
+[puh-LAID-ee-um]
+
+ANSWER: Z) PALLADIUM
+2017 Regional High School NSB
+®
+ 
+PAGE 3
+
+TOSS-UP
+
+5) Math
+ 
+– Multiple Choice
+ 
+Given that the function
+ 
+f
+ 
+of
+ 
+x
+ 
+has a zero at
+ 
+x
+ 
+= 6, at what
+ 
+x
+-value
+must 2 +
+ 
+f
+ 
+of
+ 
+x
+ 
+have a zero?
+W) 3
+
+X) 4
+Y) 8
+Z) It need not have a zero
+ANSWER: Z) IT NEED NOT HAVE A ZERO
+
+BONUS
+
+5) Math
+ 
+– Short Answer
+ 
+What is the real quadratic polynomial with least possible positive integer leading coefficient
+that has 7 – 8
+i
+ 
+as a zero?
+ANSWER:
+ 
+x
+2
+ 
+– 14
+x
+ 
++ 113
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TOSS-UP
+
+6) Earth and Space
+ 
+– Multiple Choice
+ 
+What type of feature is the Moon’s Rupes Recta?
+W) Fault
+X) Ridge
+Y) Bay
+Z) Valley
+ANSWER: W) FAULT
+
+BONUS
+
+6) Earth and Space
+ 
+– Multiple Choice
+ 
+When corals bleach due to warming seas they expel what symbiotic organisms,
+leaving them vulnerable to starvation and disease?
+W) Chlorella
+X) Diatoms
+Y) Zooxanthellae
+Z) Spirogyra
+ANSWER: Y) ZOOXANTHELLAE
+2017 Regional High School NSB
+®
+ 
+PAGE 4
+
+TOSS-UP
+
+7) Biology
+ 
+– Short Answer
+ 
+What is the adjective for the type of nephron
+ 
+[NEF-ron]
+ 
+that possesses long loops of Henle
+
+[HEN-lee]
+ 
+in order to promote water reabsorption?
+ANSWER: JUXTAMEDULLARY
+
+BONUS
+
+7) Biology
+ 
+– Short Answer
+ 
+Rank the following four plasma proteins in terms of increasing mass:
+1) Fibrinogen
+ 
+[fye-BRIN-oh-jen]
+; 2) Transferrin
+ 
+[trans-FEH-rin]
+; 3) Albumin
+ 
+[al-BYOO-min]
+;
+4) Immunoglobulin G
+ 
+[immune-oh-GLOB-yuh-lin G].
+
+ANSWER: 3, 2, 4, 1
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TOSS-UP
+
+8) Physics
+ 
+– Short Answer
+ 
+Modulo a dimensionless constant, the Heisenberg uncertainty principle relates the products
+of momentum and positional uncertainties to what constant?
+ANSWER: PLANCK’S CONSTANT (ACCEPT: REDUCED PLANCK’S)
+
+BONUS
+
+8) Physics
+ 
+– Short Answer
+ 
+In the Grand Unified Theory, which of its three unified forces separates from the other two
+earliest on?
+ANSWER: STRONG (ACCEPT: STRONG NUCLEAR)
+2017 Regional High School NSB
+®
+ 
+PAGE 5
+
+TOSS-UP
+
+9) Energy
+ 
+– Short Answer
+ 
+Rank the following three substances in order of increasing energy density: 1) Bituminous
+coal; 2) Gasoline; 3) TNT.
+ANSWER: 3, 1, 2
+
+BONUS
+
+9) Energy
+ 
+– Multiple Choice
+ 
+Metal-organic frameworks, or MOFs, are a subject of research at Lawrence Berkeley
+National Lab. Which of the following is a potential use of MOFs?
+W) Tools for quantum computing
+X) Developing more accurate predictions via density functional theory
+Y) Efficient storage of gases
+Z) Homogeneous catalysts
+ANSWER: Y) EFFICIENT STORAGE OF GASES
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TOSS-UP
+
+10) Math
+ 
+– Short Answer
+ 
+What is the greatest integer that is less than or equal to the log base 6 of 975?
+ANSWER: 3
+
+BONUS
+
+10) Math
+ 
+– Short Answer
+ 
+To the nearest degree, what is the measure of each interior angle of a regular 65-sided
+polygon?
+ANSWER: 174
+2017 Regional High School NSB
+®
+ 
+PAGE 6
+
+TOSS-UP
+
+11) Earth and Space
+ 
+– Multiple Choice
+ 
+Which of these is true regarding the Sargasso sea?
+W) It has relatively low biological productivity
+X) It is adjacent to the Bay of Bengal
+Y) It is primarily a hypoxic dead zone
+Z) It has the saltiest ocean water
+ANSWER: W) IT HAS RELATIVELY LOW BIOLOGICAL PRODUCTIVITY
+
+BONUS
+
+11) Earth and Space
+ 
+– Short Answer
+ 
+Rank the following three stars in order of increasing surface temperature:
+1) Arcturus; 2) Betelgeuse; 3) The Sun.
+ANSWER: 2, 1, 3 (ACCEPT: BETELGEUSE, ARCTURUS, THE SUN)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TOSS-UP
+
+12) Chemistry
+ 
+– Multiple Choice
+ 
+Which of the following compounds would have the largest retention factor in a TLC
+experiment with a silica stationary phase and hexane mobile phase?
+W) Benzene
+X) Benzoic acid
+ 
+[ben-ZOH-ik]
+
+Y) Phenylacetone
+ 
+[fennel-ASS-eh-tone]
+
+Z) Benzyl
+ 
+[BEN-zil]
+ 
+methyl ether
+ANSWER: X) BENZOIC ACID
+
+BONUS
+
+12) Chemistry
+ 
+– Short Answer
+ 
+Arrange the following three hydrogens in a proton-NMR spectrum in terms of
+increasing chemical shift: 1) Hydrogens in benzene; 2) Aldehyde hydrogen in acetaldehyde
+ 
+[asset-AL-de-hide]
+;
+3) Hydroxyl
+ 
+[high-DROX-il]
+ 
+group in methanol.
+ANSWER: 3, 1, 2
+2017 Regional High School NSB
+®
+ 
+PAGE 7
+
+TOSS-UP
+
+13) Math
+ 
+– Short Answer
+ 
+If the definite integral from 1 to 6 of
+ 
+f
+ 
+of
+ 
+x
+ 
+d
+x
+ 
+= 21, then what is the definite
+integral from 1 to 6 of open parenthesis
+ 
+f
+ 
+of
+ 
+x
+ 
+minus 3 close parenthesis d
+x
+?
+ANSWER: 6
+
+BONUS
+
+13) Math
+ 
+– Short Answer
+ 
+What is the sum of the squares of the first 20 positive integers?
+ANSWER: 2870
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TOSS-UP
+
+14) Physics
+ 
+– Multiple Choice
+ 
+In inductors, the back EMF generated most directly depends on which of the following
+properties of the circuit?
+W) Voltage
+X) Time derivative of voltage
+Y) Current
+Z) Time derivative of current
+ANSWER: Z) TIME DERIVATIVE OF CURRENT
+
+BONUS
+
+14) Physics
+ 
+– Short Answer
+ 
+In an electromagnetic motor, what conductive component generates an electromotive
+force?
+ANSWER: ARMATURE (ACCEPT: ROTATING COIL)
+2017 Regional High School NSB
+®
+ 
+PAGE 8
+
+TOSS-UP
+
+15) Biology
+ 
+– Multiple Choice
+ 
+Which of the following scientific names correctly describes a family of plants?
+W) Quercus rubra
+X) Liliaceae
+ 
+[lilly-AY-see-eye]
+
+Y) Poales
+ 
+[Poh-AY-leez]
+
+Z) Magnoliophyta
+ 
+[mag-NO-lee-oh-FYE-tah]
+
+ANSWER: X) LILIACEAE
+
+BONUS
+
+15) Biology
+ 
+– Short Answer
+ 
+Identify all of the following three statements that are true of second messengers:
+1) Phospholipase
+ 
+[faws-fo-LYE-pace]
+ 
+C catalyzes the release of IP3; 2) Cells store calcium in the nucleus;
+3) Calmodulin
+ 
+[kal-MOD-u-lin]
+ 
+binds to cyclic GMP.
+ANSWER: 1
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TOSS-UP
+
+16) Chemistry
+ 
+– Short Answer
+ 
+What is the empirical formula for the acid anhydride of phosphoric
+ 
+[faws-FOR-ik]
+
+acid?
+ANSWER: P2O5
+
+BONUS
+
+16) Chemistry
+ 
+– Short Answer
+ 
+Identify all of the following four compounds in which London dispersion forces
+dominate intermolecular interactions: 1) Dichloromethane; 2) Neon; 3) Ammonia; 4) Hydrogen.
+ANSWER: 2 AND 4
+2017 Regional High School NSB
+®
+ 
+PAGE 9
+
+TOSS-UP
+
+17) Energy
+ 
+– Multiple Choice
+ 
+DOE scientists at SLAC
+ 
+[slack]
+ 
+have been using the Linac Coherent Light Source to
+study SNARE proteins in the brain. Which of the following processes are SNARE proteins involved with?
+W) Vesicle docking
+X) Actin polymerization
+ 
+[pawl-ih-mer-eh-ZAY-shun]
+
+Y) Intracellular trafficking
+Z) Hormonal signalling
+ANSWER: W) VESICLE DOCKING
+
+BONUS
+
+17) Energy
+ 
+– Multiple Choice
+ 
+Researchers at Lawrence Berkeley National Lab are currently working on optimizing
+plants to produce less lignin. For which of the following are these genetically modified plants likely to be used?
+W) Construction materials
+X) Ethanol production
+Y) Insulation
+Z) Food
+ANSWER: X) ETHANOL PRODUCTION
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TOSS-UP
+
+18) Earth and Space
+ 
+– Multiple Choice
+ 
+Which of the following is closest to the percentage of the Earth's total surface
+water contained in ice caps, glaciers, and permanent snow?
+W) 2
+X) 13
+Y) 25
+Z) 45
+ANSWER: W) 2
+
+BONUS
+
+18) Earth and Space
+ 
+– Multiple Choice
+ 
+The orbital period of Pluto is 248 years. For what percentage of Pluto's orbital
+period is it closer to the Sun than Neptune is?
+W) 8
+X) 24
+Y) 37
+Z) 48
+ANSWER: W) 8
+2017 Regional High School NSB
+®
+ 
+PAGE 10
+
+TOSS-UP
+
+19) Chemistry
+ 
+– Short Answer
+ 
+What is the major acidic species that forms when an acid is dissolved in water?
+ANSWER: HYDRONIUM (ACCEPT: H3O+)
+
+BONUS
+
+19) Chemistry
+ 
+– Short Answer
+ 
+Identify all of the following three compounds that have a higher lattice energy than
+sodium fluoride: 1) Sodium chloride; 2) Aluminum fluoride; 3) Sodium oxide.
+ANSWER: 2 AND 3
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TOSS-UP
+
+20) Biology
+ 
+– Short Answer
+ 
+Which animal phylum
+ 
+[FYE-lum]
+ 
+contains the most extant species?
+ANSWER: ARTHROPODA
+
+BONUS
+
+20) Biology
+ 
+– Short Answer
+ 
+Identify all of the following three nucleobases that are purines
+ 
+[PURE-eenz]
+: 1) Guanine
+
+[GWAH-neen]
+; 2) Uracil
+ 
+[YUR-ah-sil]
+; 3) Thymine
+ 
+[THIGH-meen]
+.
+ANSWER: 1 (ACCEPT: GUANINE)
+2017 Regional High School NSB
+®
+ 
+PAGE 11
+
+TOSS-UP
+
+21) Physics
+ 
+– Short Answer
+ 
+What is the name for the device Michelson and Morley used to disprove the existence of
+luminiferous aether?
+ANSWER: INTERFEROMETER
+
+BONUS
+
+21) Physics
+ 
+– Short Answer
+ 
+A hydrogen atom is in its 4th excited state. What is the value of its principal quantum
+number
+ 
+n
+?
+ANSWER: 5
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+TOSS-UP
+
+22) Earth and Space
+ 
+– Short Answer
+ 
+What is the general term for the formation of mountains?
+ANSWER: OROGENY
+
+BONUS
+
+22) Earth and Space
+ 
+– Short Answer
+ 
+What soil horizon is composed primarily of decaying organic matter?
+ANSWER: O HORIZON
+2017 Regional High School NSB
+®
+ 
+PAGE 12
+
+TOSS-UP
+
+23) Math
+ 
+– Short Answer
+ 
+The point (5, 6) is reflected across the
+ 
+y
+-axis and the resulting point is then translated 4 units
+down. What are the coordinates of the final image point?
+ANSWER: (–5, 2)
+
+BONUS
+
+23) Math
+ 
+– Short Answer
+ 
+At what
+ 
+x
+-value does the maximum value of the function
+
+f
+ 
+of
+ 
+x
+ 
+= 2
+x
+3
+ 
+– 3
+x
+2
+ 
+– 12
+x
+ 
+– 6 occur on the closed interval from –4 to 4?
+ANSWER: 4

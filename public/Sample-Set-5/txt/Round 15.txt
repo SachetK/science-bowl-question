@@ -1,0 +1,2033 @@
+Round 15
+ 
+Page
+ 
+1
+
+ROUND
+ 
+15
+
+TOSS
+-
+UP
+
+1) EARTH AND SPACE
+ 
+Short Answer
+ 
+Name
+ 
+the world’s first
+ 
+successful
+ 
+meteorological
+
+satellite, launched from Cape Canaveral on April 1, 1960, which demonstrated the advantage of
+
+mapping the Earth’s cloud cover from
+ 
+satellite altitudes?
+
+ANSWER: TIROS (ACCEPT: TELEVISION INFRARED OBSERVATION SATELLITE)
+
+BONUS
+
+1)
+ 
+EARTH AND SPACE
+ 
+Short Answer
+ 
+By name or number, identify where fine
+-
+grained
+
+terrigenous deposits are most likely to form: 1) abyssal plains, 2) atolls,
+ 
+3) deep
+-
+sea fans, 4)
+
+continental margins, or 5) elevated oceanic ridges.
+
+ANSWER: ABYSSAL PLAINS (ACCEPT: 1)
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+2) PHYSICS
+ 
+Multiple Choice
+ 
+W
+hich of the following particles
+ 
+are classified as
+ 
+baryons?
+
+W) Weak boson
+
+X) Graviton
+
+Y) Neutrino
+
+Z) Neutron
+
+ANSWER:
+ 
+Z)
+ 
+NEUTRON
+
+BONUS
+
+2) PHYSICS
+ 
+Short Answer
+ 
+A food shipper pushes a wooden crate of lettuce with a total mass
+
+of 14 kilograms across a concrete floor with a constant horizontal force
+ 
+of magnitude 40
+
+newtons. In a straight
+-
+line displacement of magnitude 0.50 meters, the speed of the crate
+
+decreases from 0.60 meters per second to 0.20 meters per second. How much work
+,
+ 
+in joules
+,
+
+is done by the horizontal force?
+
+ANSWER: 20
+Round 15
+ 
+Page
+ 
+2
+
+TOSS
+-
+UP
+
+3
+) EARTH AND SPACE
+ 
+Multiple Choice
+ 
+Which of the following systems of climate
+
+classification is the best
+-
+known and most used?
+
+W) Trewartha
+
+X) Klaus
+
+Y) Köppen
+
+Z) Strahler
+
+ANSWER:
+ 
+Y) KÖPPEN
+
+BONUS
+
+3
+)
+ 
+EARTH AND SPACE
+ 
+Short Answer
+ 
+By name or
+ 
+number, identify
+ 
+all of the following five
+
+sedimentary structures that would indic
+ate the direction of water flow: 1) ripple marks, 2)
+ 
+parallel
+
+lamination
+, 3) flute casts, 4) streamlined islands, 5)
+ 
+cross
+-
+bedding.
+
+ANSWER:
+ 
+RIPPLE MARKS,
+ 
+FLUTE CASTS, STREAMLINED ISLANDS
+,
+ 
+AND CROSS
+-
+
+BEDDING
+ 
+(1, 3
+,
+ 
+4 AND 5
+)
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+4
+) ENERGY
+ 
+Short Answer
+ 
+What
+ 
+specific
+ 
+compound has emerged as a potential redox active
+
+material choice for two
+-
+step thermochemical cycling due to its rapid fuel production kinetics and
+
+high selectivity?
+
+ANSWER:
+ 
+CERIUM
+ 
+(IV)
+ 
+OXIDE
+ 
+(ACCEPT: CeO
+ 
+2
+ 
+, CERIA, CERIC OXIDE
+)
+
+(DO NOT ACCEPT: CERIUM OXI
+DE, CERIUM (III) OXIDE, CERIUM (II) OXIDE)
+
+BONUS
+
+4
+) ENERGY
+ 
+Short Answer
+ 
+A nuclear power plant is situated on the bank of a river. The power
+
+plant produces 200 megawatts of power and releases 1.5
+ 
+×
+ 
+10
+ 
+13
+ 
+joules of heat per day into the
+
+river through the
+ 
+cooling system. If the flow rate of the river is 5.0
+ 
+×
+ 
+10
+ 
+4
+ 
+kilograms per second
+
+and the specific heat of water is 4.2
+ 
+×
+ 
+10
+ 
+3
+ 
+joules per kilogram
+ 
+degree
+ 
+Celsius, what is the
+
+maximum temperature increase
+ 
+of
+ 
+the river water due to the cooling system
+,
+ 
+in
+ 
+degrees Celsius
+
+to the nearest integer
+?
+
+ANSWER:
+ 
+1
+Round 15
+ 
+Page
+ 
+3
+
+TOSS
+-
+UP
+
+5
+) BIOLOGY
+ 
+Short Answer
+ 
+What kind of cells
+, present in most human tissues
+ 
+characteristically
+
+surrounding blood vessels and nerves, has been coined the twin of
+ 
+basophile
+ 
+granulocytes
+
+(re
+ad as:
+ 
+GRAHN
+-
+yuh
+-
+l
+ō
+e
+-
+syt
+s
+)
+?
+
+ANSWER: MAST
+
+BONUS
+
+5
+) BIOLOGY
+ 
+Short Answer
+ 
+An unknown substance is tested by 2 reagents
+.
+ 
+The Lugol’s test
+
+yields a black color while the Benedict’s test yields a light blue color
+.
+ 
+Amylase is added and then
+
+the substance
+ 
+is retested
+.
+ 
+The
+ 
+second
+ 
+Lugol’s test is negative, while the
+ 
+second
+ 
+Benedict’s test
+
+yields a red color. What substances were present before and after
+, respectively,
+ 
+the amylase
+
+was added?
+
+ANSWER: POLYSACCHARIDE (ACCEPT: STARCH, DO NOT ACCEPT: GLYCOGEN)
+ 
+AN
+D
+
+MONOSACCHARIDE (ACCEPT: SIMPLE SUGAR, REDUCING SUGAR)
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+6
+) MATH
+ 
+Short Answer
+ 
+Linear correlation coefficients must lie between what two values?
+
+ANSWER:
+ 
+-
+1 AND 1
+
+BONUS
+
+6
+) MATH
+ 
+Multiple Choice
+ 
+The sum of the squares of reciprocals of all positive integers equals
+
+which of the following?
+
+W)
+ 
+π
+
+X
+)
+ 
+π
+/3
+
+Y)
+ 
+π
+ 
+2
+ 
+/6
+
+Z)
+ 
+π
+ 
+3
+ 
+/12
+
+ANSWER: Y
+)
+ 
+π
+ 
+2
+ 
+/6
+Round 15
+ 
+Page
+ 
+4
+
+TOSS
+-
+UP
+
+7
+) BIOLOGY
+ 
+Short Answer
+ 
+What genus of bacteria uses horizontal gene transfer
+ 
+to cause
+
+tumors in plants?
+
+ANSWER:
+ 
+AGROBACTERIUM
+
+BONUS
+
+7
+) BIOLOGY
+ 
+Short Answer
+ 
+An F1 individual is hete
+rozygous for each of 4
+ 
+traits, A, B, C, and
+
+D
+,
+ 
+and is allowed to self
+-
+fertilize
+.
+ 
+What is the probability that the offspring will be AaBBccDd
+?
+
+AN
+SWER: 1/64
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+8) ENERGY
+ 
+Multiple Choice
+ 
+Plasmas are
+ 
+consider
+ed strongly coupled when
+ 
+the
+ 
+ratio of the
+
+average distance between the particles to the distance of closest approach
+ 
+is
+ 
+which of
+ 
+the
+
+following?
+
+W)
+ 
+S
+mall
+
+X)
+ 
+L
+arge
+
+Y)
+ 
+R
+oughly equal to one
+
+Z)
+ 
+R
+oughly equal to zero
+
+ANSWER: W)
+ 
+SMALL
+
+BONUS
+
+8) ENERGY
+ 
+Short Answer
+ 
+Assuming an equal concentration of each substance,
+ 
+by name or
+
+number,
+ 
+order the following
+ 
+four choices
+ 
+in terms of radia
+tive forcing, from greatest to least:
+ 
+1)
+
+carbon dioxide,
+ 
+2)
+ 
+methane,
+ 
+3)
+ 
+fluorocarbons,
+ 
+4)
+ 
+nitrous oxide.
+
+ANSWER: FLUOROCARBONS, NITROUS OXIDE, METHANE, CARBON DIOXIDE
+ 
+(ACCEPT:
+
+3, 4, 2, 1)
+Round 15
+ 
+Page
+ 
+5
+
+TOSS
+-
+UP
+
+9
+) PHYSICS
+ 
+Multiple Choice
+ 
+Which of the
+ 
+following best represents a closed system?
+
+W) A 2
+-
+liter bottle filled with aquatic plants, a fish, water, and a bit of air, sealed with a tight lid
+
+and placed in a window
+
+X) A terrarium with a closed lid, some plants, and a live boa constrictor
+
+Y) The Ear
+th
+
+Z) The universe
+
+ANSWER: Z)
+ 
+THE UNIVERSE
+
+BONUS
+
+9
+) PHYSICS
+ 
+Short Answer
+ 
+An electron microscope
+ 
+enables
+ 
+observ
+ation of
+ 
+detail on a virus
+
+down to 6
+ 
+nanometers. Given h as
+ 
+6.6 x 10
+ 
+−
+ 
+34
+ 
+joule
+ 
+seconds and the mass of the electron as
+ 
+9
+.1
+
+x 10
+ 
+−
+ 
+31
+ 
+kilograms,
+ 
+providing your answer in scientific notation with two significant digits,
+ 
+how
+ 
+fast
+,
+
+in meters per second
+,
+ 
+must an electron in the microscope be moving to observe detail
+ 
+of
+ 
+this
+
+size?
+
+ANSWER:
+ 
+1.2
+ 
+×
+ 
+10
+ 
+5
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+10) BIOLOGY
+ 
+Multiple Choice
+ 
+Which of the following statements is NOT true about the G
+
+protein hormone receptor system?
+
+W) It is an example of membrane
+-
+based signal transduction
+
+X) It res
+ults in an amplification of the original signal
+
+Y) The hormone is a ligand for the G protein
+
+Z) The G protein must be able to move along the membrane
+
+ANSWER:
+ 
+Y)
+ 
+THE HORMONE IS A LIG
+AND FOR THE G PROTEI
+N
+
+BONUS
+
+10) BIOLOGY
+ 
+Multiple Choice
+ 
+Some disease
+-
+causing microbes attack the body by turning on
+
+or off specific signal transduction pathways. In the disease cholera, for example, a toxin from
+
+the bacterium
+ 
+Vibrio cholera
+ 
+enters intestinal cells and chemically modifies G proteins. Once
+
+modifi
+ed, the G proteins can no longer cleave GTP into GDP. Which of the following would you
+
+expect to see within the intestinal cells of a person with cholera?
+
+W)
+ 
+The G proteins remain activated and continually activate adenylyl cylase
+
+X)
+ 
+The G proteins cannot
+ 
+become activated and cannot activate adenylyl cylase
+
+Y)
+ 
+The G protein subunits do not separate from each other
+
+Z)
+ 
+The receptor in the membrane is continually activated
+
+ANSWER:
+ 
+W)
+ 
+THE G PROTEINS REMAI
+N ACTIVATED AND CONT
+INUALLY ACTIVATE
+
+ADENYLYL CYLASE
+Round 15
+ 
+Page
+ 
+6
+
+TOSS
+-
+UP
+
+1
+1
+) MATH
+ 
+Multiple Choice
+ 
+Whi
+ch of the following is NOT true?
+
+W)
+ 
+A
+ 
+rational function’s graph may intersect its horizontal asymptote
+
+X)
+ 
+A
+ 
+rational function’s graph may intersect one of its vertical asymptotes
+
+Y)
+ 
+The
+ 
+function
+ 
+f
+(
+x
+) =
+ 
+-
+1/
+x
+ 
+is its own inverse
+
+Z)
+ 
+The
+ 
+function
+ 
+f
+(
+x
+) =
+ 
+-
+x
+ 
+is its own inverse
+
+ANSWER: X) A RATIONAL FUNCTION’S GRAPH MAY INTERSECT ONE OF ITS VERTICAL
+
+ASYMPTOTES
+
+BONUS
+
+1
+1
+) MATH
+ 
+Short Answer
+ 
+A rectangular box has the dimensions 6 inches by 10 inches by 12
+
+inches. Wh
+at is the length of the space
+ 
+diagonal in inches
+,
+ 
+in simplest radical form?
+
+ANSWER: 2
+ 
+70
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+1
+2) CHEMISTRY
+ 
+Short Answer
+ 
+To identify the chemical compounds dissolved in a sample, a
+
+student dips a clean piece of nichrome wire into the sample and burns it in a flame. By name or
+
+nu
+mber, identify all
+ 
+of the following
+ 
+five
+ 
+substances
+ 
+that
+ 
+might be p
+resent if the flame burns
+
+blue: 1) selenium
+, 2
+) sodium, 3) arsenic,
+ 
+4) boron, 5) lead.
+
+ANS
+WER: SELENIUM, ARSENIC, LEAD (ACCEPT: 1, 3
+,
+ 
+5)
+
+BONUS
+
+1
+2) CHEMISTRY
+ 
+Short Answer
+ 
+Given tha
+t the balanced chemical equation
+ 
+for the reaction of
+
+oxygen and ethane is: 2C
+ 
+2
+ 
+H
+ 
+6(g)
+ 
++ 7O
+ 
+2(g)
+ 
+→
+ 
+4CO
+ 
+2(g)
+ 
++ 6H
+ 
+2
+ 
+O
+ 
+(g)
+ 
+, if 16 grams of O
+ 
+2
+ 
+react with excess
+
+C
+ 
+2
+ 
+H
+ 
+6
+ 
+,
+ 
+to the nearest gram,
+ 
+how many grams of CO
+ 
+2
+ 
+will be formed?
+
+ANSWER: 13
+Round 15
+ 
+Page
+ 
+7
+
+TOSS
+-
+UP
+
+1
+3
+) EARTH AND SPACE
+ 
+Short Answer
+ 
+What kind of surveying attempts to determine what the
+
+sea floor looks like, focusing on water depth and nature of sea floor material,
+ 
+and supporting
+
+activities such as nautical charting, dredging, coastal engineering, and offshore resource
+
+development?
+
+ANSWER: HYDROGRAPHIC
+
+BONUS
+
+1
+3
+) EARTH AND SPACE
+ 
+Short Answer
+ 
+In Long Island’s Peconic Bays, a bloom of small
+
+marine algae called
+ 
+Aureococcus anophagefferens
+ 
+(read as:
+ 
+ohr
+-
+ee
+-
+oh
+-
+ 
+KOH
+-
+kuhs
+ 
+ah
+-
+noh
+-
+fah
+-
+
+geh
+-
+FEH
+-
+rehns
+)
+ 
+turned the water a deep brown. By name or number, identify
+ 
+all
+ 
+of the following
+
+four
+ 
+organisms
+ 
+that
+ 
+were
+ 
+physically harmed
+ 
+by this brown tide
+: 1) scallops, 2) eelgrass, 3)
+
+humans, 4) mussels.
+
+ANSWER: SCALLOPS, EELGRASS, MUSSELS (ACCEPT: 1, 2
+,
+ 
+4)
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+14
+) CHEMISTRY
+ 
+Short Answer
+ 
+How many lone pairs of electrons are on the
+ 
+phosphorus
+ 
+atom
+
+in PF
+ 
+3
+ 
+?
+
+ANSWER: 1
+
+BONUS
+
+14
+) CHEMISTRY
+ 
+Short Answer
+ 
+Given the balanced chemical equation:
+
+H
+ 
+2
+ 
+SO
+ 
+4(aq)
+ 
++
+ 
+2NaOH
+ 
+(aq)
+ 
+→
+ 
+Na
+ 
+2
+ 
+SO
+ 
+4(aq)
+ 
++ 2H
+ 
+2
+ 
+O
+ 
+(
+ 
+l
+ 
+)
+ 
+, in an acid
+-
+base titration, 25
+ 
+milliliters of 0.2 molar
+
+H
+ 
+2
+ 
+SO
+ 
+4
+ 
+w
+ere
+ 
+required to neutralize 100 milliliters of NaOH solution. Providing your answer as a
+
+decimal to the nearest tenth, what is the molarity of the NaOH solution?
+
+ANSWER:
+ 
+0.1
+Round 15
+ 
+Page
+ 
+8
+
+TOSS
+-
+UP
+
+1
+5
+) BIOLOGY
+ 
+Short Answer
+ 
+What cellular process, associated with
+ 
+regeneratio
+n, can
+
+spontaneously occur in lower animals
+ 
+but not
+ 
+in
+ 
+humans?
+
+ANSWER: DEDIFFERENT
+IATION
+
+BONUS
+
+1
+5
+) BIOLOGY
+ 
+Short Answer
+ 
+By number, order the following
+ 
+four
+ 
+steps from earliest to latest in
+
+an action potential: 1) sodium channel inactivati
+on gates close and gated potassium channels
+
+open; 2) leak potassium channels are open and all gated channels are closed; 3) activation
+
+gates of some sodium channels open; 4) voltage gated sodium activation channels open.
+
+ANSWER: 2, 3, 4, 1
+
+______________
+_________________________________________
+
+TOSS
+-
+UP
+
+16
+)
+ 
+CHEMISTRY
+ 
+Multiple Choice
+ 
+Which of the following molecules contains only one non
+-
+
+bonding pair of valence electrons?
+
+W)
+ 
+HCN
+
+X)
+ 
+NH
+ 
+4
++
+
+Y) C
+ 
+2
+ 
+H
+ 
+4
+
+Z) N
+ 
+2
+
+ANSWER:
+ 
+W
+) HCN
+
+BONUS
+
+16
+) CHEMISTRY
+ 
+Short Answer
+ 
+Given the balanced equation: 2C
+ 
+4
+ 
+H
+ 
+10(g)
+ 
++ 13O
+ 
+2(g)
+ 
+→
+ 
+8CO
+ 
+2(g)
+ 
++
+
+10H
+ 
+2
+ 
+O
+ 
+(g)
+ 
+, what is the percent yield of water if 15 moles of water is obtained when 4 moles of
+
+butane is burned in excess oxygen?
+
+ANSWER: 75%
+Round 15
+ 
+Page
+ 
+9
+
+TOSS
+-
+UP
+
+1
+7
+) MATH
+ 
+Short Answer
+ 
+What is the name of the point at which the three angle bisectors of a
+
+triangle intersect?
+
+ANSWER: INCENTER
+
+BONUS
+
+1
+7
+) MATH
+ 
+Short Answer
+ 
+Each of the following equations represents a plane:
+ 
+x
+ 
+–
+ 
+y
+ 
+= 6;
+
+2
+x
+ 
+–
+ 
+3
+z
+ 
+= 16; 2
+y
+ 
++
+ 
+z
+ 
+= 4.
+ 
+At which
+ 
+point
+ 
+(
+x, y, z
+),
+ 
+will they intersect?
+
+ANSWER: (8, 2, 0)
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+18
+) PHYSICS
+ 
+Short Answer
+ 
+Air resistance
+ 
+is a function of the effective cross sectional area of
+
+the body, the drag coefficient, and what other two variables?
+
+ANSWER: AIR DENSITY AND VELOCITY
+
+BONUS
+
+18
+) PHYSICS
+ 
+Short Answer
+ 
+A 2.0 kilogram possum hangs from a tree limb
+ 
+5 meters
+ 
+above the
+
+g
+round. Assuming that the gravitational potential energy is zero at
+ 
+y
+ 
+= 0 and that g is 9.8 meters
+
+per second squared, what is the gravitational potential energy
+,
+ 
+to the nearest
+ 
+joule
+,
+ 
+of the
+
+possum
+-
+Earth system if we take the reference point
+ 
+y
+ 
+= 0 to be 1.
+0 meters above the limb?
+
+ANSWER:
+ 
+-
+20
+Round 15
+ 
+Page
+ 
+10
+
+TOSS
+-
+UP
+
+1
+9
+) BIOLOGY
+ 
+Multiple Choice
+ 
+In ecology, there are two rules
+ 
+t
+h
+at
+ 
+identify relationships
+
+between the animal’s habitat and
+ 
+it
+s shape and structure. Bergmann’s
+ 
+r
+ule predicts
+ 
+that
+ 
+body
+
+size decreases
+ 
+in
+ 
+proximity to
+ 
+the equator
+,
+ 
+while Allen’s rule predicts that appendages increase
+
+in size
+ 
+in proximity to
+ 
+the equator. Which of the following represents the basis for these
+
+predictions?
+
+W) Small animals have a higher survival rate at the equator because of t
+he dense foliage
+
+X) There is less competition for food in the Arctic, so animals can grow larger
+
+Y) Animals with a low surface area to volume ratio can conserve heat
+ 
+more easily
+
+Z) The foundation for understanding both
+ 
+r
+ule
+s
+ 
+is based on Gloger’s
+ 
+r
+ule
+
+ANSW
+ER:
+ 
+Y) ANIMALS WITH A LO
+W SURFACE AREA TO VO
+LUME RATIO CAN
+
+CONSERVE HEAT
+ 
+MORE EASILY
+
+BONUS
+
+1
+9
+) BIOLOGY
+ 
+Short Answer
+ 
+By
+ 
+name or
+ 
+number, identify
+ 
+all
+ 
+of the following
+ 
+five
+ 
+interactions
+
+that
+ 
+are typically
+ 
+interspecific and result in one species benefitting while the other is ha
+rmed: 1)
+
+mutualism, 2) amensalism
+, 3)
+ 
+parasitism
+, 4) commensalism,
+ 
+5) herbivory
+.
+
+ANSWER:
+ 
+PARASITISM
+,
+ 
+HERBIVORY
+ 
+(ACCEPT:
+ 
+3 AND 5
+)
+
+__________________________________________________
+____
+
+TOSS
+-
+UP
+
+2
+0
+) CHEMISTRY
+ 
+Short Answer
+ 
+What is the hybridization of the xenon atom in xenon
+
+tetrafluoride?
+
+ANSWER: sp
+ 
+3
+ 
+d
+ 
+2
+
+BONUS
+
+2
+0
+) CHEMISTRY
+ 
+Short Answer
+ 
+A 2.00 mole sample of ammonium nitrate is decomposed in a
+
+bomb calorimeter. The temperature of the calorimeter increases by 12
+ 
+Kelvin
+. The heat capacity
+
+of the system i
+s
+ 
+1.5 kilojoules per
+ 
+Kelvin
+. What is the molar heat of decomposition of ammonium
+
+nitrate
+ 
+in kilojoules?
+
+ANSWER:
+ 
+9
+Round 15
+ 
+Page
+ 
+11
+
+TOSS
+-
+UP
+
+21
+) PHYSICS
+ 
+Multiple Choice
+ 
+Assuming
+ 
+negligible
+ 
+air
+ 
+resistance
+, which of the following
+
+statements is TRUE about two
+-
+dimensional projectile motion?
+
+W) The vertical motion is dependent on the horizontal motion
+
+X)
+ 
+The horizontal motion is dependent on the vertical motion
+
+Y) The horizontal motion and vertical motion are
+ 
+both dependent on the projectile’s acceleration
+
+vector
+
+Z) The horizontal motion and vertical motion are
+ 
+independent of each other
+
+ANSWER:
+ 
+Z
+)
+ 
+THE
+ 
+HORIZONTAL MOTION AN
+D VERTICAL MOTION AR
+E INDEPENDENT
+
+OF EACH OTHER
+
+BONUS
+
+2
+1) PHYSICS
+ 
+Short Answer
+ 
+A
+ 
+falling cat reaches a first terminal speed of 100 kilometers per
+
+hour while it is tucked in and then stretches out, doubling its effective cross
+-
+sectional area
+
+without changing its drag coefficient. P
+roviding your answer to the nearest ten, how fast is it
+
+falling in meters per second when it reaches a new terminal speed?
+
+ANSWER: 70
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+2
+2
+) EARTH AND SPACE
+ 
+Short Answer
+ 
+What is the term for the global variation in sea level
+
+brought about by a
+ 
+change in the volume of water occupying the ocean basins?
+
+ANSWER:
+ 
+EUSTASY
+
+BONUS
+
+2
+2
+) EARTH AND SPACE
+ 
+Multiple Choice
+ 
+Which of the
+ 
+following was the LEAST common
+ 
+use
+
+of a
+ 
+typical astrolabe?
+
+W) Finding the time of day
+
+X) Finding the time of a
+ 
+celestial event
+
+Y) Reference f
+or
+ 
+celestial positions
+
+Z) Maritime navigational instrument
+
+ANSWER:
+ 
+Z)
+ 
+MARITIME
+ 
+NAVIGATIONAL INSTRUMENT
+Round 15
+ 
+Page
+ 
+12
+
+TOSS
+-
+UP
+
+23
+) PHYSICS
+ 
+Multiple Choice
+ 
+Which of the following is the most accurate description of
+
+charging
+ 
+by induction?
+
+W) It
+ 
+depends on putting two objects in actual physical contact with each other
+
+X) It
+ 
+depends on t
+he use of friction
+
+Y) It
+ 
+depends on the use of a ground to redistribute charges
+
+Z) It
+ 
+depends on gain of electrons during chemical reactions
+
+ANSWER:
+ 
+Y) IT DEPENDS
+ 
+ON THE USE OF A GROU
+ND TO REDISTRIBUTE C
+HARGES
+
+BONUS
+
+23
+) PHYSICS
+ 
+Short Answer
+ 
+Providing your answer in scientific notation with one significant
+
+digit, calculate the de Broglie wavelength
+,
+ 
+in meters
+,
+ 
+of a car
+ 
+with a
+ 
+mass
+ 
+o
+f
+ 
+1600 kilograms
+
+traveling at a speed of 40 meters per second.
+
+ANSWER: 1
+ 
+×
+ 
+10
+ 
+−
+ 
+38
+
+_______________________________________________________
+
+TOSS
+-
+UP
+
+2
+4
+) ENERGY
+ 
+Multiple Choice
+ 
+Which of the following is NOT an advantage of radio
+-
+frequency
+
+accelerators?
+
+W)
+ 
+The t
+echnology is well established
+
+X) Emittance dominates transverse beam dynamics during acceleration and storage, rather than
+
+space charge
+
+Y) Obtaining the required ion energy is straightforward due to the high acceleration gradients in
+
+radio
+-
+frequenc
+y structures
+
+Z) Storage rings are not needed since beams can be compressed in length as they are
+
+accelerated
+
+ANSWER:
+ 
+Z)
+ 
+STORAGE RINGS ARE NO
+T NEEDED SINCE BEAMS
+ 
+CAN BE COMPRESSED
+
+IN LENGTH AS THEY AR
+E ACCELERATED
+
+BONUS
+
+2
+4
+) ENERGY
+ 
+Short Answer
+ 
+By nam
+e or number, o
+rder the following processes from first to last
+
+in a gas turbine operating under an actual Brayton
+ 
+c
+ycle:
+ 
+1)
+ 
+heat rejection,
+ 
+2)
+ 
+expansion,
+ 
+3)
+ 
+heat
+
+addition,
+ 
+4)
+ 
+compression.
+
+ANSWER: COMPRESSION, HEAT ADDITION, EXPANSION, HEAT REJECTION
+ 
+(ACCEPT:
+
+4, 3, 2, 1)
+Round 15
+ 
+Page
+ 
+13
+
+TOSS
+-
+UP
+
+2
+5
+) MATH
+ 
+Multiple Choice
+ 
+You are conducting an experiment.
+ 
+In a large elementary school,
+
+you select two age
+-
+matched groups of students. Group 1 follows a normal schedule. Group 2
+
+spends 30 minutes a day in art class
+ 
+in
+ 
+addition to their other classes.
+ 
+You want to test whether
+
+learning art makes a student less likely to
+ 
+get in trouble
+. You consider a student in trouble if he
+
+or she was sent to the principal’s office at any time during the year. The data you collect would
+
+BEST be analyzed by which of the following?
+
+W) Two populations, difference in means, paired data
+
+X) Two populations, difference in means, unpaired data
+
+Y)
+ 
+Two populations, difference in proportions
+
+Z)
+ 
+Two populations,
+ 
+contingency table
+
+ANSWER:
+ 
+Y
+)
+ 
+TWO
+ 
+POPULATIONS, DIFFERE
+NCE IN PROPORTIONS
+
+BONUS
+
+2
+5
+) MATH
+ 
+Short Answer
+ 
+Water flows at 10 cubic feet per minute into a cylinder with a radius of
+
+5 feet
+ 
+and height of 12 feet
+. Providing your answer as a fraction in simplest form in terms of
+ 
+π
+,
+
+how fast is
+ 
+the water rising in fee
+t per minute when the height is 4 feet
+?
+
+ANSWER:
+ 
+2
+
+5
+π

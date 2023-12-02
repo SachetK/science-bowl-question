@@ -1,0 +1,1248 @@
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+1
+
+ROUND 6
+
+TOSS
+-
+UP
+
+1) PHYSICS
+ 
+Short Answer
+ 
+What is the resulting electrical potential, in volts, when a charge of 12
+
+coulombs is applied to a 1 farad capacitor?
+
+ANSWER: 12
+
+BONUS
+
+1) PHYSICS
+ 
+Multiple Choice
+ 
+Which of the following is NOT true
+:
+
+W) the magnetic field associated with the current on a straight long wire is inversely proportional to
+
+the distance from the wire
+
+X) Kirchhoff’s first rule has to do with the accounting of total charges entering and leaving a
+
+junction per unit time
+
+Y)
+ 
+superconducting quantum interference devices, or SQUID’s, are based on the Josephson Effect
+
+Z) resistance and voltage are the two most common parameters used to characterize a resistor
+
+ANSWER: Z) RESISTANCE AND VOLTAGE ARE THE TWO MOST COMMON
+
+PARAMET
+ERS USED TO CHARACTERIZE A RESISTOR
+
+TOSS
+-
+UP
+
+2) CHEMISTRY
+ 
+Multiple Choice
+ 
+Which of the following is NOT a colligative property:
+
+W) vapor pressure lowering
+
+X) osmotic pressure
+
+Y) boiling point elevation
+
+Z) color of solution
+
+ANSWER: Z) COLOR O
+F SOLUTION
+
+BONUS
+
+2) CHEMISTRY
+ 
+Multiple Choice
+ 
+Which of the following is a type of colloid that is classified as a
+
+sol at room temperature:
+
+W) gelatin
+
+X) milk
+
+Y) whipped cream
+
+Z) marshmallow
+
+ANSWER: W) GELATIN
+
+(Solution: sol is a solid dispe
+rsed in a liquid)
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+2
+
+TOSS
+-
+UP
+
+3) BIOLOGY
+ 
+Multiple Choice
+ 
+Which of the following tissues is MOST directly responsible for
+
+the increased diameter of a tree trunk from year to year:
+
+W) apical meristem
+
+X) pericycle
+
+Y) vascular cambium
+
+Z) pith
+
+ANSWER: Y
+) VASCULAR CAMBIUM
+
+BONUS
+
+3) BIOLOGY
+ 
+Short Answer
+ 
+Name all of the following 3 metabolic processes which directly
+
+require oxygen: glycolysis; alcohol fermentation; electron transport system
+
+ANSWER: ELECTRON TRANSPORT SYSTEM
+
+TOSS
+-
+UP
+
+4) MATH
+ 
+S
+hort Answer
+ 
+Convert log base 4 of 53 into a base 10 expression:
+
+ANSWER:
+ 
+4
+log
+
+53
+log
+ 
+(ACCEPT:
+ 
+4
+log
+
+53
+log
+
+10
+
+10
+ 
+)
+
+BONUS
+
+4) MATH
+ 
+Short Answer
+ 
+Consider a 6
+-
+sided irregular polygon whose perimeter is 100 centimeters.
+
+If 4 of the sid
+es have a length of 7 centimeters each, what is the length, in centimeters, of each of the
+
+remaining two sides if they are congruent?
+
+ANSWER: 36
+
+(Solution: 100
+ 
+–
+ 
+28 = 72; 72/2 = 36cm)
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+3
+
+TOSS
+-
+UP
+
+5) EARTH SCIENCE
+ 
+Multiple Choice
+ 
+Which of the followin
+g is a man
+-
+made coastal structure
+
+that causes coastal erosion by blocking oceanic longshore drift:
+
+W) jetty
+
+X) barrier island
+
+Y) atoll
+
+Z) fringing reef
+
+ANSWER: W) JETTY
+
+BONUS
+
+5) EARTH SCIENCE
+ 
+Short Answer
+ 
+Used as a way to categorize rivers and
+ 
+streams, what is the
+
+term for the volume of water flowing through the cross
+-
+section of a channel over a given period of
+
+time?
+
+ANSWER: DISCHARGE (ACCEPT: DISCHARGE RATE)
+
+TOSS
+-
+UP
+
+6) GENERAL SCIENCE
+ 
+Multiple Choice
+ 
+Case hardening is a process th
+rough which:
+
+W) the surface of a metal is hardened
+
+X) the metal is hardened completely through
+
+Y) the hardness of a metal is determined
+
+Z) metals are shaped or formed
+
+ANSWER: W) THE SURFACE OF A METAL IS HARDENED
+
+BONUS
+
+6) GENERAL SCIENCE
+ 
+Multip
+le Choice
+ 
+The oil used with an oil
+-
+immersion objective in
+
+compound light microscopes takes advantage of what optical phenomenon to improve
+
+magnification:
+
+W) chromatic coherence
+
+X) index of refraction
+
+Y) polarization
+
+Z) dispersion
+
+ANSWER: X)
+ 
+INDEX
+ 
+OF REFRACTION
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+4
+
+TOSS
+-
+UP
+
+7) ASTRONOMY
+ 
+Multiple Choice
+ 
+Which of the following is NOT true:
+
+W) the rotation of the Sun’s surface is faster at the equator than at the poles
+
+X)
+ 
+the apparent magnitude of an RR Lyrae depends most on its distance from the E
+arth
+
+Y) Venus appears its largest to nighttime observers when it is in its full phase
+
+Z) a star’s light curve typically plots brightness verses time
+
+ANSWER: Y) VENUS APPEARS ITS LARGEST TO NIGHTTIME OBSERVERS WHEN IT IS
+
+IN ITS FULL PHASE
+
+BONUS
+
+7) A
+STRONOMY
+ 
+Multiple Choice
+ 
+Which of the following techniques would you most directly be
+
+using if you were analyzing a Balmer and Lyman series:
+
+W) astrolabe measurements
+
+X) spectroscopy
+
+Y) nuclear fission
+
+Z) bolometric analysis
+
+ANSWER: X) SPECTROSCO
+PY
+
+TOSS
+-
+UP
+
+8) PHYSICS
+ 
+Multiple Choice
+ 
+Which of the following is the strongest spectral line in the visible
+
+region of the hydrogen spectrum:
+
+W) red Balmer line
+
+X) orange Lyman line
+
+Y) green Paschen line
+
+Z) blue Brackett line
+
+ANSWER: W) RED BAL
+MER LINE
+
+BONUS
+
+8) PHYSICS
+ 
+Multiple Choice
+ 
+Which of the following has the highest vapor pressure at standard
+
+temperature and pressure:
+
+W) mercury
+
+X) ethyl alcohol
+
+Y) methyl alcohol
+
+Z) acetone
+
+ANSWER: Z) ACETONE
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+5
+
+TOSS
+-
+UP
+
+9) CHEMISTRY
+ 
+Multiple
+ 
+Choice
+ 
+According to the Arrhenius theory, an Arrhenius acid is any
+
+substance that does which of the following in a chemical reaction:
+
+W) donates a pair of electrons
+
+X) accepts a pair of electrons
+
+Y) produces H
+ 
++
+ 
+ions in aqueous solution
+
+Z) produces O
+H
+ 
+–
+ 
+ions in aqueous solution
+
+ANSWER: Y) PRODUCES H
++
+ 
+IONS IN AQUEOUS SOLUTION
+
+BONUS
+
+9) CHEMISTRY
+ 
+Short Answer
+ 
+If you were to evaporate 1 liter or kilogram of water, how many
+
+calories of latent heat are stored in the vapor?
+
+ANSWER: 540,000 (ACCEPT:
+ 
+5.4
+ 
+×
+ 
+10
+5
+ 
+)
+
+(Solution: lat heat
+ 
+vap
+ 
+= 540cal/g)
+
+TOSS
+-
+UP
+
+10) BIOLOGY
+ 
+Short Answer
+ 
+During meiosis, how many chromatids are in a chromosomal tetrad?
+
+ANSWER: 4
+
+BONUS
+
+10) BIOLOGY
+ 
+Multiple Choice
+ 
+Which of the following is NOT true of nucleated m
+ammalian
+
+cells:
+
+W) mast cells contain large amounts of histamine
+
+X) the golgi apparatus processes proteins for exocytosis
+
+Y) microtubules are components in cilia
+
+Z) all the DNA in a nucleated cell is in the nucleus
+
+ANSWER: Z)
+ 
+ALL THE DNA IN A HUM
+AN
+ 
+NUCLEATED CELL IS IN
+ 
+THE NUCLEUS
+
+(Solution: mitochondrial DNA is present)
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+6
+
+TOSS
+-
+UP
+
+11) MATH
+ 
+Short Answer
+ 
+Solve the following equation for
+ 
+x
+:
+
+x
+2
+ 
+–
+ 
+20
+x
+ 
++ 19 = 0
+
+ANSWER: 19 AND 1
+
+BONUS
+
+11) MATH
+ 
+Short Answer
+ 
+Express the following radical in it
+s simplest radical form:
+
+)
+80
+(
+2
+ 
+3
+4
+2
+ 
+c
+b
+a
+!
+
+ANSWER:
+ 
+c
+c
+ab
+ 
+5
+8
+ 
+2
+
+!
+
+TOSS
+-
+UP
+
+12) EARTH SCIENCE
+ 
+Multiple Choice
+ 
+Which of the following is NOT true about Earth’s history:
+
+W) the Ordovician Period predates the Silurian Period
+
+X) we cu
+rrently live in the Cenozoic Era
+
+Y) we currently live in the Pleistocene Epoch
+
+Z) the Holocene Epoch began about 10,000 years ago
+
+ANSWER: Y) WE CURRENTLY LIVE IN THE PLEISTOCENE EPOCH
+
+BONUS
+
+12) EARTH SCIENCE
+ 
+Multiple Choice
+ 
+Which of the followin
+g is the global wind system that
+
+most influences weather in the U.S.:
+
+W) prevailing westerlies
+
+X) tropical easterlies
+
+Y) trade winds
+
+Z) polar easterlies
+
+ANSWER: W) PREVAILING WESTERLIES
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+7
+
+TOSS
+-
+UP
+
+13) GENERAL SCIENCE
+ 
+Short Answer
+ 
+One metric ton e
+quals how many grams?
+
+ANSWER: ONE MILLION (ACCEPT: 1
+ 
+×
+ 
+10
+6
+ 
+or 10
+ 
+6
+ 
+)
+
+BONUS
+
+13) GENERAL SCIENCE
+ 
+Short Answer
+ 
+Gout in humans is the result of the precipitation of what
+
+substance in joints?
+
+ANSWER: URIC ACID (ACCEPT: LITHIC ACID or TRIKETOPURINE)
+
+TOSS
+-
+UP
+
+14) ASTRONOMY
+ 
+Short Answer
+ 
+With reference to the Sun’s position in the sky, when does a full
+
+Moon set?
+
+ANSWER: WHEN THE SUN RISES
+
+BONUS
+
+14) ASTRONOMY
+ 
+Short Answer
+ 
+In a Newtonian telescope, how many degrees is the secondary
+
+mirror tilt
+ed in reference to the primary?
+
+ANSWER: 45
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+8
+
+TOSS
+-
+UP
+
+15) PHYSICS
+ 
+Multiple Choice
+ 
+If 1000 pounds is applied to a spring with spring constant of 100
+
+pounds per inch on top of a hydraulic piston, how many pounds of force is transferred to the piston:
+
+W)
+ 
+1,000
+
+X) 900
+
+Y) 100
+
+Z) zero
+
+ANSWER: W) 1,000
+
+BONUS
+
+15) PHYSICS
+ 
+Multiple Choice
+ 
+If the atomic mass of carbon
+-
+12 is exactly 12 atomic mass units,
+
+why is the atomic mass of carbon not exactly 12 when listed on the Periodic Table:
+
+W) the mass
+ 
+deficit
+
+X) neutrons are not the same mass as protons
+
+Y) it adds the mass of the electrons
+
+Z) the presence in nature of about 1.1% carbon
+-
+13
+
+ANSWER: Z) THE PRESENCE IN NATURE OF ABOUT 1.1% CARBON
+-
+13
+
+TOSS
+-
+UP
+
+16) CHEMISTRY
+ 
+Short Answer
+ 
+How many
+ 
+carbon and hydrogen atoms are in a cyclopentane
+
+molecule?
+
+ANSWER: CARBON = 5; HYDROGEN = 10
+
+BONUS
+
+16) CHEMISTRY
+ 
+Short Answer
+ 
+What is the systematic IUPAC name for the following acid:
+
+HClO
+
+ANSWER: HYPOCHLOROUS ACID
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+9
+
+TOSS
+-
+UP
+
+17) BIOLOGY
+ 
+Short
+ 
+Answer
+ 
+What specific part of any member of the
+ 
+Anthophyta
+ 
+produces
+
+pollen?
+
+ANSWER: STAMEN (ACCEPT: ANTHER)
+
+BONUS
+
+17) BIOLOGY
+ 
+Short Answer
+ 
+Which one of the following 4 plant groups is phenotypically and
+
+phylogenetically LEAST related to the other
+s: ferns; liverworts; hornworts; mosses
+
+ANSWER: FERNS
+
+TOSS
+-
+UP
+
+18) MATH
+ 
+Short Answer
+ 
+Subtract the following complex numbers, giving your answer in standard
+
+form: (11
+ 
+–
+ 
+4
+i
+)
+ 
+–
+ 
+(
+–
+3 + 3
+i
+)
+
+ANSWER: 14
+ 
+–
+ 
+7
+i
+
+BONUS
+
+18) MATH
+ 
+Short Answer
+ 
+Solve t
+he following inequality for
+ 
+x
+, giving your answer in fractional
+
+form:
+ 
+2
+
+6
+
+5
+
+3
+
+2
+
+3
+
+1
+ 
+!
+<
++
+ 
+x
+x
+
+ANSWER:
+ 
+x
+ 
+>
+ 
+3
+
+16
+ 
+(ACCEPT:
+ 
+x
+ 
+> 5
+ 
+3
+
+1
+ 
+)
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+10
+
+TOSS
+-
+UP
+
+19) EARTH SCIENCE
+ 
+Multiple Choice
+ 
+The time interval between the ge
+neration of P and S
+
+waves from its arrival at a seismometer is BEST translated as:
+
+W) the magnitude of the earthquake
+
+X) the distance to the epicenter
+
+Y) the wave height of a potential tsunami
+
+Z) the distance to the nearest fault zone
+
+ANSWER: X) TH
+E DISTANCE TO THE EPICENTER
+
+BONUS
+
+19) EARTH SCIENCE
+ 
+Multiple Choice
+ 
+Which of the following is NOT true:
+
+W) sea levels dropped during the Pleistocene glaciation making the Bering Strait a land bridge
+
+X) large animals such as the mastodon and dire wo
+lves became extinct at the end of the Pleistocene
+
+Y) the Holocene may be an interglacial stage
+
+Z) recent ice ages are thought to be controlled by uniformitarian cycles
+
+ANSWER: Z) RECENT ICE AGES ARE THOUGHT TO BE CONTROLLED BY
+
+UNIFORMITARIAN CYCLES
+
+TOSS
+-
+UP
+
+20) GENERAL SCIENCE
+ 
+Short Answer
+ 
+What substance made of several fibrous materials was
+
+widely used in the 20
+ 
+th
+ 
+century for its heat resistant properties but is now banned because it can
+
+cause lung cancer when inhaled?
+
+ANSWER: ASBESTOS
+
+BONUS
+
+20) GENERAL SCIENCE
+ 
+Short Answer
+ 
+What is the medical term for the type of lung cancer
+
+specifically associated with asbestosis?
+
+ANSWER: MESOTHELIOMA
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+11
+
+TOSS
+-
+UP
+
+21) ASTRONOMY
+ 
+Short Answer
+ 
+What planet is never more than 28º from the Sun in the evenin
+g
+
+sky?
+
+ANSWER: MERCURY
+
+BONUS
+
+21) ASTRONOMY
+ 
+Multiple Choice
+ 
+At 8:00 AM in early August of 2006 in New York, the Moon
+
+could be seen low in the western sky. What phase was it most likely in:
+
+W) waxing crescent
+
+X) just past new
+
+Y) a few days past fu
+ll
+
+Z) first quarter
+
+ANSWER: Y) A FEW DAYS PAST FULL
+
+TOSS
+-
+UP
+
+22) PHYSICS
+ 
+Short Answer
+ 
+How many nodes are there in the first overtone in a standing wave of
+
+a vibrating guitar string?
+
+ANSWER: 3
+
+BONUS
+
+22) PHYSICS
+ 
+Short Answer
+ 
+If g = 9.8 m
+eters per second squared, to the first decimal place and in
+
+newtons, how many newtons of force are required to keep a 500 kilogram slab of granite moving
+
+across a horizontal surface at constant speed if there is a kinetic frictional coefficient of 0.10
+
+bet
+ween the surface and the slab?
+
+ANSWER: 490
+
+(Solution: 0.1
+ 
+×
+ 
+500kg
+ 
+×
+ 
+9.8m/s
+ 
+2
+ 
+= 490N)
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+12
+
+TOSS
+-
+UP
+
+23) CHEMISTRY
+ 
+Multiple Choice
+ 
+Organic compounds that contain double bonds are said to be:
+
+W) saturated
+
+X) unsaturated
+
+Y) unable to undergo cis
+-
+trans is
+omerization
+
+Z) unable to undergo addition reactions
+
+ANSWER: X) UNSATURATED
+
+BONUS
+
+23) CHEMISTRY
+ 
+Short Answer
+ 
+Arrange the following 4 elements in order of increasing atomic
+
+radii: lithium; oxygen; potassium; sodium
+
+ANSWER: OXYGEN; LITHIUM; S
+ODIUM; POTASSIUM
+
+TOSS
+-
+UP
+
+24) BIOLOGY
+ 
+Short Answer
+ 
+Which one of the following 4 animal groups is LEAST closely
+
+related to the others: brachiopods; gastropods; cephalopods; bivalves
+
+ANSWER: BRACHIOPODS
+
+BONUS
+
+24) BIOLOGY
+ 
+Short Answer
+ 
+From t
+he OUTSIDE to the INSIDE, name the 3 embryonic germ
+
+layers in mammals:
+
+ANSWER: ECTODERM; MESODERM; ENDODERM
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+13
+
+TOSS
+-
+UP
+
+25) CHEMISTRY
+ 
+Multiple Choice
+ 
+Which of the following is NOT true:
+
+W) actinides are characterized by occupying the f
+-
+block of the
+ 
+periodic table
+
+X) lanthanides are characterized by occupying the d
+-
+block of the periodic table
+
+Y) alkali metals are the most reactive of all metallic elements
+
+Z) actinides are metals
+
+ANSWER: X) LANTHANIDES ARE CHARACTERIZED BY OCCUPYING THE D
+-
+BLOCK
+
+O
+F THE PERIODIC TABLE
+
+BONUS
+
+25) CHEMISTRY
+ 
+Short Answer
+ 
+In standard chemical nomenclature, what is the complete electron
+
+configuration for the sodium ion, Na
+ 
++
+ 
+?
+
+ANSWER: 1s
+ 
+2
+ 
+2s
+ 
+2
+ 
+2p
+6
+ 
+(ACCEPT: 1s
+ 
+2
+ 
+2s
+ 
+2
+ 
+2p
+6
+ 
+3s
+ 
+0
+ 
+)

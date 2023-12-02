@@ -1,0 +1,1418 @@
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+1
+
+ROUND 9
+
+TOSS
+-
+UP
+
+1) PHYSICS
+ 
+Multiple Choice
+ 
+Resonance in a musical instrument is MOST directly exemplified
+
+by:
+
+W) sympathetic harmonic vibration
+
+X) destructive
+ 
+interference
+
+Y) dissonance in the standing wave
+
+Z) diffraction
+
+ANSWER: W
+) SYMPATHETIC HARMONIC VIBRATION
+
+BONUS
+
+1) PHYSICS
+ 
+Short Answer
+ 
+The specific heat of a certain metal is 0.750 joules per gram
+ 
+k
+elvin
+.
+
+How much heat, in joules
+ 
+to the nearest whole number
+, will it take to increase
+ 
+the temperature of
+
+0.5
+0
+ 
+kilograms of
+ 
+the metal from 25ºC to 50ºC?
+
+ANSWER: 9,375
+
+(Solution:
+ 
+Δ
+H = (0.75 J/g
+·
+K)(500g)(25K) = 9,375J)
+
+TOSS
+-
+UP
+
+2) CHEMISTRY
+ 
+Multiple Choice
+ 
+Solvents, such as water, that can both donate and accept protons
+
+are typically described as:
+
+W) resonant
+
+X) meta
+lloid
+
+Y) amphoteric
+
+Z) polyprotic
+
+ANSWER: Y) AMPHOTERIC
+
+BONUS
+
+2) CHEMISTRY
+ 
+Multiple Choice
+ 
+When going from left to right, elements in the same period of
+
+the Periodic Table have progressively smaller atomic radii because of:
+
+W) increased effect
+ive nuclear charge
+
+X) decreased effective nuclear charge
+
+Y) addition of electrons
+
+Z) addition of neutrons
+
+ANSWER: W) INCREASED EFFECTIVE NUCLEAR CHARGE
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+2
+
+TOSS
+-
+UP
+
+3) BIOLOGY
+ 
+Multiple Choice
+ 
+Which of the following is missing in bryophytes and is an
+
+evolutionary advancement of higher plants:
+
+W) vascular tissue
+
+X) epidermal tissue
+
+Y) chloroplasts
+
+Z) plasmodesmata (read as: PLAS
+-
+mo
+-
+dez
+-
+MAH
+-
+tah)
+
+ANSWER: W)
+ 
+VASCULAR TISSUE
+
+BONUS
+
+3) BIOLOGY
+ 
+Short Answer
+ 
+If the flower color red is dominant an
+d white is recessive, what will be
+
+the expected phenotypic ratio of red to white flowers in the first generation of a cross between parent
+
+plants both heterozygous for flower color?
+
+ANSWER: 3 TO 1
+
+TOSS
+-
+UP
+
+4)
+ 
+MATH
+ 
+Short Answer
+ 
+What is the domain an
+d range for the function defined by the following
+
+set of three ordered pairs: {(
+–
+2, 6), (0, 9), (3, 7)}
+
+ANSWER: DOMAIN =
+ 
+–
+2, 0, 3; RANGE = 6, 9, 7
+
+BONUS
+
+4)
+ 
+MATH
+ 
+Short Answer
+ 
+Giving your answer in centimeters to the nearest whole number, what is
+
+the perimeter of a
+ 
+closed
+ 
+quarter
+-
+circle whose radius is 12 centimeters?
+
+ANSWER: 43
+
+(Solution: curve of circle =
+ 
+¼
+ 
+π
+d = 6
+π
+ 
+= 18.84; sides = 12 + 12 = 24; 24 + 18.84 = 42.8cm)
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+3
+
+TOSS
+-
+UP
+
+5) EARTH SCIENCE
+ 
+Multiple Choice
+ 
+What type of stream only bears water during and
+
+immediately after a rainstorm:
+
+W) ephemeral
+
+X) intermittent
+
+Y) p
+erennial
+
+Z) dendritic
+
+ANSWER: W) EPHEMERAL
+
+BONUS
+
+5) EARTH SCIENCE
+ 
+Multiple Choice
+ 
+Which of the following is NOT true about ocean tides:
+
+W) the Moon’s influence on Earth’s tides is about 2
+-
+times greater than the Sun’s influence
+
+X) a complete tid
+al day is about 24 hours 50 minutes long
+
+Y) some coastlines have 2 high tides and 2 low tides each lunar day whereas some have only have 1
+
+high tide and 1 low tide each lunar day
+
+Z) spring high tides typically have greater ranges in the Northern Hemisphe
+re
+ 
+during
+ 
+summer than
+
+during winter
+
+ANSWER: Z) SPRING HIGH TIDES TYPICALLY HAVE GREATER RANGES IN THE
+
+NORTHERN HEMISPHERE
+ 
+DURING
+ 
+SUMMER THAN DURING WINTER
+
+(Solution: during winter at perihelion, Earth is closer to the Sun)
+
+TOSS
+-
+UP
+
+6) GENERAL SCIE
+NCE
+ 
+Short Answer
+ 
+What neurotransmitter is deficient in Parkinson’s disease?
+
+ANSWER: DOPAMINE
+
+BONUS
+
+6) GENERAL SCIENCE
+ 
+Multiple Choice
+ 
+Which of the following is the BEST reason why
+
+Parkinson’s disease cannot be treated by simply administering dopa
+mine into the blood stream:
+
+W) dopamine’s blood half
+-
+life is too short
+
+X) dopamine will not cross the blood brain barrier
+
+Y) dopamine is the precursor to the real effective transmitter in Parkinson’s disease
+
+Z) it is not known why dopamine will not wo
+rk if administered directly into the blood
+
+ANSWER: X) DOPAMINE WILL NOT CROSS THE BLOOD BRAIN BARRIER
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+4
+
+TOSS
+-
+UP
+
+7) ASTRONOMY
+ 
+Multiple Choice
+ 
+Which of the following was the primary instrument used to
+
+gather 5 to 35 micrometer spectra data from the Dee
+p Impact mission:
+
+W) Chandra X
+-
+ray observatory
+
+X) Arecibo radio telescope
+
+Y) Hubble gamma
+-
+ray telescope
+
+Z) Spitzer infrared spectrograph
+
+ANSWER: Z) SPITZER INFRARED SPECTROGRAPH
+
+BONUS
+
+7) ASTRONOMY
+ 
+Multiple choice
+ 
+By what multiple does the brig
+htness of two stars differ with
+
+apparent magnitudes of
+ 
+–
+3 and +4:
+
+W) 2.5
+
+X) 25
+
+Y) 250
+
+Z) 625
+
+ANSWER: Z) 625
+
+TOSS
+-
+UP
+
+8) PHYSICS
+ 
+Short Answer
+ 
+What is the acceleration, in meters per second squared, o
+f
+ 
+a
+
+10
+-
+kilogram snow sled that is on a f
+rictionless horizontal surface if a
+ 
+horizontal
+ 
+force of 500 newtons
+
+is applied to it?
+
+ANSWER: 50
+
+(Solution: A = F/M; A = 500/10; A = 50 m/sec
+2
+ 
+)
+
+BONUS
+
+8) PHYSICS
+ 
+Multiple Choice
+ 
+What is the speed of light in meters per second for monochromatic
+
+li
+ght of 780 nanometers in glass with a refractive index of 1.55:
+
+W) 1.5
+ 
+×
+ 
+10
+ 
+8
+
+X) 1.9
+ 
+×
+ 
+10
+8
+
+Y) 4.65
+ 
+×
+ 
+10
+7
+
+Z) 4.65
+ 
+×
+ 
+10
+ 
+8
+
+ANSWER: X) 1.9
+ 
+×
+ 
+10
+8
+
+(Solution: 3.00
+ 
+×
+ 
+10
+ 
+8
+ 
+/1.55 = 1.9
+ 
+×
+ 
+10
+8
+ 
+)
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+5
+
+TOSS
+-
+UP
+
+9) CHEMISTRY
+ 
+Multiple Choice
+ 
+Which of the following is a
+ 
+nonpolar molecule:
+
+W) HCN
+
+X) HBr
+
+Y) CHCl
+3
+
+Z) CO
+ 
+2
+
+ANSWER: Z) CO
+ 
+2
+
+BONUS
+
+9) CHEMISTRY
+ 
+Multiple Choice
+ 
+Which of the following is the general formula for a noncyclic
+
+alkene (read carefully as: al
+-
+KEEN) with
+ 
+n
+ 
+number of carbon atoms:
+
+W) C
+ 
+n
+ 
+H
+ 
+2n
+
+X)
+ 
+C
+n
+ 
+H
+ 
+2n+2
+
+Y) C
+n
+ 
+H
+ 
+2n
+–
+2
+
+Z) C
+ 
+n
+ 
+H
+ 
+2n+1
+
+ANSWER: W) C
+ 
+n
+ 
+H
+ 
+2n
+
+TOSS
+-
+UP
+
+10) BIOLOGY
+ 
+Short Answer
+ 
+In photosystem one, when NADP
+ 
++
+ 
+forms NADPH with the catalytic
+
+help of NADP
+ 
++
+ 
+reductase, from what specific place in the chloroplast are the hydrogen ions derived?
+
+ANSWER: STROMA
+
+BONUS
+
+10) BIOLOGY
+ 
+Multiple Choice
+ 
+The conversion of pyruvate to Acetyl Co
+-
+A occurs:
+
+W) in the cytosol
+
+X) in the ER
+
+Y) in the mitochondrion
+
+Z) in the lysosome
+
+ANSWER: Y) IN THE MITOCHONDRION
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+6
+
+TOSS
+-
+UP
+
+11)
+ 
+MATH
+ 
+Short Answer
+ 
+Wh
+at is the degree of the following monomial:
+ 
+–
+6
+x
+2
+ 
+y
+4
+ 
+z
+3
+
+ANSWER: 9
+
+BONUS
+
+11)
+ 
+MATH
+ 
+Short Answer
+ 
+Find the number of sides in a regular polygon if each interior angle
+
+measures 176 degrees:
+
+ANSWER: 90
+
+(Solution: (
+n
+ 
+–
+ 
+2)180º = 176
+n
+;
+ 
+n
+ 
+= 90)
+
+TOSS
+-
+UP
+
+12) EARTH SCIENCE
+ 
+Multiple Choice
+ 
+Which of the following is LEAST accurate regarding
+
+paleontology:
+
+W) endothermic mammals thrived during the Cenozoic Era
+
+X) the fossil records of birds is poor because of their thin bones and lack of teeth
+
+Y) the mas
+todon was a Proboscidian mammal of the Cenozoic Era
+
+Z) trilobites are an important index fossil of the Mesozoic Era
+
+ANSWER: Z) TRILOBITES ARE AN IMPORTANT INDEX FOSSIL OF THE MESOZOIC ERA
+
+BONUS
+
+12) EARTH SCIENCE
+ 
+Multiple Choice
+ 
+Deposited by subgla
+cial streams, ridges of sand and
+
+gravel that form beneath the ablation zone of a glacier are called:
+
+W) cirques
+
+X) eskers
+
+Y) horns
+
+Z) kames
+
+ANSWER: X) ESKERS
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+7
+
+TOSS
+-
+UP
+
+13) GENERAL SCIENCE
+ 
+Multiple Choice
+ 
+Which of the following is MOST commonly u
+sed for
+
+removing many organic compounds in water in municipal water treatment plants:
+
+W) activated charcoal
+
+X) precipitation reactions
+
+Y) reverse osmosis
+
+Z) dredging
+
+ANSWER: W) ACTIVATED CHARCOAL
+
+BONUS
+
+13) GENERAL SCIENCE
+ 
+Multiple Choice
+ 
+Which
+ 
+of the following is NOT true:
+
+W) the epilimnion is the upper warm layer of water of a lake in summer
+
+X) in cameras, the larger the f
+-
+number, the greater the depth of field
+
+Y) crab grass is better adapted to hot dry weather than Kentucky blue grass
+
+Z)
+ 
+Listeria
+ 
+is a waterborne parasite
+
+ANSWER: Z)
+ 
+LISTERIA
+ 
+IS A WATERBORNE PARASITE
+
+(Solution: it is food
+-
+borne)
+
+TOSS
+-
+UP
+
+14) ASTRONOMY
+ 
+Multiple Choice
+ 
+Which of the following is LEAST accurate:
+
+W) recent evidence suggests a subsurface salty ocean i
+s present on the Moon Europa
+
+X) spiral galaxies are actively forming stars
+
+Y) Earth’s aphelion occurs on the summer solstice
+
+Z) Julian days are often used as the time reference on light curves of stars
+
+ANSWER: Y) EARTH’S APHELION OCCURS ON THE SUMMER
+ 
+SOLSTICE
+
+BONUS
+
+14) ASTRONOMY
+ 
+Multiple Choice
+ 
+What would happen in the mid
+-
+northern latitudes if the tilt of
+
+the Earth’s axis decreased by 15 degrees:
+
+W) warmer summers and warmer winters
+
+X) cooler summers and cooler winters
+
+Y) cooler summers and
+ 
+warmer winters
+
+Z) colder summers and colder winters
+
+ANSWER: Y) COOLER SUMMERS AND WARMER WINTERS
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+8
+
+TOSS
+-
+UP
+
+15) PHYSICS
+ 
+Multiple Choice
+ 
+Which of the following is generally NOT true regarding diffraction
+
+of light:
+
+W) when white light is passed throu
+gh a diffraction grating, shorter wavelengths are diffracted the
+
+most
+
+X) diffraction is wavelength dependent
+
+Y) if laser light is passed through a diffraction grating it will produce an interference pattern as a
+
+series of dots on a screen
+
+Z)
+ 
+white light
+ 
+passing through a diffraction grating is spread into a rainbow of colors
+
+ANSWER: W) WHEN WHITE LIGHT IS PASSED THROUGH A DIFFRACTION GRATING,
+
+SHORTER WAVELENGTHS ARE DIFFRACTED THE MOST
+
+BONUS
+
+15) PHYSICS
+ 
+Short Answer
+ 
+A 300
+-
+newton box is placed on
+ 
+an inclined plane that makes a 45º
+
+angle with the horizontal. Find the component of the
+ 
+box’s
+ 
+weight parallel to the plane’s surface, in
+
+newtons to the nearest whole number:
+
+ANSWER: 212 (ACCEPT: 213)
+
+(Solution: F = (300N)sin 45
+º = 300N
+ 
+×
+ 
+0.707 = 212
+.1N)
+
+TOSS
+-
+UP
+
+16) CHEMISTRY
+ 
+Multiple Choice
+ 
+Dalton’s gas law applies primarily to:
+
+W) non
+-
+ideal gases
+
+X) gas mixtures
+
+Y) density of gases
+
+Z) molar mass of gas
+
+ANSWER: X) GAS MIXTURES
+
+BONUS
+
+16)
+ 
+CHEMISTRY
+ 
+Multiple Choice
+ 
+The oxidation numb
+er of oxygen is
+ 
+–
+1 in:
+
+W) normal oxides
+
+X) peroxides
+
+Y) superoxides
+
+Z) lithium oxide
+
+ANSWER: X) PEROXIDES
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+9
+
+TOSS
+-
+UP
+
+17) BIOLOGY
+ 
+Multiple Choice
+ 
+According to the 3 domain system of classification with the 3
+
+domains being,
+ 
+Archaea
+,
+ 
+Bacteria
+ 
+and
+ 
+Eu
+karya
+, which of the following would be LEAST likely to
+
+belong to the domain
+ 
+Bacteria
+:
+
+W) chlamydia
+
+X) spirochetes (read as: spy
+-
+row
+-
+keets)
+
+Y) gram positive bacteria
+
+Z) non
+-
+nucleated thermophiles
+
+ANSWER: Z) NON
+-
+NUCLEATED THERMOPHILES
+
+BONUS
+
+17) B
+IOLOGY
+ 
+Multiple Choice
+ 
+In which of the following does the RUBISCO enzyme play a
+
+central role:
+
+W) Photosystem One
+
+X) Electron Transport
+
+Y) Photosystem Two
+
+Z) Calvin Cycle
+
+ANSWER: Z)
+ 
+CALVIN CYCLE
+
+TOSS
+-
+UP
+
+18)
+ 
+MATH
+ 
+Short Answer
+ 
+Giving your ans
+wer in simplest radical form, rationalize the denominator
+
+of the following expression:
+ 
+)
+3
+(
+
+1
+
+x
+−
+
+ANSWER:
+ 
+x
+
+x
+
+−
+
++
+
+9
+
+3
+
+BONUS
+
+18)
+ 
+MATH
+ 
+Short Answer
+ 
+Solve the following equation for
+ 
+x
+ 
+over the set of complex numbers
+,
+
+giving y
+our answer in simplest form
+:
+ 
+x
+2
+ 
+–
+ 
+10
+x
+ 
++ 34 = 0
+
+ANSWER: 5 ± 3
+i
+ 
+(ACCEPT: 5 + 3
+i
+ 
+AND 5
+ 
+–
+ 
+3
+i
+)
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+10
+
+TOSS
+-
+UP
+
+19) EARTH SCIENCE
+ 
+Multiple Choice
+ 
+A hurricane originating in the Eastern tropical Atlantic is
+
+driven westward by:
+
+W) the intertropical convergenc
+e zone
+
+X) the prevailing westerlies
+
+Y) the easterly trade winds
+
+Z) the doldrums
+
+ANSWER: Y) THE EASTERLY TRADE WINDS
+
+BONUS
+
+19) EARTH SCIENCE
+ 
+Multiple Choice
+ 
+Which of the following is NOT a silicate:
+
+W) mica
+
+X) galena
+
+Y) olivine
+
+Z) potassium
+ 
+feldspar
+
+ANSWER: X) GALENA
+
+TOSS
+-
+UP
+
+20) GENERAL SCIENCE
+ 
+Short Answer
+ 
+What technique
+,
+ 
+used by the U.S. Navy in military
+
+exercises
+ 
+and
+ 
+suspected of harming many marine species
+,
+ 
+is the focus of a
+ 
+recent agreement to not
+
+run these exercises within 40
+ 
+kilometers of the new Hawaiian Islands Marine Reserve?
+
+ANSWER: SONAR (ACCEPT: MIN
+-
+RANGE SONAR)
+
+BONUS
+
+20) GENERAL SCIENCE
+ 
+Short Answer
+ 
+Name all of the following 5 celestial bodies that have
+
+atmospheres composed primarily of nitrogen: Earth; Uranu
+s; Venus; Pluto; Titan
+
+ANSWER: EARTH; PLUTO; TITAN
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+11
+
+TOSS
+-
+UP
+
+21) ASTRONOMY
+ 
+Short Answer
+ 
+A stargazer looks at Orion and sees a reddish star called
+
+Betelgeuse. The redness is because the star is what type of star?
+
+ANSWER:
+ 
+A RED GIANT
+
+BONUS
+
+21
+) ASTRONOMY
+ 
+Short Answer
+ 
+What is the MOST common name for the celestial objects that
+
+are called stars but since they are low mass objects of less than 0.08 solar masses they cannot
+
+undergo fusion?
+
+ANSWER: BROWN DWARFS
+
+TOSS
+-
+UP
+
+22) PHYSICS
+ 
+Short A
+nswer
+ 
+The lens
+-
+maker’s equation relates the focal length of a glass lens to
+
+the radii of curvature of the lens’s two surfaces and what other property of the lens?
+
+ANSWER:
+ 
+INDEX OF REFRACTION (ACCEPT: REFRACTIVE INDEX)
+
+BONUS
+
+22) PHYSICS
+ 
+Short Ans
+wer
+ 
+Green light has a wavelength of 500 nanometers. What is its
+
+associated frequency, in hertz?
+
+ANSWER: 6
+ 
+×
+ 
+10
+14
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+12
+
+TOSS
+-
+UP
+
+23) CHEMISTRY
+ 
+Short Answer
+ 
+A molecule that contains 4 carbon
+-
+hydrogen single bonds and one
+
+carbon
+-
+carbon double bond contains
+ 
+how many sigma and pi bonds, respectively?
+
+ANSWER: SIGMA = 5; PI = 1
+
+BONUS
+
+23)
+ 
+CHEMISTRY
+ 
+Short Answer
+ 
+What is the systematic IUPAC name for the compound RbClO
+ 
+4
+ 
+?
+
+ANSWER:
+ 
+RUBIDIUM PERCHLORATE
+
+(DO NOT ACCEPT: RUBIDIUM ONE PERCHLORATE)
+
+TOSS
+-
+U
+P
+
+24) BIOLOGY
+ 
+Short Answer
+ 
+Animal tissues are generally divided into four main types. If three of
+
+them are, connective, nervous, and muscle, what is the fourth tissue?
+
+ANSWER: EPITHELIAL
+ 
+(ACCEPT: EPITHELIUM)
+
+BONUS
+
+24) BIOLOGY
+ 
+Short Answer
+ 
+Ord
+er the following 4 choices from the SMALLEST to the
+
+LARGEST, assuming average size for each: erythrocyte; mitochondrion; polio virus; macrophage
+
+ANSWER: POLIO VIRUS; MITOCHONDRION; ERYTHROCYTE; MACROPHAGE
+2007
+ 
+Regional Science Bowl
+ 
+–
+ 
+Page
+ 
+13
+
+TOSS
+-
+UP
+
+25) CHEMISTRY
+ 
+Short Answer
+ 
+What is the pH of a solution having a hydroxide ion concentration
+
+of 1
+ 
+×
+ 
+10
+–
+5
+ 
+M
+?
+
+ANSWER: 9
+
+BONUS
+
+25) CHEMISTRY
+ 
+Short Answer
+ 
+At standard temperature and pressure, if a sample of argon has a
+
+volume of 67 liters, how many moles of argon are in the sa
+mple, to the nearest whole number?
+
+ANSWER: 3
+
+(Solution: (67L)(1mol Ar/22.4L) = 3 mol Ar)
